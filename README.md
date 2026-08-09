@@ -186,7 +186,12 @@ It helps answer:
 The system provides feature-level explanations and feature importance visualizations to improve transparency and user trust.
 
 ---
+## 🌐 Live Demo
 
+### 🚀 [AccessIQ – Smart Accessibility Assessment System](https://accessiq-sakoumzm8ervdbxtpmk8fk.streamlit.app/)
+
+**Try the live application:**  
+https://accessiq-sakoumzm8ervdbxtpmk8fk.streamlit.app/
 # 🏗️ System Architecture
 
 ```text
@@ -219,5 +224,4 @@ The system provides feature-level explanations and feature importance visualizat
                         ▼
                  User Insights
 
-# Live Link
-https://accessiq-sakoumzm8ervdbxtpmk8fk.streamlit.app/
+
