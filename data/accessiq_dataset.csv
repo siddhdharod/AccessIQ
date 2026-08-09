@@ -1,0 +1,1001 @@
+Location_ID,Location_Name,Location_Type,City,State,Latitude,Longitude,Ramp_Available,Elevator_Available,Wheelchair_Entrance,Braille_Signage,Audio_Announcements,Accessible_Washroom,Tactile_Path,Reserved_Parking,Footpath_Condition,Lighting,Safety_Level,CCTV_Available,Public_Transport_Nearby,Parking_Available,Crowd_Level,Average_Waiting_Time,Daily_Footfall,User_Rating,Accessibility_Complaints,Last_Inspection_Months,Number_of_Floors,Lift_Condition,Emergency_Exit_Accessibility,Accessibility_Score,Accessibility_Category,Improvement_Priority
+LOC0001,Patna Medical Center,Hospital,Patna,Bihar,25.575764,85.245179,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Average,Good,Medium,Yes,Yes,Yes,High,10,923,3.3,5,18,5,Average,Partial,77.2,Good,Medium
+LOC0002,Hyderabad Central Station,Railway Station,Hyderabad,Telangana,17.332748,78.447838,Yes,Yes,Yes,Yes,No,Yes,No,No,Average,Average,Low,Yes,Yes,No,Low,12,17156,3.1,6,5,1,Poor,Partial,65.8,Average,Medium
+LOC0003,Lucknow International Airport,Airport,Lucknow,Uttar Pradesh,26.9262,80.986615,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Average,Average,Medium,Yes,Yes,Yes,Medium,21,12506,3.4,0,19,2,Average,Yes,93.4,Excellent,Low
+LOC0004,Indore General Hospital,Hospital,Indore,Madhya Pradesh,22.719913,75.753394,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Poor,Average,Medium,Yes,No,Yes,Medium,14,3816,3.1,1,16,3,Good,Yes,79.1,Good,Medium
+LOC0005,Delhi Plaza Mall,Mall,Delhi,Delhi,28.811084,77.180056,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Poor,Medium,Yes,Yes,Yes,Medium,29,10345,3.5,3,14,3,Good,Partial,92,Excellent,Low
+LOC0006,Delhi Plaza Mall,Mall,Delhi,Delhi,28.696147,77.032593,Yes,Yes,Yes,No,No,Yes,No,Yes,Average,Average,High,Yes,Yes,Yes,High,14,19577,2.8,6,14,5,Good,No,71.5,Average,Medium
+LOC0007,Delhi Railway Station,Railway Station,Delhi,Delhi,28.567573,77.083029,No,No,No,No,Yes,No,No,Yes,Poor,Good,High,Yes,Yes,Yes,High,40,18158,3.2,6,3,2,NA,Yes,50.4,Poor,High
+LOC0008,Delhi Railway Station,Railway Station,Delhi,Delhi,28.593647,77.155798,No,No,No,Yes,No,No,No,Yes,Average,Average,Low,Yes,Yes,Yes,High,16,11857,2.5,3,17,1,NA,Partial,37.6,Poor,High
+LOC0009,Visakhapatnam Multispeciality Hospital,Hospital,Visakhapatnam,Andhra Pradesh,17.715613,83.348407,Yes,Yes,Yes,No,No,Yes,No,Yes,Good,Good,Medium,Yes,No,Yes,High,14,2603,5,3,10,7,Average,Yes,92.1,Excellent,Medium
+LOC0010,Delhi Health Centre,Hospital,Delhi,Delhi,28.6472,76.995662,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Average,Low,Yes,No,Yes,High,6,2914,3.8,2,6,2,Good,Yes,98.9,Excellent,Medium
+LOC0011,Thane Temple Complex,Tourist Attraction,Thane,Maharashtra,19.318338,72.843689,No,No,No,No,No,No,No,Yes,Average,Good,Medium,Yes,Yes,No,Low,3,477,2.2,1,3,1,NA,Yes,51.4,Poor,Medium
+LOC0012,Hyderabad Shopping Mall,Mall,Hyderabad,Telangana,17.333249,78.450539,No,No,Yes,Yes,No,No,No,No,Average,Good,Medium,Yes,No,Yes,High,41,8046,4.3,2,3,5,NA,Yes,61.8,Average,Medium
+LOC0013,Nashik Botanical Garden,Tourist Attraction,Nashik,Maharashtra,20.087765,73.817905,No,No,Yes,No,Yes,No,Yes,No,Poor,Poor,Medium,Yes,Yes,Yes,Medium,23,589,3.5,1,11,1,NA,Partial,42.1,Poor,High
+LOC0014,Thiruvananthapuram City Bus Stop,Bus Stop,Thiruvananthapuram,Kerala,8.575469,76.886691,No,Yes,Yes,Yes,Yes,Yes,No,No,Poor,Poor,Medium,Yes,Yes,No,Medium,24,2025,3.5,4,11,1,Poor,Yes,56.6,Average,Medium
+LOC0015,Thane Bus Stand,Bus Stop,Thane,Maharashtra,19.31592,72.916708,No,Yes,No,No,Yes,No,No,No,Poor,Average,High,No,Yes,No,High,2,2617,2.3,5,0,1,Good,No,38.9,Poor,High
+LOC0016,Visakhapatnam Health Centre,Hospital,Visakhapatnam,Andhra Pradesh,17.608366,83.323323,No,No,No,No,No,Yes,Yes,Yes,Poor,Good,Medium,Yes,No,Yes,Low,14,570,3.8,2,1,5,NA,Yes,58.6,Average,Medium
+LOC0017,Kochi Central Station,Railway Station,Kochi,Kerala,9.994073,76.169238,No,No,No,No,No,Yes,No,Yes,Poor,Good,Medium,No,Yes,Yes,Medium,41,6120,4.1,2,11,2,NA,No,40,Poor,High
+LOC0018,Ahmedabad Central Park,Park,Ahmedabad,Gujarat,22.996043,72.544035,No,Yes,Yes,No,No,Yes,No,No,Average,Poor,Medium,No,No,Yes,Low,16,1683,4.3,7,12,1,Average,Yes,54.5,Poor,High
+LOC0019,Pune International Airport,Airport,Pune,Maharashtra,18.622998,73.72337,Yes,Yes,Yes,No,Yes,No,No,Yes,Good,Poor,Low,Yes,No,Yes,High,17,10216,3.9,3,16,3,Average,Yes,66.9,Average,Medium
+LOC0020,Delhi Municipal Office,Government Office,Delhi,Delhi,28.804991,77.24924,No,Yes,Yes,Yes,Yes,No,No,No,Good,Good,Medium,Yes,Yes,No,Low,39,4275,1.7,1,14,3,Average,Partial,77.2,Good,Low
+LOC0021,Ahmedabad Airport Terminal,Airport,Ahmedabad,Gujarat,23.101371,72.438833,Yes,Yes,Yes,Yes,No,No,No,No,Average,Average,High,Yes,No,Yes,Medium,41,19969,3.8,0,0,4,Good,Yes,90.4,Excellent,Low
+LOC0022,Nashik Bus Stand,Bus Stop,Nashik,Maharashtra,19.981962,73.732061,Yes,No,No,No,No,No,No,No,Poor,Good,Low,No,No,No,Medium,16,220,2.9,6,13,1,NA,Yes,31,Poor,High
+LOC0023,Patna City Centre Mall,Mall,Patna,Bihar,25.59101,85.283262,Yes,No,Yes,No,No,No,No,Yes,Average,Average,Medium,Yes,Yes,Yes,High,34,19624,3.9,1,17,2,NA,Partial,59.4,Average,Medium
+LOC0024,Surat Bus Depot,Bus Stop,Surat,Gujarat,21.174589,72.884286,No,No,No,No,No,No,No,No,Poor,Good,High,No,Yes,Yes,Medium,18,1459,2.8,6,17,1,NA,Partial,34.1,Poor,High
+LOC0025,Jaipur City Bus Stop,Bus Stop,Jaipur,Rajasthan,26.911475,75.67761,Yes,Yes,Yes,No,No,No,No,No,Poor,Good,Medium,No,Yes,Yes,High,14,1056,1.1,5,8,1,Average,Partial,48.1,Poor,High
+LOC0026,Mysuru Airport Terminal,Airport,Mysuru,Karnataka,12.380947,76.620916,No,Yes,Yes,No,No,Yes,No,Yes,Average,Good,Low,Yes,No,Yes,Low,6,7992,2.4,0,23,4,Average,Yes,63.8,Average,Medium
+LOC0027,Pune Health Centre,Hospital,Pune,Maharashtra,18.40388,73.822051,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Average,Average,Medium,Yes,Yes,Yes,Medium,13,3641,2,2,7,6,Poor,Yes,86.4,Good,Low
+LOC0028,Jaipur Degree College,College,Jaipur,Rajasthan,26.975867,75.682436,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Good,Poor,Medium,Yes,Yes,No,Low,32,4535,2.5,5,17,3,NA,Yes,78,Good,Medium
+LOC0029,Patna Plaza Mall,Mall,Patna,Bihar,25.62432,85.052507,Yes,Yes,Yes,Yes,Yes,No,No,No,Good,Good,Medium,Yes,No,Yes,Low,36,8399,2.7,0,12,7,Poor,Yes,91.3,Excellent,Low
+LOC0030,Ahmedabad General Hospital,Hospital,Ahmedabad,Gujarat,23.141691,72.685514,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Good,Average,Medium,Yes,Yes,No,Medium,28,3882,4.4,3,22,5,Good,Partial,91.5,Excellent,Low
+LOC0031,Udaipur Central Park,Park,Udaipur,Rajasthan,24.557788,73.590722,No,Yes,No,Yes,Yes,No,No,Yes,Average,Average,Low,Yes,No,No,Medium,14,1306,4.1,3,18,1,Good,Yes,63.2,Average,Medium
+LOC0032,Chandigarh Green Park,Park,Chandigarh,Chandigarh,30.590242,76.923167,No,No,Yes,No,No,No,No,No,Average,Good,High,Yes,Yes,Yes,Medium,3,2214,3.2,1,8,1,NA,No,51.6,Poor,Medium
+LOC0033,Kochi Bus Stand,Bus Stop,Kochi,Kerala,9.864634,76.177926,No,No,Yes,No,No,No,No,Yes,Poor,Poor,Low,Yes,Yes,No,High,10,1661,1.9,5,22,1,NA,Partial,13.4,Poor,High
+LOC0034,Delhi City Centre Mall,Mall,Delhi,Delhi,28.630077,77.000594,Yes,Yes,Yes,Yes,No,No,Yes,No,Good,Average,High,Yes,No,Yes,Medium,7,12931,3.3,3,10,5,Good,Yes,98,Excellent,Low
+LOC0035,Chennai Shopping Mall,Mall,Chennai,Tamil Nadu,13.214706,80.387097,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Average,Good,High,Yes,No,Yes,Low,9,9462,3.8,0,21,5,Good,Yes,100,Excellent,Low
+LOC0036,Udaipur Grand Mall,Mall,Udaipur,Rajasthan,24.491572,73.859081,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Poor,Good,Medium,Yes,No,Yes,Low,27,15607,3.5,0,23,4,Good,Yes,87,Good,Medium
+LOC0037,Patna Plaza Mall,Mall,Patna,Bihar,25.561978,85.264156,No,Yes,Yes,No,No,No,Yes,Yes,Average,Poor,Medium,Yes,No,Yes,High,26,10698,3.1,5,3,6,Average,No,44.8,Poor,High
+LOC0038,Ahmedabad Degree College,College,Ahmedabad,Gujarat,23.066622,72.524109,Yes,Yes,No,No,No,Yes,Yes,Yes,Average,Good,High,No,No,Yes,Low,14,2480,3.4,2,6,2,Poor,Partial,79.7,Good,Low
+LOC0039,Chandigarh Collectorate Office,Government Office,Chandigarh,Chandigarh,30.770943,76.725547,Yes,Yes,Yes,Yes,No,No,No,No,Average,Average,High,No,Yes,Yes,Low,36,2312,3.7,6,16,1,Average,Yes,80.9,Good,Low
+LOC0040,Mysuru Institute of Technology,College,Mysuru,Karnataka,12.321588,76.612395,No,Yes,Yes,Yes,No,No,Yes,No,Good,Good,Medium,Yes,Yes,No,High,35,4172,4,1,22,2,Average,No,71.9,Average,Medium
+LOC0041,Bengaluru Domestic Airport,Airport,Bengaluru,Karnataka,12.855153,77.694359,Yes,Yes,Yes,No,No,No,No,Yes,Good,Average,High,Yes,No,No,Low,31,9268,2.9,3,9,3,Average,Partial,81,Good,Low
+LOC0042,Jaipur Central Station,Railway Station,Jaipur,Rajasthan,27.030309,75.680473,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Poor,Medium,Yes,Yes,Yes,Medium,23,4633,4.2,2,19,1,Average,Partial,91.2,Excellent,Low
+LOC0043,Indore Collectorate Office,Government Office,Indore,Madhya Pradesh,22.679971,75.773457,No,Yes,Yes,Yes,Yes,No,No,No,Average,Poor,Low,Yes,No,Yes,High,11,2545,2.2,7,12,1,Average,Partial,41.2,Poor,High
+LOC0044,Mysuru Bus Stand,Bus Stop,Mysuru,Karnataka,12.271397,76.716773,Yes,Yes,No,No,No,No,Yes,Yes,Good,Poor,Medium,Yes,Yes,No,Medium,21,1771,3.3,2,22,1,Poor,Partial,62,Average,Medium
+LOC0045,Thane Heritage Fort,Tourist Attraction,Thane,Maharashtra,19.130396,72.95492,No,Yes,Yes,Yes,No,Yes,No,Yes,Good,Good,Medium,No,No,Yes,Low,6,577,2.8,3,20,1,Average,Partial,80,Good,Low
+LOC0046,Nashik Grand Mall,Mall,Nashik,Maharashtra,20.020558,73.881657,Yes,Yes,No,Yes,No,No,Yes,Yes,Average,Good,High,Yes,Yes,No,Medium,37,19636,3.1,2,15,3,Average,Partial,84.5,Good,Low
+LOC0047,Chennai Plaza Mall,Mall,Chennai,Tamil Nadu,13.09902,80.216915,Yes,Yes,Yes,No,Yes,Yes,No,No,Average,Average,High,Yes,No,No,High,20,17402,3.6,1,14,2,Average,Yes,81.9,Good,Low
+LOC0048,Mumbai Medical Center,Hospital,Mumbai,Maharashtra,19.149038,72.983344,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Poor,Poor,Low,Yes,Yes,Yes,Low,37,2595,3.6,1,14,4,Good,Yes,72.9,Average,Medium
+LOC0049,Kolkata Airport Terminal,Airport,Kolkata,West Bengal,22.604763,88.341394,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Good,Average,High,Yes,Yes,Yes,High,6,5318,4.3,2,13,3,Good,Yes,100,Excellent,Low
+LOC0050,Nashik Shopping Mall,Mall,Nashik,Maharashtra,19.968998,73.882491,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Good,Poor,High,Yes,Yes,No,High,35,4372,4,2,20,2,Average,Yes,91.4,Excellent,Low
+LOC0051,Patna Lake View Point,Tourist Attraction,Patna,Bihar,25.463035,85.278226,Yes,Yes,No,Yes,No,No,No,No,Poor,Average,Medium,No,No,Yes,High,24,803,3.6,5,17,1,Poor,Partial,46.2,Poor,High
+LOC0052,Bengaluru Health Centre,Hospital,Bengaluru,Karnataka,13.005266,77.455153,Yes,No,Yes,No,No,No,Yes,Yes,Average,Poor,Medium,Yes,Yes,Yes,High,12,4083,3.1,4,11,3,NA,Partial,52.4,Poor,High
+LOC0053,Nashik Bus Stand,Bus Stop,Nashik,Maharashtra,19.960993,73.871032,Yes,No,No,No,No,No,Yes,No,Average,Average,Medium,Yes,Yes,No,High,4,711,3.4,4,11,1,NA,Yes,53.4,Poor,High
+LOC0054,Visakhapatnam City Bus Stop,Bus Stop,Visakhapatnam,Andhra Pradesh,17.677502,83.337527,No,No,No,No,No,No,No,No,Average,Average,Low,No,Yes,No,Medium,3,368,1.9,3,17,1,NA,No,15.8,Poor,High
+LOC0055,Chandigarh Railway Station,Railway Station,Chandigarh,Chandigarh,30.851706,76.711176,Yes,Yes,Yes,No,No,No,No,Yes,Average,Average,High,Yes,Yes,Yes,Medium,38,19252,2.7,6,16,2,Good,Partial,73.9,Average,Medium
+LOC0056,Coimbatore Public Garden,Park,Coimbatore,Tamil Nadu,10.939078,77.031334,Yes,Yes,No,No,No,Yes,No,No,Poor,Average,Low,Yes,No,No,High,20,1611,3.4,1,13,1,Average,Partial,44.5,Poor,High
+LOC0057,Surat Plaza Mall,Mall,Surat,Gujarat,21.185849,72.932084,Yes,No,No,No,No,No,Yes,Yes,Good,Average,High,Yes,No,No,Low,12,6800,2.8,4,17,3,NA,No,61.6,Average,Medium
+LOC0058,Mysuru Botanical Garden,Tourist Attraction,Mysuru,Karnataka,12.419786,76.531417,Yes,Yes,No,Yes,No,Yes,Yes,No,Average,Good,Medium,No,Yes,No,High,22,2480,3.8,5,0,1,Good,Yes,83.4,Good,Medium
+LOC0059,Ahmedabad City Bus Stop,Bus Stop,Ahmedabad,Gujarat,23.016325,72.679944,No,No,No,No,No,No,No,Yes,Average,Average,Low,Yes,Yes,Yes,High,14,2133,3,5,19,1,NA,No,23.1,Poor,High
+LOC0060,Ahmedabad Bus Stand,Bus Stop,Ahmedabad,Gujarat,22.883035,72.469982,Yes,No,No,No,Yes,Yes,No,Yes,Poor,Poor,Low,No,Yes,Yes,Medium,3,2392,2.7,4,21,1,NA,Partial,33.8,Poor,High
+LOC0061,Udaipur Government College,College,Udaipur,Rajasthan,24.586983,73.737293,No,Yes,No,No,No,Yes,No,No,Good,Average,Medium,Yes,No,No,High,12,4041,3.4,8,2,1,Average,No,48.5,Poor,High
+LOC0062,Nashik Bus Depot,Bus Stop,Nashik,Maharashtra,19.913547,73.853375,No,Yes,Yes,No,Yes,No,No,Yes,Poor,Poor,Medium,No,Yes,No,Medium,19,1346,4.2,1,8,1,Poor,No,38.6,Poor,High
+LOC0063,Hyderabad Temple Complex,Tourist Attraction,Hyderabad,Telangana,17.394484,78.47954,No,Yes,No,No,No,No,Yes,No,Good,Good,High,No,No,Yes,Low,3,1265,4.1,1,12,1,Average,Partial,73.7,Average,Low
+LOC0064,Mumbai Domestic Airport,Airport,Mumbai,Maharashtra,19.190653,72.91924,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Average,Poor,High,Yes,No,Yes,High,17,6510,4.3,4,8,5,Average,Yes,87.5,Good,Medium
+LOC0065,Kolkata Junction,Railway Station,Kolkata,West Bengal,22.463124,88.421962,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Average,Average,Medium,No,Yes,No,High,42,14603,3.3,4,11,2,Good,Partial,83,Good,Medium
+LOC0066,Visakhapatnam Botanical Garden,Tourist Attraction,Visakhapatnam,Andhra Pradesh,17.671973,83.122765,Yes,Yes,No,No,No,Yes,No,Yes,Average,Average,Medium,No,Yes,Yes,Medium,7,628,3.1,5,8,1,Average,Partial,65.1,Average,Medium
+LOC0067,Chandigarh Government College,College,Chandigarh,Chandigarh,30.880383,76.787432,No,No,Yes,No,No,Yes,No,No,Good,Good,Medium,No,No,No,Medium,22,1284,3.5,2,10,1,NA,Yes,62.4,Average,Medium
+LOC0068,Delhi City Park,Park,Delhi,Delhi,28.809256,77.086385,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Good,Average,Medium,No,Yes,No,Low,10,2326,3.4,1,1,1,Good,No,84.2,Good,Low
+LOC0069,Lucknow City Park,Park,Lucknow,Uttar Pradesh,26.741712,80.857037,No,No,Yes,Yes,No,Yes,Yes,Yes,Average,Average,Medium,Yes,No,Yes,Medium,14,2229,3.3,1,19,1,NA,Partial,67.3,Average,Medium
+LOC0070,Mysuru Municipal Office,Government Office,Mysuru,Karnataka,12.158566,76.556477,Yes,No,No,Yes,No,Yes,No,No,Poor,Poor,Medium,Yes,No,No,Low,7,2362,3.8,3,20,2,NA,Yes,50,Poor,High
+LOC0071,Indore Tehsil Office,Government Office,Indore,Madhya Pradesh,22.824294,75.849441,Yes,No,No,Yes,Yes,Yes,No,No,Average,Poor,Medium,No,Yes,No,Medium,37,2648,3.2,3,16,3,NA,Yes,58.8,Average,Medium
+LOC0072,Pune Institute of Technology,College,Pune,Maharashtra,18.512992,73.932831,No,Yes,No,No,No,No,Yes,No,Poor,Good,Medium,Yes,Yes,Yes,Low,12,2007,3.6,2,10,3,Average,Partial,54.7,Poor,High
+LOC0073,Chandigarh Bus Depot,Bus Stop,Chandigarh,Chandigarh,30.587433,76.703888,No,No,No,No,No,Yes,No,No,Poor,Good,Medium,Yes,Yes,No,High,8,2730,2.9,6,19,1,NA,No,26,Poor,High
+LOC0074,Delhi City Park,Park,Delhi,Delhi,28.689852,77.205296,No,No,No,Yes,Yes,No,No,No,Average,Poor,Medium,Yes,Yes,No,Medium,21,2232,1.9,5,16,1,NA,Yes,40.3,Poor,High
+LOC0075,Ahmedabad Degree College,College,Ahmedabad,Gujarat,22.932555,72.62541,No,Yes,Yes,Yes,No,Yes,No,No,Average,Good,Medium,Yes,Yes,No,Low,13,4786,3.3,7,2,2,Average,Yes,76,Good,Medium
+LOC0076,Kanpur City Centre Mall,Mall,Kanpur,Uttar Pradesh,26.304137,80.460201,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Good,Medium,Yes,Yes,Yes,High,19,3672,3.3,9,22,2,Good,No,88.4,Good,Medium
+LOC0077,Surat Temple Complex,Tourist Attraction,Surat,Gujarat,21.048181,72.877969,No,No,No,No,Yes,Yes,No,Yes,Average,Poor,Medium,Yes,Yes,Yes,High,11,2766,3.1,5,14,1,NA,Partial,41.2,Poor,High
+LOC0078,Jaipur City Bus Stop,Bus Stop,Jaipur,Rajasthan,26.839417,75.928231,No,No,Yes,No,Yes,No,No,Yes,Poor,Good,Medium,No,Yes,No,High,3,234,2.9,5,6,1,NA,Partial,40.8,Poor,High
+LOC0079,Coimbatore Institute of Technology,College,Coimbatore,Tamil Nadu,10.999597,76.852687,No,Yes,No,No,No,Yes,Yes,No,Average,Average,High,No,Yes,Yes,High,13,4365,3.4,1,2,2,Average,Partial,64.1,Average,Medium
+LOC0080,Thane City Centre Mall,Mall,Thane,Maharashtra,19.353255,73.052654,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Good,Medium,Yes,Yes,Yes,High,5,5319,4.1,4,9,6,Average,No,98.8,Excellent,Medium
+LOC0081,Patna Public Garden,Park,Patna,Bihar,25.471936,85.156203,No,No,No,No,No,No,No,No,Average,Poor,Medium,No,Yes,Yes,Low,6,257,1.9,2,11,1,NA,No,21.4,Poor,Medium
+LOC0082,Thane International Airport,Airport,Thane,Maharashtra,19.155993,73.119721,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Good,High,Yes,No,Yes,Medium,22,12523,4.6,2,9,4,Good,Yes,100,Excellent,Low
+LOC0083,Chennai Junction,Railway Station,Chennai,Tamil Nadu,12.985061,80.349923,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Average,Poor,High,Yes,Yes,Yes,Medium,8,18627,3.5,2,16,1,Good,Partial,89.5,Good,Low
+LOC0084,Nashik Railway Station,Railway Station,Nashik,Maharashtra,20.064624,73.659719,No,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Good,Medium,Yes,Yes,Yes,Low,24,7939,3.4,2,19,2,Good,Partial,74.8,Average,Medium
+LOC0085,Jaipur Government College,College,Jaipur,Rajasthan,26.86047,75.728944,Yes,No,No,Yes,No,No,Yes,Yes,Poor,Good,Low,Yes,Yes,No,Low,34,2142,3,1,14,1,NA,No,49.1,Poor,High
+LOC0086,Visakhapatnam Bus Depot,Bus Stop,Visakhapatnam,Andhra Pradesh,17.593647,83.105678,No,No,No,No,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,No,Medium,4,1175,3.4,3,2,1,NA,No,31.5,Poor,High
+LOC0087,Guwahati Railway Station,Railway Station,Guwahati,Assam,26.264583,91.80391,No,No,No,No,No,No,No,No,Average,Poor,Low,No,Yes,Yes,Low,13,3108,3,2,11,2,NA,Partial,22.8,Poor,High
+LOC0088,Kanpur Collectorate Office,Government Office,Kanpur,Uttar Pradesh,26.4971,80.397965,No,Yes,No,Yes,Yes,No,No,No,Poor,Poor,Medium,Yes,Yes,Yes,Medium,15,4056,3.6,4,8,3,Good,Yes,54.4,Poor,High
+LOC0089,Thiruvananthapuram Central Station,Railway Station,Thiruvananthapuram,Kerala,8.525646,76.857052,Yes,No,Yes,No,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,No,Medium,37,15694,4.4,1,18,3,NA,No,49.7,Poor,High
+LOC0090,Chennai Municipal Office,Government Office,Chennai,Tamil Nadu,12.948698,80.402805,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Average,High,Yes,Yes,Yes,Medium,15,2895,3.1,6,21,2,Poor,Partial,94.3,Excellent,Low
+LOC0091,Delhi City Hospital,Hospital,Delhi,Delhi,28.667285,76.956219,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Average,Average,Low,Yes,Yes,Yes,Medium,29,2969,3.9,0,6,4,Good,Yes,87.8,Good,Medium
+LOC0092,Bhopal Bus Depot,Bus Stop,Bhopal,Madhya Pradesh,23.33392,77.417572,Yes,Yes,No,No,Yes,No,No,No,Poor,Good,Low,No,Yes,No,Low,8,1308,3.9,1,20,1,Average,Partial,51.9,Poor,High
+LOC0093,Delhi Junction,Railway Station,Delhi,Delhi,28.689427,77.073211,No,Yes,Yes,No,Yes,Yes,No,No,Average,Good,High,Yes,Yes,Yes,High,37,18183,3.6,6,5,1,Poor,No,63.2,Average,Medium
+LOC0094,Thiruvananthapuram Central Station,Railway Station,Thiruvananthapuram,Kerala,8.637343,77.074479,No,No,Yes,No,No,Yes,Yes,Yes,Average,Average,Medium,Yes,Yes,Yes,Medium,37,7240,2.3,7,0,2,NA,No,50.3,Poor,High
+LOC0095,Visakhapatnam General Hospital,Hospital,Visakhapatnam,Andhra Pradesh,17.662849,83.312675,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Poor,Good,Medium,Yes,Yes,No,Medium,15,2537,3.4,0,14,4,Average,Yes,78.1,Good,Medium
+LOC0096,Nagpur City Centre Mall,Mall,Nagpur,Maharashtra,21.241151,79.161894,No,No,Yes,No,Yes,No,Yes,No,Good,Poor,Low,Yes,Yes,No,High,11,6045,4.1,1,22,7,NA,Yes,49.2,Poor,High
+LOC0097,Udaipur Municipal Office,Government Office,Udaipur,Rajasthan,24.551759,73.806189,No,Yes,Yes,No,No,Yes,Yes,Yes,Poor,Good,Medium,No,Yes,Yes,Medium,37,2607,2.6,1,19,1,Average,Yes,66.2,Average,Medium
+LOC0098,Delhi Collectorate Office,Government Office,Delhi,Delhi,28.821971,76.953312,No,Yes,Yes,No,Yes,No,No,No,Poor,Average,Low,Yes,No,Yes,Low,11,3984,1.9,0,22,1,Poor,No,31.4,Poor,High
+LOC0099,Thane Multispeciality Hospital,Hospital,Thane,Maharashtra,19.332923,73.067355,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Poor,Good,Medium,Yes,No,No,High,10,3642,3.8,3,1,5,Good,Yes,80.8,Good,Medium
+LOC0100,Thane Junction,Railway Station,Thane,Maharashtra,19.173723,72.89309,No,Yes,No,Yes,No,Yes,No,No,Good,Average,Medium,No,Yes,Yes,High,24,3163,2.7,3,13,3,Good,Yes,70.7,Average,Medium
+LOC0101,Pune Multispeciality Hospital,Hospital,Pune,Maharashtra,18.632372,73.914752,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Average,Good,Medium,No,No,No,High,9,627,3.8,6,5,5,Average,Partial,77.9,Good,Medium
+LOC0102,Lucknow Multispeciality Hospital,Hospital,Lucknow,Uttar Pradesh,26.770307,80.859028,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Average,Average,Medium,Yes,No,Yes,Medium,23,3578,4,0,9,4,Good,Yes,98.7,Excellent,Low
+LOC0103,Lucknow City Bus Stop,Bus Stop,Lucknow,Uttar Pradesh,26.975913,80.807067,Yes,Yes,Yes,Yes,No,No,No,Yes,Average,Average,Medium,Yes,Yes,No,Low,13,1481,2.2,1,22,1,Poor,No,64.5,Average,Medium
+LOC0104,Kanpur Bus Stand,Bus Stop,Kanpur,Uttar Pradesh,26.595909,80.208432,No,Yes,Yes,No,Yes,No,No,No,Average,Poor,High,No,Yes,No,Medium,5,771,3.6,1,16,1,Poor,Yes,55.6,Average,Low
+LOC0105,Indore College of Engineering,College,Indore,Madhya Pradesh,22.869417,75.709945,Yes,No,No,No,No,No,No,Yes,Average,Average,High,Yes,No,Yes,Medium,27,3533,1.8,2,0,2,NA,Partial,55.8,Average,Low
+LOC0106,Nagpur Degree College,College,Nagpur,Maharashtra,21.235305,79.225508,Yes,No,Yes,No,No,Yes,Yes,Yes,Poor,Good,Medium,Yes,No,No,Medium,24,4671,4,1,23,1,NA,Yes,68.8,Average,Medium
+LOC0107,Kolkata Junction,Railway Station,Kolkata,West Bengal,22.461055,88.493078,No,No,No,No,No,Yes,Yes,No,Average,Good,Medium,Yes,Yes,Yes,High,42,16931,3.6,6,19,2,NA,Partial,49.1,Poor,High
+LOC0108,Jaipur International Airport,Airport,Jaipur,Rajasthan,26.986103,75.662644,Yes,Yes,Yes,No,Yes,No,No,Yes,Good,Good,High,Yes,No,No,Medium,34,8959,2.6,0,4,3,Good,Yes,97.2,Excellent,Low
+LOC0109,Kochi Domestic Airport,Airport,Kochi,Kerala,9.961925,76.230697,Yes,Yes,No,No,No,Yes,Yes,Yes,Average,Average,Low,Yes,No,No,Medium,17,4095,3.5,0,15,3,Good,Yes,72.2,Average,Medium
+LOC0110,Mumbai Airport Terminal,Airport,Mumbai,Maharashtra,19.110382,72.87636,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Average,Good,High,Yes,Yes,Yes,High,37,4175,5,5,5,3,Good,Yes,100,Excellent,Medium
+LOC0111,Patna Degree College,College,Patna,Bihar,25.672386,85.082483,Yes,No,No,No,No,No,No,Yes,Good,Poor,High,Yes,Yes,Yes,High,29,2541,3.1,5,18,3,NA,Partial,53.6,Poor,High
+LOC0112,Kanpur Institute of Technology,College,Kanpur,Uttar Pradesh,26.43529,80.371634,No,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Poor,Medium,Yes,Yes,Yes,High,8,2929,2.9,5,0,1,Good,No,50.7,Poor,High
+LOC0113,Pune General Hospital,Hospital,Pune,Maharashtra,18.618502,73.898548,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Poor,Low,Yes,Yes,No,Low,6,3702,4.5,1,17,2,Good,Yes,97.2,Excellent,Medium
+LOC0114,Chennai Central Station,Railway Station,Chennai,Tamil Nadu,13.134295,80.333928,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Good,Average,Low,Yes,Yes,Yes,Low,16,12783,3,0,5,2,Average,Partial,87.2,Good,Medium
+LOC0115,Ahmedabad Tehsil Office,Government Office,Ahmedabad,Gujarat,23.039003,72.44963,No,No,No,No,No,No,Yes,Yes,Poor,Poor,Medium,Yes,Yes,Yes,Low,34,4693,2.4,0,17,3,NA,Partial,33.7,Poor,High
+LOC0116,Guwahati Degree College,College,Guwahati,Assam,26.238061,91.814178,Yes,No,Yes,Yes,No,Yes,No,Yes,Good,Poor,High,Yes,Yes,Yes,Medium,16,3727,3.6,2,3,1,NA,Yes,86.8,Good,Low
+LOC0117,Coimbatore College of Engineering,College,Coimbatore,Tamil Nadu,11.107372,77.069627,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Good,Average,High,Yes,Yes,Yes,Medium,22,4871,3.3,3,4,1,Average,Partial,99.9,Excellent,Low
+LOC0118,Lucknow City Bus Stop,Bus Stop,Lucknow,Uttar Pradesh,26.841741,80.956208,Yes,No,Yes,No,Yes,Yes,No,No,Average,Poor,Medium,Yes,Yes,No,Medium,13,866,3.5,3,3,1,NA,Partial,58.6,Average,Medium
+LOC0119,Surat Museum,Tourist Attraction,Surat,Gujarat,21.320023,72.896707,Yes,Yes,No,Yes,No,No,No,No,Good,Good,Medium,Yes,Yes,No,Low,11,2923,2.9,6,1,1,Average,Yes,81.8,Good,Medium
+LOC0120,Thane Museum,Tourist Attraction,Thane,Maharashtra,19.178306,72.933505,No,Yes,No,Yes,No,Yes,Yes,No,Poor,Average,High,No,No,Yes,Low,2,2704,3.6,3,13,1,Poor,Yes,64.4,Average,Medium
+LOC0121,Delhi Collectorate Office,Government Office,Delhi,Delhi,28.729644,77.13143,Yes,No,No,Yes,No,No,Yes,No,Good,Poor,Medium,Yes,Yes,Yes,High,15,649,4.8,7,21,1,NA,Partial,59.6,Average,Medium
+LOC0122,Visakhapatnam Government College,College,Visakhapatnam,Andhra Pradesh,17.545303,83.290634,Yes,Yes,Yes,Yes,No,Yes,No,No,Average,Good,Medium,Yes,Yes,Yes,Low,23,836,3.4,1,12,2,Average,Yes,91.6,Excellent,Low
+LOC0123,Pune City Bus Stop,Bus Stop,Pune,Maharashtra,18.62863,73.809381,No,Yes,No,Yes,No,No,No,No,Good,Average,Medium,No,No,Yes,Medium,2,1433,1.4,2,21,1,Poor,Partial,50.5,Poor,Medium
+LOC0124,Mumbai Central Park,Park,Mumbai,Maharashtra,19.152964,72.82613,No,No,Yes,Yes,No,No,No,No,Poor,Good,Medium,Yes,No,Yes,Medium,20,457,2.2,3,12,1,NA,Partial,44.4,Poor,High
+LOC0125,Jaipur City Centre Mall,Mall,Jaipur,Rajasthan,26.928201,75.767001,No,No,Yes,Yes,No,No,No,No,Good,Average,Medium,Yes,No,No,Low,39,19266,2.5,0,13,6,NA,Partial,59.5,Average,Medium
+LOC0126,Chandigarh District Office,Government Office,Chandigarh,Chandigarh,30.700913,76.885661,Yes,No,No,No,No,No,No,Yes,Poor,Poor,Low,No,No,No,Medium,34,3067,2.7,3,4,2,NA,Partial,22.1,Poor,High
+LOC0127,Visakhapatnam Public Garden,Park,Visakhapatnam,Andhra Pradesh,17.569376,83.114558,Yes,Yes,Yes,No,Yes,No,No,Yes,Poor,Average,Low,Yes,Yes,Yes,Low,9,583,2.3,2,5,1,Poor,Partial,55.5,Average,Medium
+LOC0128,Chennai Domestic Airport,Airport,Chennai,Tamil Nadu,13.088468,80.20844,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Average,Average,High,No,No,No,High,10,19980,3.2,2,3,6,Good,Partial,84.5,Good,Low
+LOC0129,Pune Junction,Railway Station,Pune,Maharashtra,18.600122,73.944307,No,No,Yes,No,No,Yes,No,Yes,Poor,Poor,Low,No,Yes,Yes,High,14,15282,3.3,4,10,2,NA,Yes,29.2,Poor,High
+LOC0130,Kanpur Railway Station,Railway Station,Kanpur,Uttar Pradesh,26.367634,80.378714,No,No,No,No,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,Yes,High,31,6524,2.8,4,11,2,NA,Yes,36.5,Poor,High
+LOC0131,Guwahati Bus Stand,Bus Stop,Guwahati,Assam,26.059494,91.827564,Yes,No,Yes,Yes,No,No,No,Yes,Average,Good,Medium,No,Yes,Yes,Low,13,974,2.7,1,3,1,NA,No,65.8,Average,Medium
+LOC0132,Thiruvananthapuram City Centre Mall,Mall,Thiruvananthapuram,Kerala,8.577935,76.858742,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Good,Good,Medium,No,Yes,Yes,Low,44,6590,2.4,0,10,6,Good,No,92.7,Excellent,Low
+LOC0133,Kanpur City Hospital,Hospital,Kanpur,Uttar Pradesh,26.414323,80.193573,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Average,Good,High,Yes,Yes,Yes,Medium,28,1584,3.3,5,21,6,Average,Partial,100,Excellent,Low
+LOC0134,Nashik Airport Terminal,Airport,Nashik,Maharashtra,19.990062,73.831286,Yes,Yes,Yes,No,Yes,Yes,No,No,Good,Poor,High,Yes,Yes,Yes,High,43,17467,4.3,1,19,2,Average,Yes,87.3,Good,Low
+LOC0135,Thane Airport Terminal,Airport,Thane,Maharashtra,19.143351,73.091018,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Poor,Good,High,Yes,No,Yes,Medium,7,16654,3.3,1,5,5,Average,Partial,91.4,Excellent,Low
+LOC0136,Nashik Public Garden,Park,Nashik,Maharashtra,20.051705,73.885145,No,Yes,No,No,Yes,No,No,Yes,Good,Average,Low,Yes,No,No,Low,17,1575,2.9,2,7,1,Average,Partial,57.1,Average,Medium
+LOC0137,Ahmedabad Bus Depot,Bus Stop,Ahmedabad,Gujarat,22.954547,72.426074,Yes,Yes,Yes,No,No,No,No,No,Average,Average,Medium,Yes,Yes,Yes,Medium,5,1074,4.2,3,16,1,Poor,Partial,63.8,Average,Medium
+LOC0138,Chennai Institute of Technology,College,Chennai,Tamil Nadu,13.031053,80.401382,Yes,Yes,Yes,Yes,No,No,Yes,No,Average,Average,Low,Yes,No,Yes,Medium,18,2641,3.6,1,17,2,Good,Yes,77.5,Good,Medium
+LOC0139,Kochi Public Garden,Park,Kochi,Kerala,9.962359,76.183267,Yes,No,Yes,No,Yes,No,No,No,Poor,Average,Medium,Yes,Yes,Yes,Low,4,657,4.2,2,3,1,NA,Yes,63.5,Average,Medium
+LOC0140,Guwahati Lake View Point,Tourist Attraction,Guwahati,Assam,26.209743,91.86058,Yes,No,Yes,No,No,No,Yes,Yes,Poor,Average,Medium,Yes,Yes,Yes,Low,5,2640,3.4,3,2,1,NA,Partial,60.5,Average,Medium
+LOC0141,Thane Green Park,Park,Thane,Maharashtra,19.33267,72.992205,Yes,Yes,No,No,No,Yes,No,No,Poor,Average,Low,Yes,Yes,Yes,Low,14,1081,3.3,3,18,1,Average,Yes,54.8,Poor,High
+LOC0142,Kanpur Bus Stand,Bus Stop,Kanpur,Uttar Pradesh,26.378965,80.284706,No,Yes,Yes,Yes,Yes,No,Yes,No,Average,Average,Low,Yes,Yes,No,High,18,2302,3.8,6,3,1,Average,Partial,61.1,Average,High
+LOC0143,Coimbatore Municipal Office,Government Office,Coimbatore,Tamil Nadu,11.01619,76.85325,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Good,Average,Medium,Yes,Yes,Yes,Low,18,540,2.4,5,17,1,NA,Yes,84.7,Good,Medium
+LOC0144,Mysuru City Hospital,Hospital,Mysuru,Karnataka,12.150038,76.51797,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Good,Good,Low,Yes,Yes,Yes,Low,19,2028,4,0,13,6,Good,Partial,99,Excellent,Medium
+LOC0145,Thiruvananthapuram Shopping Mall,Mall,Thiruvananthapuram,Kerala,8.432116,76.881064,Yes,No,Yes,No,Yes,No,No,Yes,Good,Good,Medium,Yes,Yes,Yes,Medium,37,3709,2.6,1,16,7,NA,Yes,79.6,Good,Low
+LOC0146,Mysuru Shopping Mall,Mall,Mysuru,Karnataka,12.218247,76.568923,No,Yes,Yes,Yes,No,No,Yes,No,Average,Good,Medium,Yes,No,No,Low,10,15197,3.6,2,18,6,Average,Yes,75.5,Good,Low
+LOC0147,Visakhapatnam City Park,Park,Visakhapatnam,Andhra Pradesh,17.545521,83.190479,No,Yes,Yes,No,Yes,No,No,No,Good,Good,High,No,Yes,Yes,Medium,21,1809,2.2,2,3,1,Poor,No,64.5,Average,Low
+LOC0148,Surat Bus Depot,Bus Stop,Surat,Gujarat,21.217828,72.849017,No,Yes,No,No,No,No,No,No,Average,Average,Low,No,Yes,No,Medium,13,1659,2.2,6,13,1,Poor,No,20.9,Poor,High
+LOC0149,Patna Domestic Airport,Airport,Patna,Bihar,25.572329,85.140698,Yes,Yes,Yes,No,No,Yes,No,Yes,Good,Average,High,Yes,Yes,Yes,Medium,14,19755,3.6,0,11,4,Average,Yes,97.1,Excellent,Low
+LOC0150,Thiruvananthapuram Central Park,Park,Thiruvananthapuram,Kerala,8.395426,76.921877,Yes,No,No,No,No,Yes,No,No,Poor,Average,Low,Yes,No,No,Medium,9,1666,3.2,5,14,1,NA,No,27.5,Poor,High
+LOC0151,Patna Botanical Garden,Tourist Attraction,Patna,Bihar,25.47534,85.027775,Yes,No,No,No,No,No,Yes,No,Poor,Good,Medium,Yes,Yes,Yes,Medium,23,1581,3.1,2,18,1,NA,No,44,Poor,High
+LOC0152,Hyderabad College of Engineering,College,Hyderabad,Telangana,17.369806,78.370745,No,Yes,No,No,Yes,Yes,Yes,Yes,Good,Average,High,Yes,No,Yes,High,29,1334,4.2,2,0,2,Poor,Partial,80,Good,Low
+LOC0153,Kolkata Central Park,Park,Kolkata,West Bengal,22.657504,88.462337,No,No,Yes,No,Yes,Yes,No,Yes,Poor,Good,High,Yes,Yes,Yes,Low,23,1605,3.2,6,11,1,NA,No,56.2,Average,Medium
+LOC0154,Mumbai Airport Terminal,Airport,Mumbai,Maharashtra,19.225477,72.871254,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Good,Low,Yes,No,Yes,Medium,44,12839,4.5,0,6,2,Good,Yes,83.6,Good,Medium
+LOC0155,Guwahati Grand Mall,Mall,Guwahati,Assam,26.115389,91.719651,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Average,Average,High,Yes,No,Yes,High,16,12061,4.4,7,0,6,Average,Yes,92.6,Excellent,Medium
+LOC0156,Mumbai Central Station,Railway Station,Mumbai,Maharashtra,19.178017,73.003809,No,Yes,No,No,Yes,Yes,Yes,No,Average,Good,Low,No,Yes,Yes,High,35,19868,2.8,4,14,1,Poor,No,43.1,Poor,High
+LOC0157,Nashik Airport Terminal,Airport,Nashik,Maharashtra,19.941666,73.785647,Yes,Yes,No,No,Yes,Yes,No,Yes,Average,Good,Medium,Yes,Yes,Yes,Low,22,7127,4.1,1,17,7,Good,Yes,91,Excellent,Low
+LOC0158,Bengaluru City Centre Mall,Mall,Bengaluru,Karnataka,13.074206,77.719183,Yes,No,Yes,Yes,No,Yes,No,Yes,Good,Average,Medium,Yes,Yes,No,High,5,11660,3.1,5,11,4,NA,Yes,78.6,Good,Medium
+LOC0159,Chandigarh District Office,Government Office,Chandigarh,Chandigarh,30.628496,76.706506,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Good,Good,High,Yes,Yes,Yes,High,33,2906,2.2,5,19,2,Good,No,89.8,Good,Medium
+LOC0160,Bhopal Health Centre,Hospital,Bhopal,Madhya Pradesh,23.142791,77.400018,Yes,Yes,Yes,No,No,No,No,Yes,Good,Average,High,Yes,Yes,Yes,Medium,16,2112,4.7,0,20,2,Good,Yes,96.1,Excellent,Low
+LOC0161,Visakhapatnam Heritage Fort,Tourist Attraction,Visakhapatnam,Andhra Pradesh,17.607443,83.340185,Yes,No,No,No,Yes,No,No,No,Poor,Average,Low,No,No,Yes,Low,19,2014,2.6,4,6,1,NA,Partial,33.7,Poor,High
+LOC0162,Jaipur Lake View Point,Tourist Attraction,Jaipur,Rajasthan,26.910573,75.894159,Yes,No,Yes,Yes,No,Yes,Yes,No,Poor,Good,High,Yes,Yes,Yes,Low,16,252,2.7,2,10,1,NA,Partial,78,Good,Low
+LOC0163,Patna Heritage Fort,Tourist Attraction,Patna,Bihar,25.699269,85.207603,No,Yes,No,No,No,No,No,No,Good,Average,High,Yes,No,No,Low,11,2227,2.2,3,23,1,Poor,Yes,56.8,Average,Low
+LOC0164,Pune Junction,Railway Station,Pune,Maharashtra,18.575383,73.707189,No,No,No,Yes,No,No,Yes,Yes,Average,Good,Medium,No,Yes,Yes,Medium,25,7256,3.2,1,7,2,NA,Yes,63.8,Average,Medium
+LOC0165,Chennai Airport Terminal,Airport,Chennai,Tamil Nadu,12.956421,80.267469,Yes,No,No,No,No,No,No,No,Average,Average,High,Yes,No,Yes,Medium,44,5251,3,0,21,3,NA,Yes,57.9,Average,Low
+LOC0166,Kolkata City Centre Mall,Mall,Kolkata,West Bengal,22.699504,88.509877,Yes,No,Yes,Yes,No,No,Yes,No,Good,Average,High,Yes,Yes,Yes,Medium,16,14898,4.1,2,5,5,NA,Partial,87,Good,Low
+LOC0167,Kochi Bus Depot,Bus Stop,Kochi,Kerala,9.839743,76.196806,No,No,Yes,No,Yes,No,No,Yes,Average,Good,Medium,Yes,Yes,Yes,High,23,2136,3.2,5,15,1,NA,No,47.4,Poor,High
+LOC0168,Ahmedabad Green Park,Park,Ahmedabad,Gujarat,22.90471,72.593689,No,No,No,Yes,No,No,No,No,Average,Good,Medium,No,Yes,Yes,Medium,5,2098,1,1,18,1,NA,No,36.5,Poor,Medium
+LOC0169,Nashik International Airport,Airport,Nashik,Maharashtra,20.075522,73.860946,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Average,Average,Medium,Yes,Yes,Yes,High,44,11126,4.8,2,20,3,Good,Yes,88.8,Good,Medium
+LOC0170,Delhi Public Garden,Park,Delhi,Delhi,28.658022,77.190573,No,No,Yes,No,No,No,Yes,No,Good,Average,Low,No,Yes,Yes,Low,3,1913,2.5,4,14,1,NA,No,40.2,Poor,High
+LOC0171,Bhopal Tehsil Office,Government Office,Bhopal,Madhya Pradesh,23.12476,77.301961,Yes,No,Yes,Yes,Yes,Yes,No,No,Average,Average,Low,Yes,Yes,Yes,Medium,21,1442,4.1,0,9,3,NA,Partial,72,Average,Medium
+LOC0172,Kochi Lake View Point,Tourist Attraction,Kochi,Kerala,10.057789,76.269497,Yes,No,No,Yes,No,No,No,Yes,Average,Good,Medium,Yes,Yes,Yes,Medium,9,1743,4.5,6,3,1,NA,Partial,68.2,Average,Medium
+LOC0173,Guwahati Municipal Office,Government Office,Guwahati,Assam,26.076769,91.872815,Yes,Yes,Yes,No,No,No,Yes,Yes,Average,Average,Medium,Yes,No,No,Medium,23,1304,2.5,3,5,1,Average,Partial,69.3,Average,Medium
+LOC0174,Lucknow Museum,Tourist Attraction,Lucknow,Uttar Pradesh,26.911066,80.878594,Yes,Yes,Yes,No,No,No,No,Yes,Poor,Good,High,Yes,No,Yes,Low,20,2171,3.1,2,3,1,Average,Yes,77.2,Good,Low
+LOC0175,Nagpur Bus Depot,Bus Stop,Nagpur,Maharashtra,21.192575,78.979181,No,No,Yes,Yes,No,No,No,Yes,Average,Poor,Low,Yes,Yes,No,Low,15,764,1.8,3,7,1,NA,No,32,Poor,High
+LOC0176,Kanpur Institute of Technology,College,Kanpur,Uttar Pradesh,26.455694,80.348226,Yes,Yes,Yes,No,No,Yes,No,No,Poor,Good,Medium,Yes,No,Yes,Medium,23,3561,3.6,2,6,2,Poor,Partial,64.3,Average,Medium
+LOC0177,Kolkata International Airport,Airport,Kolkata,West Bengal,22.476566,88.477415,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Average,Average,Low,Yes,Yes,No,Medium,20,19829,4.1,0,13,7,Good,Yes,87.3,Good,Medium
+LOC0178,Bengaluru Domestic Airport,Airport,Bengaluru,Karnataka,12.967088,77.6596,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Average,Poor,Medium,Yes,No,Yes,High,6,15881,3.4,4,14,7,Good,Yes,73.9,Average,Medium
+LOC0179,Surat Botanical Garden,Tourist Attraction,Surat,Gujarat,21.093096,72.789371,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Average,Low,Yes,No,Yes,Medium,11,1348,3.9,4,15,1,Good,Yes,94.2,Excellent,Medium
+LOC0180,Bengaluru Degree College,College,Bengaluru,Karnataka,13.011532,77.501494,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Good,Average,Medium,Yes,Yes,Yes,Low,6,4723,3.8,3,4,1,Average,Yes,96.4,Excellent,Low
+LOC0181,Indore Temple Complex,Tourist Attraction,Indore,Madhya Pradesh,22.62869,75.795079,No,Yes,No,No,No,No,No,No,Good,Good,Low,Yes,Yes,Yes,Low,19,1562,2.4,2,12,1,Poor,Partial,49.8,Poor,High
+LOC0182,Mysuru Junction,Railway Station,Mysuru,Karnataka,12.191023,76.58427,No,Yes,No,Yes,No,Yes,No,No,Average,Average,Medium,Yes,Yes,Yes,Low,27,7178,3.3,1,4,1,Average,Partial,68.5,Average,Medium
+LOC0183,Pune Museum,Tourist Attraction,Pune,Maharashtra,18.453274,73.857653,Yes,No,No,No,Yes,No,Yes,Yes,Average,Good,Low,No,Yes,Yes,Low,20,1649,2.6,4,10,1,NA,No,50.1,Poor,High
+LOC0184,Mumbai Central Park,Park,Mumbai,Maharashtra,19.132814,72.920739,No,No,Yes,Yes,No,No,No,Yes,Good,Average,Low,Yes,Yes,No,High,4,432,3.4,4,13,1,NA,Partial,52,Poor,High
+LOC0185,Mysuru Institute of Technology,College,Mysuru,Karnataka,12.311564,76.501958,Yes,No,No,Yes,Yes,Yes,No,No,Good,Average,Medium,Yes,Yes,Yes,Medium,16,3024,3.9,4,18,1,NA,Partial,76.8,Good,Medium
+LOC0186,Thane Junction,Railway Station,Thane,Maharashtra,19.21048,72.8933,Yes,No,No,No,No,No,Yes,No,Poor,Good,Medium,No,Yes,Yes,High,38,3063,3.4,2,15,1,NA,Yes,49.4,Poor,High
+LOC0187,Mumbai Junction,Railway Station,Mumbai,Maharashtra,19.084494,72.925068,Yes,No,Yes,No,Yes,No,No,No,Poor,Poor,Low,Yes,Yes,Yes,Medium,18,7562,3.1,2,20,1,NA,Partial,35.7,Poor,High
+LOC0188,Delhi City Park,Park,Delhi,Delhi,28.560016,76.968127,Yes,Yes,Yes,No,No,Yes,No,Yes,Good,Average,High,Yes,Yes,Yes,Low,11,404,3.8,1,11,1,Good,Yes,100,Excellent,Low
+LOC0189,Patna Temple Complex,Tourist Attraction,Patna,Bihar,25.718732,85.109383,No,Yes,Yes,No,No,Yes,No,Yes,Average,Good,High,Yes,Yes,Yes,High,4,2194,3.1,7,11,1,Poor,Partial,65,Average,Medium
+LOC0190,Delhi Central Park,Park,Delhi,Delhi,28.819799,77.06304,No,No,No,No,No,No,No,No,Good,Poor,Low,No,Yes,No,Low,24,1118,2.6,3,23,1,NA,Partial,25,Poor,High
+LOC0191,Kanpur City Centre Mall,Mall,Kanpur,Uttar Pradesh,26.39953,80.316407,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Average,Poor,High,Yes,Yes,Yes,Low,43,14358,4.1,0,6,7,Average,Yes,92.4,Excellent,Low
+LOC0192,Nagpur Public Garden,Park,Nagpur,Maharashtra,21.007809,79.213583,Yes,Yes,No,No,Yes,Yes,Yes,No,Poor,Poor,Medium,No,Yes,Yes,Low,10,1333,3.1,5,14,1,Average,Partial,56.2,Average,Medium
+LOC0193,Hyderabad International Airport,Airport,Hyderabad,Telangana,17.452023,78.561321,Yes,Yes,Yes,Yes,No,No,No,Yes,Average,Good,High,Yes,Yes,No,High,40,11183,4.4,3,14,2,Poor,Yes,85.7,Good,Low
+LOC0194,Kanpur City Bus Stop,Bus Stop,Kanpur,Uttar Pradesh,26.494964,80.386437,Yes,No,Yes,No,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,No,High,2,2220,3,4,11,1,NA,No,41.1,Poor,High
+LOC0195,Bengaluru Degree College,College,Bengaluru,Karnataka,12.936862,77.488562,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Poor,Good,High,Yes,Yes,Yes,Medium,39,3782,2.9,0,11,3,Average,No,77,Good,Low
+LOC0196,Chennai Botanical Garden,Tourist Attraction,Chennai,Tamil Nadu,13.211051,80.301,Yes,No,Yes,No,Yes,No,Yes,No,Poor,Poor,Low,Yes,Yes,No,Low,21,880,2,2,0,1,NA,Partial,40.4,Poor,High
+LOC0197,Thiruvananthapuram Bus Depot,Bus Stop,Thiruvananthapuram,Kerala,8.653597,76.94572,No,Yes,Yes,No,Yes,Yes,No,Yes,Average,Good,Medium,No,Yes,Yes,Low,23,1891,3.4,3,12,1,Poor,Yes,74,Average,Medium
+LOC0198,Thane Bus Depot,Bus Stop,Thane,Maharashtra,19.17341,72.937947,No,No,Yes,No,No,Yes,No,Yes,Poor,Average,High,Yes,Yes,Yes,Medium,5,2577,3,3,0,1,NA,Partial,54.6,Poor,Medium
+LOC0199,Kochi Central Station,Railway Station,Kochi,Kerala,9.958646,76.147643,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Poor,Average,Low,Yes,Yes,Yes,Medium,12,5331,3.5,4,9,3,Poor,Yes,66,Average,High
+LOC0200,Kanpur Junction,Railway Station,Kanpur,Uttar Pradesh,26.410717,80.182216,Yes,Yes,Yes,Yes,No,No,No,Yes,Good,Average,Low,Yes,Yes,Yes,Medium,27,12343,3,0,7,1,Good,Yes,87,Good,Medium
+LOC0201,Mysuru Heritage Fort,Tourist Attraction,Mysuru,Karnataka,12.425624,76.563536,Yes,Yes,No,Yes,Yes,No,No,Yes,Poor,Poor,Low,Yes,No,Yes,Low,9,1864,2.6,4,22,1,Average,Partial,48.3,Poor,High
+LOC0202,Chennai Bus Stand,Bus Stop,Chennai,Tamil Nadu,12.935531,80.291652,No,No,No,No,No,Yes,No,No,Average,Average,Low,No,Yes,Yes,Low,18,1466,3.2,5,23,1,NA,Partial,33.1,Poor,High
+LOC0203,Chennai Medical Center,Hospital,Chennai,Tamil Nadu,13.125194,80.305069,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Good,Average,High,Yes,Yes,Yes,Medium,18,1257,3.6,3,18,5,NA,Yes,95.7,Excellent,Low
+LOC0204,Surat Temple Complex,Tourist Attraction,Surat,Gujarat,21.075018,72.946114,Yes,Yes,Yes,No,No,Yes,No,No,Average,Average,Medium,Yes,Yes,Yes,High,10,1854,2.3,7,15,1,Poor,Yes,62.1,Average,Medium
+LOC0205,Kochi Airport Terminal,Airport,Kochi,Kerala,9.893104,76.169293,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Good,Poor,Low,Yes,No,Yes,Low,18,10149,4.7,0,19,7,Average,Yes,82.2,Good,Medium
+LOC0206,Guwahati District Office,Government Office,Guwahati,Assam,26.246291,91.603487,No,Yes,No,No,Yes,Yes,No,No,Good,Good,Low,Yes,Yes,No,High,35,3985,3.3,7,11,3,Average,Partial,56.6,Average,High
+LOC0207,Thiruvananthapuram Health Centre,Hospital,Thiruvananthapuram,Kerala,8.488326,77.002472,No,Yes,Yes,Yes,No,No,No,Yes,Good,Average,High,Yes,No,No,Medium,20,4044,3.4,0,5,3,Average,Partial,81.5,Good,Low
+LOC0208,Guwahati Lake View Point,Tourist Attraction,Guwahati,Assam,26.118488,91.693722,Yes,No,No,No,Yes,No,Yes,Yes,Good,Poor,Low,No,Yes,No,Low,21,564,2.6,7,4,1,NA,Partial,48.6,Poor,High
+LOC0209,Thane Junction,Railway Station,Thane,Maharashtra,19.224113,73.100279,Yes,Yes,No,No,No,No,No,No,Average,Good,Low,No,Yes,No,High,25,11354,3.3,3,12,3,Poor,Partial,43.7,Poor,High
+LOC0210,Delhi Central Station,Railway Station,Delhi,Delhi,28.663965,77.000024,Yes,No,No,Yes,Yes,No,No,Yes,Good,Good,High,No,Yes,Yes,Medium,30,7218,3.5,3,13,3,NA,No,76.1,Good,Low
+LOC0211,Kochi Airport Terminal,Airport,Kochi,Kerala,9.788309,76.192679,No,Yes,Yes,No,Yes,Yes,Yes,No,Poor,Average,High,Yes,No,Yes,Low,30,13318,3.3,0,11,2,Good,Yes,79.2,Good,Low
+LOC0212,Kanpur Shopping Mall,Mall,Kanpur,Uttar Pradesh,26.352821,80.395649,Yes,No,No,No,Yes,Yes,Yes,No,Average,Average,High,Yes,No,Yes,High,16,8296,4.8,3,2,6,NA,Partial,72.7,Average,Medium
+LOC0213,Guwahati Junction,Railway Station,Guwahati,Assam,26.258917,91.776829,Yes,Yes,No,Yes,No,Yes,Yes,No,Average,Average,High,No,Yes,No,High,17,16973,2.6,4,2,3,Good,Yes,82.3,Good,Medium
+LOC0214,Mysuru Bus Stand,Bus Stop,Mysuru,Karnataka,12.22606,76.655198,No,No,No,No,Yes,No,Yes,No,Poor,Average,Medium,Yes,Yes,No,Medium,21,1302,2.7,4,1,1,NA,Yes,42.8,Poor,High
+LOC0215,Delhi Medical Center,Hospital,Delhi,Delhi,28.703368,77.04562,Yes,Yes,Yes,No,Yes,Yes,No,No,Good,Good,Medium,Yes,Yes,No,Medium,9,1582,4.6,0,12,5,Good,Yes,100,Excellent,Low
+LOC0216,Ahmedabad Collectorate Office,Government Office,Ahmedabad,Gujarat,23.15751,72.566379,No,No,No,No,No,No,No,No,Average,Good,High,No,Yes,Yes,Low,27,3276,3.7,4,4,2,NA,Yes,54.3,Poor,Medium
+LOC0217,Pune Tehsil Office,Government Office,Pune,Maharashtra,18.417324,73.953688,No,No,Yes,No,No,No,Yes,Yes,Average,Good,High,No,Yes,Yes,High,17,4769,3.1,3,21,3,NA,Partial,56.8,Average,Medium
+LOC0218,Guwahati Health Centre,Hospital,Guwahati,Assam,26.153107,91.702678,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Poor,Poor,Medium,Yes,Yes,Yes,Medium,10,1767,3.4,2,19,3,Good,Yes,73.8,Average,Medium
+LOC0219,Thiruvananthapuram City Park,Park,Thiruvananthapuram,Kerala,8.389204,76.790454,No,No,No,Yes,No,Yes,Yes,No,Average,Good,Medium,Yes,Yes,No,Medium,17,2470,3.3,4,1,1,NA,Partial,61.5,Average,Medium
+LOC0220,Kolkata Multispeciality Hospital,Hospital,Kolkata,West Bengal,22.464481,88.379759,No,Yes,No,No,Yes,Yes,No,Yes,Average,Average,High,Yes,Yes,No,Low,23,4301,3.4,0,20,5,Average,Yes,76.2,Good,Low
+LOC0221,Visakhapatnam City Park,Park,Visakhapatnam,Andhra Pradesh,17.632152,83.141994,No,Yes,Yes,No,No,No,No,No,Average,Good,High,No,Yes,Yes,Low,16,1500,1.8,8,20,1,Good,Partial,58,Average,Medium
+LOC0222,Udaipur City Park,Park,Udaipur,Rajasthan,24.436584,73.84195,No,Yes,No,No,No,No,No,Yes,Average,Average,Medium,No,No,Yes,High,18,1674,4,2,23,1,Poor,Partial,42.9,Poor,High
+LOC0223,Bhopal Shopping Mall,Mall,Bhopal,Madhya Pradesh,23.32831,77.478438,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Poor,Average,Medium,Yes,Yes,Yes,Medium,12,11367,3,2,22,2,Average,Yes,82.1,Good,Medium
+LOC0224,Chandigarh City Centre Mall,Mall,Chandigarh,Chandigarh,30.697897,76.809006,Yes,No,Yes,Yes,No,Yes,No,Yes,Good,Average,High,Yes,Yes,Yes,High,43,5641,3.6,2,11,5,NA,Partial,86.5,Good,Low
+LOC0225,Thane Green Park,Park,Thane,Maharashtra,19.238074,73.020122,Yes,No,Yes,Yes,No,No,No,No,Average,Poor,Low,No,Yes,Yes,Medium,4,2511,3.5,3,10,1,NA,Partial,45.6,Poor,High
+LOC0226,Hyderabad District Office,Government Office,Hyderabad,Telangana,17.257389,78.577023,Yes,No,Yes,No,Yes,Yes,No,Yes,Poor,Average,Medium,No,No,Yes,Low,34,4986,3.3,8,2,3,NA,No,51.2,Poor,High
+LOC0227,Kolkata Botanical Garden,Tourist Attraction,Kolkata,West Bengal,22.506258,88.503444,No,Yes,No,Yes,No,No,No,No,Good,Average,Medium,Yes,No,No,Medium,10,1598,3.2,4,16,1,Average,Yes,64,Average,Medium
+LOC0228,Kochi Domestic Airport,Airport,Kochi,Kerala,9.954913,76.238215,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Poor,Average,High,Yes,No,No,High,43,10426,2.9,6,22,7,Good,Partial,64.6,Average,Medium
+LOC0229,Thane Plaza Mall,Mall,Thane,Maharashtra,19.209917,72.932559,Yes,Yes,No,Yes,Yes,Yes,No,No,Average,Good,High,Yes,Yes,No,Medium,40,14430,3.2,2,8,5,Average,Yes,91.8,Excellent,Low
+LOC0230,Kochi Junction,Railway Station,Kochi,Kerala,9.863916,76.155813,Yes,Yes,Yes,Yes,No,No,No,Yes,Good,Good,Medium,Yes,Yes,Yes,Low,9,6427,4.1,1,17,1,Good,Partial,98,Excellent,Low
+LOC0231,Udaipur Junction,Railway Station,Udaipur,Rajasthan,24.719436,73.722786,No,Yes,No,No,No,No,No,No,Average,Average,High,Yes,Yes,Yes,Medium,22,13071,1.7,4,20,3,Average,Partial,48.9,Poor,Medium
+LOC0232,Thiruvananthapuram Municipal Office,Government Office,Thiruvananthapuram,Kerala,8.625494,77.030441,No,No,No,No,No,Yes,No,Yes,Poor,Average,Low,No,No,Yes,Low,10,1189,2.5,3,17,3,NA,No,21.6,Poor,High
+LOC0233,Patna District Office,Government Office,Patna,Bihar,25.564556,85.169762,Yes,Yes,Yes,No,No,Yes,Yes,No,Poor,Poor,High,Yes,No,No,Medium,5,2565,4.9,2,13,1,Average,Yes,72.2,Average,Medium
+LOC0234,Surat City Bus Stop,Bus Stop,Surat,Gujarat,21.161811,72.793327,Yes,No,No,No,Yes,No,Yes,No,Good,Poor,High,No,Yes,Yes,Medium,16,2761,2.4,4,17,1,NA,Partial,58.5,Average,Medium
+LOC0235,Coimbatore General Hospital,Hospital,Coimbatore,Tamil Nadu,11.166647,76.896607,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Poor,Good,Low,Yes,Yes,No,Medium,28,2808,3.1,0,6,2,Average,Yes,72.4,Average,Medium
+LOC0236,Chennai City Bus Stop,Bus Stop,Chennai,Tamil Nadu,13.004785,80.372662,Yes,No,No,Yes,No,No,No,No,Poor,Average,Medium,Yes,Yes,No,High,22,2307,2.9,12,8,1,NA,Partial,36.9,Poor,High
+LOC0237,Lucknow Shopping Mall,Mall,Lucknow,Uttar Pradesh,26.986721,81.055355,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Good,Good,High,Yes,Yes,Yes,High,9,4335,4,1,7,2,Average,Yes,100,Excellent,Low
+LOC0238,Udaipur Public Garden,Park,Udaipur,Rajasthan,24.468885,73.858089,No,Yes,Yes,No,No,Yes,No,Yes,Average,Average,Low,No,No,Yes,Low,16,1353,1.9,3,21,1,Poor,Partial,45.2,Poor,High
+LOC0239,Mumbai City Bus Stop,Bus Stop,Mumbai,Maharashtra,19.171476,72.789528,Yes,Yes,Yes,No,No,No,No,No,Average,Poor,Low,No,Yes,No,Medium,11,1959,2.6,5,7,1,Good,No,38.8,Poor,High
+LOC0240,Hyderabad City Hospital,Hospital,Hyderabad,Telangana,17.331204,78.489705,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Poor,Poor,Medium,Yes,Yes,Yes,Medium,25,3573,3.9,3,10,6,Good,Partial,71.8,Average,Medium
+LOC0241,Lucknow Central Park,Park,Lucknow,Uttar Pradesh,26.766931,80.983102,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Poor,Poor,Low,No,Yes,Yes,High,16,1670,2.5,3,7,1,Average,Yes,55.1,Average,High
+LOC0242,Mysuru Public Garden,Park,Mysuru,Karnataka,12.371372,76.662784,No,No,No,Yes,No,Yes,No,No,Good,Good,High,Yes,Yes,Yes,Low,16,1227,3.4,2,10,1,NA,Partial,75.1,Good,Low
+LOC0243,Kanpur Government College,College,Kanpur,Uttar Pradesh,26.431401,80.206345,No,Yes,Yes,Yes,No,No,No,Yes,Poor,Good,High,Yes,No,Yes,Medium,21,4519,2.7,1,19,2,Average,Yes,70.5,Average,Medium
+LOC0244,Indore City Centre Mall,Mall,Indore,Madhya Pradesh,22.683799,75.822943,Yes,Yes,Yes,No,No,No,Yes,Yes,Average,Average,High,Yes,Yes,Yes,Medium,43,4034,3.4,2,3,2,Average,Yes,87.2,Good,Low
+LOC0245,Thane Airport Terminal,Airport,Thane,Maharashtra,19.19561,73.064522,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Average,Good,Medium,No,No,No,Medium,5,15502,4.2,2,13,5,Good,No,91,Excellent,Low
+LOC0246,Ahmedabad Degree College,College,Ahmedabad,Gujarat,22.921198,72.438175,No,No,No,No,Yes,No,Yes,Yes,Poor,Good,Medium,Yes,Yes,No,Medium,16,4925,2.3,1,3,2,NA,Yes,51.6,Poor,High
+LOC0247,Coimbatore Railway Station,Railway Station,Coimbatore,Tamil Nadu,11.138527,76.831367,No,Yes,No,Yes,No,No,No,No,Average,Good,Medium,Yes,Yes,Yes,High,9,19504,3.7,9,11,1,Good,Yes,62.2,Average,High
+LOC0248,Delhi Government College,College,Delhi,Delhi,28.59127,77.230385,No,Yes,No,No,No,No,No,No,Poor,Average,Low,No,No,Yes,High,7,3208,2.9,7,17,2,Good,Yes,27.5,Poor,High
+LOC0249,Udaipur Green Park,Park,Udaipur,Rajasthan,24.528091,73.854928,No,No,No,No,No,No,No,Yes,Average,Average,Medium,Yes,No,Yes,Medium,18,2582,3.4,6,0,1,NA,Partial,41.4,Poor,High
+LOC0250,Visakhapatnam Plaza Mall,Mall,Visakhapatnam,Andhra Pradesh,17.646224,83.341237,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Good,Poor,Medium,Yes,No,Yes,Low,37,14985,3.8,4,9,6,Good,Yes,92.9,Excellent,Medium
+LOC0251,Kanpur Central Station,Railway Station,Kanpur,Uttar Pradesh,26.316263,80.183455,Yes,No,No,No,No,No,No,No,Average,Average,Low,No,Yes,No,Medium,38,5175,3.1,0,19,2,NA,Yes,41.4,Poor,High
+LOC0252,Thiruvananthapuram Grand Mall,Mall,Thiruvananthapuram,Kerala,8.37575,77.002045,No,Yes,Yes,Yes,No,No,No,Yes,Average,Good,Medium,Yes,Yes,Yes,High,5,16780,2.7,2,12,5,Good,Partial,70.7,Average,Medium
+LOC0253,Thiruvananthapuram Degree College,College,Thiruvananthapuram,Kerala,8.652076,76.984653,Yes,No,No,Yes,Yes,No,Yes,No,Good,Average,Low,Yes,Yes,Yes,Low,38,883,2.9,1,14,1,NA,Yes,73.8,Average,Medium
+LOC0254,Hyderabad Degree College,College,Hyderabad,Telangana,17.478063,78.552606,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Poor,Average,Medium,Yes,No,Yes,High,12,4463,3.6,3,23,1,Good,Yes,81.9,Good,Medium
+LOC0255,Guwahati Plaza Mall,Mall,Guwahati,Assam,26.22521,91.789045,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Good,Low,Yes,No,Yes,Medium,33,11140,2.9,4,16,3,Good,Yes,100,Excellent,Medium
+LOC0256,Chennai City Bus Stop,Bus Stop,Chennai,Tamil Nadu,13.193232,80.207951,Yes,No,No,Yes,No,No,Yes,No,Average,Poor,High,Yes,Yes,Yes,Medium,18,1142,3.2,3,8,1,NA,Partial,61,Average,Low
+LOC0257,Chennai Tehsil Office,Government Office,Chennai,Tamil Nadu,13.100244,80.341111,Yes,No,No,No,No,Yes,Yes,No,Poor,Good,Medium,Yes,Yes,No,Low,23,2708,3.2,3,20,2,NA,Yes,59.2,Average,Medium
+LOC0258,Nagpur Public Garden,Park,Nagpur,Maharashtra,21.287718,79.2149,No,No,Yes,Yes,No,Yes,No,Yes,Average,Average,Low,No,Yes,Yes,High,16,924,2.9,4,3,1,NA,No,43,Poor,High
+LOC0259,Kanpur Airport Terminal,Airport,Kanpur,Uttar Pradesh,26.420599,80.345031,Yes,Yes,No,No,No,No,Yes,No,Good,Good,Medium,Yes,Yes,Yes,Low,25,5952,4,0,15,3,Good,No,79.8,Good,Low
+LOC0260,Nashik Degree College,College,Nashik,Maharashtra,19.914119,73.698831,Yes,No,Yes,No,No,No,No,Yes,Poor,Poor,High,Yes,No,Yes,High,26,4877,3,4,7,2,NA,No,37.8,Poor,High
+LOC0261,Indore Botanical Garden,Tourist Attraction,Indore,Madhya Pradesh,22.584886,75.972898,Yes,No,Yes,Yes,No,No,No,No,Poor,Poor,Medium,No,Yes,Yes,Medium,14,1730,2.4,1,14,1,NA,Yes,47.3,Poor,High
+LOC0262,Nagpur District Office,Government Office,Nagpur,Maharashtra,21.275544,79.212263,Yes,Yes,Yes,Yes,No,Yes,No,No,Average,Average,Medium,Yes,Yes,No,High,37,1025,3,3,11,1,Good,Yes,80.9,Good,Medium
+LOC0263,Nagpur Public Garden,Park,Nagpur,Maharashtra,21.181203,79.031616,No,No,No,No,Yes,Yes,No,No,Average,Average,Medium,No,Yes,No,Low,22,429,3.8,5,16,1,NA,Partial,47,Poor,High
+LOC0264,Jaipur Museum,Tourist Attraction,Jaipur,Rajasthan,27.025778,75.653632,No,Yes,No,Yes,Yes,Yes,Yes,No,Poor,Good,Medium,Yes,Yes,Yes,Medium,13,1803,3,3,22,1,Poor,No,57.3,Average,Medium
+LOC0265,Thiruvananthapuram Central Station,Railway Station,Thiruvananthapuram,Kerala,8.463565,77.038702,No,Yes,Yes,Yes,No,Yes,No,Yes,Good,Poor,Medium,Yes,Yes,Yes,Low,6,11136,2.4,1,3,1,Poor,No,66,Average,Medium
+LOC0266,Thiruvananthapuram Heritage Fort,Tourist Attraction,Thiruvananthapuram,Kerala,8.491074,76.882424,Yes,Yes,Yes,No,No,Yes,No,No,Average,Good,Medium,Yes,Yes,No,Medium,10,2354,4.3,2,20,1,Good,Yes,83.3,Good,Low
+LOC0267,Chennai Central Station,Railway Station,Chennai,Tamil Nadu,13.081622,80.345325,Yes,No,No,No,No,No,Yes,Yes,Average,Poor,Low,Yes,Yes,Yes,High,39,19875,2.7,4,17,2,NA,Yes,40.4,Poor,High
+LOC0268,Kolkata City Centre Mall,Mall,Kolkata,West Bengal,22.548117,88.394854,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Good,Medium,Yes,No,Yes,Medium,12,8768,4.4,0,19,4,Good,Yes,100,Excellent,Low
+LOC0269,Jaipur Multispeciality Hospital,Hospital,Jaipur,Rajasthan,26.844775,75.764667,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Good,Low,Yes,No,No,High,37,2763,3.9,1,7,2,Average,Yes,85.9,Good,Medium
+LOC0270,Hyderabad City Centre Mall,Mall,Hyderabad,Telangana,17.394759,78.55737,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Good,High,Yes,No,Yes,Medium,23,3608,3.5,0,2,3,Average,Partial,100,Excellent,Low
+LOC0271,Hyderabad Municipal Office,Government Office,Hyderabad,Telangana,17.286709,78.369973,Yes,Yes,No,No,No,Yes,No,No,Average,Average,Medium,Yes,No,No,Low,14,2260,2.8,4,2,3,Average,Partial,62.9,Average,Medium
+LOC0272,Kolkata Botanical Garden,Tourist Attraction,Kolkata,West Bengal,22.690613,88.488111,Yes,No,Yes,No,Yes,No,No,No,Average,Good,Low,No,No,Yes,High,2,2034,3.1,6,0,1,NA,No,41.5,Poor,High
+LOC0273,Chandigarh Junction,Railway Station,Chandigarh,Chandigarh,30.715115,76.740738,No,No,Yes,No,Yes,No,No,No,Average,Poor,Low,No,No,Yes,High,7,5376,3.7,7,12,3,NA,Partial,24.7,Poor,High
+LOC0274,Guwahati Temple Complex,Tourist Attraction,Guwahati,Assam,26.090466,91.808767,No,Yes,No,No,Yes,No,No,No,Good,Average,Low,No,Yes,Yes,Medium,13,586,2.6,5,8,1,Average,Partial,48.6,Poor,High
+LOC0275,Indore Botanical Garden,Tourist Attraction,Indore,Madhya Pradesh,22.815535,75.774434,Yes,No,No,No,Yes,No,No,No,Average,Poor,Medium,Yes,No,Yes,Medium,16,313,1.2,3,12,1,NA,Partial,38.4,Poor,Medium
+LOC0276,Mysuru Degree College,College,Mysuru,Karnataka,12.434897,76.762846,Yes,Yes,No,Yes,No,Yes,No,Yes,Average,Good,High,Yes,Yes,Yes,Medium,15,4986,3.1,0,7,1,Good,Yes,97.2,Excellent,Low
+LOC0277,Visakhapatnam Bus Stand,Bus Stop,Visakhapatnam,Andhra Pradesh,17.729489,83.196727,Yes,No,No,No,No,No,No,Yes,Poor,Poor,Medium,Yes,Yes,No,Low,21,1788,3,3,8,1,NA,No,31.4,Poor,High
+LOC0278,Hyderabad College of Engineering,College,Hyderabad,Telangana,17.431481,78.468149,Yes,No,Yes,No,No,Yes,No,No,Average,Average,Medium,Yes,No,No,High,15,522,2.8,6,12,1,NA,Yes,54.8,Poor,High
+LOC0279,Lucknow Plaza Mall,Mall,Lucknow,Uttar Pradesh,26.802133,81.07882,Yes,Yes,No,Yes,No,No,Yes,Yes,Average,Good,Low,Yes,No,Yes,Medium,26,7780,3.4,2,16,3,Poor,Partial,67.2,Average,Medium
+LOC0280,Thiruvananthapuram Green Park,Park,Thiruvananthapuram,Kerala,8.53628,76.858312,Yes,Yes,Yes,No,No,Yes,No,Yes,Average,Average,Medium,Yes,Yes,No,Medium,19,1659,3.9,1,18,1,Average,Partial,76.2,Good,Low
+LOC0281,Kanpur Railway Station,Railway Station,Kanpur,Uttar Pradesh,26.466121,80.277416,No,No,Yes,No,No,Yes,Yes,No,Poor,Good,Low,Yes,Yes,Yes,High,8,9130,3.9,5,22,3,NA,Yes,44.4,Poor,High
+LOC0282,Pune Municipal Office,Government Office,Pune,Maharashtra,18.55036,73.738821,Yes,Yes,No,No,No,No,No,Yes,Poor,Poor,Medium,No,Yes,Yes,Low,29,2782,2.2,0,3,3,Average,Partial,47.1,Poor,High
+LOC0283,Kochi Railway Station,Railway Station,Kochi,Kerala,9.7942,76.195693,No,Yes,No,No,No,No,No,Yes,Average,Average,Medium,Yes,Yes,Yes,High,31,11010,2.5,4,11,2,Good,No,44.6,Poor,High
+LOC0284,Chennai Domestic Airport,Airport,Chennai,Tamil Nadu,13.040392,80.307789,No,Yes,Yes,No,Yes,Yes,No,Yes,Poor,Poor,High,Yes,No,No,High,17,14265,3.7,4,10,3,Good,Yes,61.4,Average,Medium
+LOC0285,Bengaluru Central Station,Railway Station,Bengaluru,Karnataka,12.910416,77.61179,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Average,Average,Low,Yes,Yes,Yes,Medium,16,17983,3,3,14,3,NA,No,63.5,Average,Medium
+LOC0286,Hyderabad Central Park,Park,Hyderabad,Telangana,17.311905,78.368142,Yes,No,No,Yes,No,No,No,Yes,Average,Good,Low,Yes,No,Yes,High,20,597,4.5,11,20,1,NA,Partial,48.7,Poor,High
+LOC0287,Nashik International Airport,Airport,Nashik,Maharashtra,19.875681,73.898989,Yes,Yes,Yes,No,No,No,Yes,Yes,Poor,Average,Medium,Yes,No,Yes,High,27,8764,3.8,1,17,5,Average,Partial,64.1,Average,Medium
+LOC0288,Chennai Degree College,College,Chennai,Tamil Nadu,13.120375,80.179286,No,Yes,Yes,No,No,No,No,No,Average,Good,Low,Yes,Yes,Yes,Medium,22,702,3.7,2,14,3,Average,No,47.4,Poor,High
+LOC0289,Bengaluru Collectorate Office,Government Office,Bengaluru,Karnataka,13.03617,77.738,Yes,No,No,No,No,No,No,Yes,Average,Average,Low,Yes,No,Yes,High,18,3614,3.1,5,3,2,NA,No,33.8,Poor,High
+LOC0290,Thane City Centre Mall,Mall,Thane,Maharashtra,19.070947,72.900858,No,Yes,Yes,Yes,No,Yes,No,No,Good,Good,High,Yes,Yes,Yes,High,6,10482,4.3,1,8,4,Poor,Yes,89.9,Good,Low
+LOC0291,Delhi Collectorate Office,Government Office,Delhi,Delhi,28.778714,77.170216,Yes,No,Yes,No,Yes,Yes,No,No,Good,Good,Medium,Yes,No,Yes,Low,38,617,2,2,13,2,NA,Partial,75.5,Good,Low
+LOC0292,Bengaluru Central Park,Park,Bengaluru,Karnataka,12.953636,77.639523,No,No,Yes,No,No,Yes,No,Yes,Average,Average,Medium,Yes,Yes,Yes,Low,6,2950,2.9,1,5,1,NA,Partial,59.2,Average,Medium
+LOC0293,Udaipur Grand Mall,Mall,Udaipur,Rajasthan,24.622574,73.85459,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Good,Good,Low,Yes,No,No,High,28,6972,4,2,5,5,Average,Yes,93.7,Excellent,Medium
+LOC0294,Mysuru Domestic Airport,Airport,Mysuru,Karnataka,12.372397,76.64227,No,Yes,Yes,No,No,No,No,Yes,Average,Good,High,No,No,Yes,Medium,18,9784,2.4,1,0,7,Good,Yes,72.4,Average,Low
+LOC0295,Bhopal Degree College,College,Bhopal,Madhya Pradesh,23.30112,77.550881,No,No,Yes,Yes,Yes,No,No,Yes,Good,Poor,High,No,Yes,No,Low,29,4126,3.4,3,14,3,NA,Partial,65.7,Average,Low
+LOC0296,Thiruvananthapuram Lake View Point,Tourist Attraction,Thiruvananthapuram,Kerala,8.407168,77.064218,Yes,Yes,No,No,No,No,Yes,Yes,Average,Good,Low,Yes,Yes,Yes,High,3,2071,3.8,5,16,1,Poor,No,51,Poor,High
+LOC0297,Bhopal Temple Complex,Tourist Attraction,Bhopal,Madhya Pradesh,23.399262,77.542833,Yes,No,Yes,No,No,Yes,No,No,Average,Average,Medium,No,No,Yes,Medium,15,2247,3.2,4,2,1,NA,No,51.1,Poor,High
+LOC0298,Surat Health Centre,Hospital,Surat,Gujarat,21.022781,72.887545,Yes,Yes,Yes,No,Yes,Yes,No,No,Good,Poor,Low,Yes,No,Yes,Medium,16,3531,3,0,0,5,Poor,Partial,66,Average,Medium
+LOC0299,Chandigarh City Centre Mall,Mall,Chandigarh,Chandigarh,30.711879,76.640363,Yes,No,No,Yes,No,Yes,No,Yes,Average,Good,Medium,Yes,No,Yes,High,9,9285,3.8,4,13,6,NA,Yes,71.2,Average,Medium
+LOC0300,Kolkata Institute of Technology,College,Kolkata,West Bengal,22.464862,88.220848,No,No,Yes,No,No,No,Yes,No,Average,Average,Medium,Yes,Yes,No,High,35,4567,3,4,2,3,NA,Partial,45.5,Poor,High
+LOC0301,Lucknow Central Park,Park,Lucknow,Uttar Pradesh,26.913648,81.047121,No,No,No,Yes,No,Yes,No,No,Poor,Average,Medium,No,Yes,Yes,Medium,3,1371,3.5,5,16,1,NA,No,35.1,Poor,High
+LOC0302,Bhopal City Bus Stop,Bus Stop,Bhopal,Madhya Pradesh,23.357493,77.319291,No,No,No,No,No,Yes,Yes,No,Good,Average,Low,No,Yes,No,High,24,2029,3.9,5,5,1,NA,No,38,Poor,High
+LOC0303,Surat City Hospital,Hospital,Surat,Gujarat,21.249122,72.916305,No,No,Yes,No,Yes,Yes,Yes,No,Good,Average,Low,Yes,Yes,Yes,Low,10,4854,3.2,0,12,2,NA,No,59.8,Average,Medium
+LOC0304,Thiruvananthapuram Degree College,College,Thiruvananthapuram,Kerala,8.570818,76.952029,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Good,Good,High,Yes,No,Yes,High,20,3449,3.4,1,10,3,NA,Partial,93.9,Excellent,Low
+LOC0305,Patna Junction,Railway Station,Patna,Bihar,25.676195,85.239053,Yes,No,No,Yes,No,Yes,No,No,Average,Good,High,Yes,Yes,No,High,11,16492,4,6,6,2,NA,Partial,69.3,Average,Medium
+LOC0306,Nashik College of Engineering,College,Nashik,Maharashtra,19.965709,73.808468,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Good,Average,High,Yes,No,No,Low,39,1232,2.8,0,22,3,Poor,Yes,96.1,Excellent,Low
+LOC0307,Nagpur Railway Station,Railway Station,Nagpur,Maharashtra,21.05059,78.940439,No,Yes,No,No,No,No,No,No,Poor,Good,Low,No,Yes,No,High,16,11018,1.6,6,19,3,Poor,Partial,17.1,Poor,High
+LOC0308,Nashik Municipal Office,Government Office,Nashik,Maharashtra,20.088252,73.759862,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Average,Average,Medium,No,Yes,Yes,Medium,25,2860,4.3,1,1,1,Average,Partial,87,Good,Low
+LOC0309,Bhopal Collectorate Office,Government Office,Bhopal,Madhya Pradesh,23.233049,77.423502,Yes,No,No,No,Yes,No,No,Yes,Good,Good,Medium,Yes,No,Yes,Medium,29,2226,2.4,5,19,1,NA,Partial,63.4,Average,Medium
+LOC0310,Thiruvananthapuram Bus Depot,Bus Stop,Thiruvananthapuram,Kerala,8.497442,77.046,Yes,No,Yes,No,No,No,No,Yes,Average,Average,Medium,Yes,No,Yes,High,4,1647,3.6,6,5,1,NA,Yes,58.2,Average,Medium
+LOC0311,Jaipur Bus Stand,Bus Stop,Jaipur,Rajasthan,26.931548,75.764996,No,No,Yes,No,No,No,No,No,Good,Good,Low,Yes,Yes,No,High,7,980,2.7,6,16,1,NA,No,33.9,Poor,High
+LOC0312,Mysuru Tehsil Office,Government Office,Mysuru,Karnataka,12.155379,76.736964,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Average,Average,Medium,Yes,Yes,Yes,Low,24,1969,2.7,2,0,2,Poor,Yes,82.5,Good,Low
+LOC0313,Indore International Airport,Airport,Indore,Madhya Pradesh,22.62811,75.724536,Yes,Yes,Yes,No,No,Yes,No,No,Good,Average,High,Yes,Yes,Yes,Medium,35,19318,4.2,0,18,4,Average,Yes,93.9,Excellent,Low
+LOC0314,Mumbai Green Park,Park,Mumbai,Maharashtra,19.124015,72.778749,Yes,No,No,No,No,No,No,No,Average,Good,Medium,No,Yes,Yes,Low,22,1788,2.4,3,14,1,NA,Partial,49.7,Poor,Medium
+LOC0315,Visakhapatnam Museum,Tourist Attraction,Visakhapatnam,Andhra Pradesh,17.70632,83.09222,No,No,No,Yes,No,No,No,Yes,Average,Poor,Medium,No,Yes,No,Medium,3,2911,2.2,7,15,1,NA,No,25.8,Poor,High
+LOC0316,Nagpur Institute of Technology,College,Nagpur,Maharashtra,21.118454,78.991502,Yes,No,Yes,Yes,No,No,No,No,Poor,Average,Low,No,Yes,No,High,12,1075,2.9,8,18,3,NA,Yes,37.6,Poor,High
+LOC0317,Bhopal Lake View Point,Tourist Attraction,Bhopal,Madhya Pradesh,23.136959,77.433,Yes,No,No,Yes,No,Yes,Yes,Yes,Poor,Average,Low,Yes,No,Yes,High,10,967,2.7,6,7,1,NA,Yes,52.3,Poor,High
+LOC0318,Patna Junction,Railway Station,Patna,Bihar,25.700068,85.166388,No,Yes,Yes,No,No,No,No,Yes,Poor,Average,High,No,Yes,Yes,Medium,33,5483,3.5,1,3,2,Good,Yes,65.2,Average,Medium
+LOC0319,Kanpur College of Engineering,College,Kanpur,Uttar Pradesh,26.532977,80.192718,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Poor,High,Yes,No,No,Medium,7,3678,2.7,1,19,1,Average,Yes,88.5,Good,Low
+LOC0320,Patna City Centre Mall,Mall,Patna,Bihar,25.523283,85.148204,No,No,Yes,No,Yes,Yes,No,Yes,Good,Average,High,Yes,No,Yes,Low,43,12033,3.8,2,14,4,NA,No,70.7,Average,Low
+LOC0321,Nagpur City Bus Stop,Bus Stop,Nagpur,Maharashtra,21.030956,78.958886,No,Yes,No,No,Yes,Yes,No,Yes,Poor,Average,High,No,Yes,No,High,11,2400,2.9,5,5,1,Poor,Partial,49,Poor,High
+LOC0322,Kochi Shopping Mall,Mall,Kochi,Kerala,9.898254,76.365531,Yes,Yes,No,No,No,No,No,No,Good,Poor,High,No,Yes,No,Medium,11,8068,3.5,1,21,2,Poor,No,51.6,Poor,Medium
+LOC0323,Chennai Public Garden,Park,Chennai,Tamil Nadu,13.224593,80.313384,Yes,Yes,Yes,Yes,No,Yes,No,No,Poor,Average,Low,Yes,Yes,Yes,High,16,822,3,10,15,1,Average,No,47.8,Poor,High
+LOC0324,Jaipur Medical Center,Hospital,Jaipur,Rajasthan,27.028654,75.77603,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Average,Poor,High,Yes,Yes,Yes,Low,25,2239,3.1,5,10,7,Poor,Partial,73.8,Average,Medium
+LOC0325,Jaipur City Centre Mall,Mall,Jaipur,Rajasthan,26.998727,75.695824,Yes,Yes,Yes,Yes,Yes,No,No,No,Good,Good,Medium,Yes,No,Yes,Medium,39,9096,3.9,0,2,2,Good,Partial,97.4,Excellent,Low
+LOC0326,Mumbai Multispeciality Hospital,Hospital,Mumbai,Maharashtra,19.053349,72.926349,Yes,Yes,Yes,No,Yes,Yes,No,No,Average,Average,Medium,Yes,Yes,Yes,Medium,20,2882,4.4,2,17,4,Good,Yes,87.1,Good,Low
+LOC0327,Guwahati Green Park,Park,Guwahati,Assam,26.041083,91.756499,No,No,No,No,No,No,Yes,No,Poor,Average,Medium,Yes,No,Yes,Low,11,2583,3.4,2,16,1,NA,Partial,37.2,Poor,High
+LOC0328,Nashik Health Centre,Hospital,Nashik,Maharashtra,19.915838,73.842552,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Good,Good,High,Yes,No,Yes,Medium,35,3731,3.9,2,20,7,Good,Yes,100,Excellent,Low
+LOC0329,Indore Bus Depot,Bus Stop,Indore,Madhya Pradesh,22.620955,75.91083,Yes,No,No,No,No,No,Yes,No,Poor,Poor,Low,Yes,Yes,No,High,19,1276,2.5,6,6,1,NA,Partial,21.8,Poor,High
+LOC0330,Chandigarh Degree College,College,Chandigarh,Chandigarh,30.632058,76.918114,Yes,Yes,No,No,No,Yes,No,No,Good,Average,Low,Yes,Yes,Yes,High,32,571,2.9,4,23,3,Poor,Partial,55,Average,High
+LOC0331,Patna Airport Terminal,Airport,Patna,Bihar,25.561194,85.007376,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Average,Medium,Yes,Yes,Yes,Medium,20,13151,3,0,14,2,Average,Partial,92.9,Excellent,Low
+LOC0332,Coimbatore Green Park,Park,Coimbatore,Tamil Nadu,10.929599,76.96758,Yes,Yes,No,Yes,No,No,Yes,No,Poor,Good,Low,Yes,No,No,High,16,486,3.9,2,9,1,Poor,No,46.8,Poor,High
+LOC0333,Bengaluru Government College,College,Bengaluru,Karnataka,12.964521,77.497829,Yes,No,Yes,Yes,Yes,Yes,No,No,Good,Poor,Medium,Yes,Yes,Yes,Low,32,1817,2.3,2,18,2,NA,No,67.6,Average,Medium
+LOC0334,Nashik City Bus Stop,Bus Stop,Nashik,Maharashtra,19.950266,73.832531,Yes,No,Yes,No,No,No,No,Yes,Poor,Average,Medium,No,Yes,Yes,Medium,24,1768,2,3,1,1,NA,No,40.5,Poor,High
+LOC0335,Bhopal City Park,Park,Bhopal,Madhya Pradesh,23.358383,77.38882,Yes,Yes,Yes,No,Yes,No,No,No,Poor,Average,Medium,No,No,Yes,Medium,7,1819,3.5,3,16,1,Average,Partial,57.7,Average,Medium
+LOC0336,Kolkata Medical Center,Hospital,Kolkata,West Bengal,22.576429,88.44281,No,No,No,No,Yes,No,No,Yes,Good,Good,Medium,Yes,No,Yes,Medium,38,3659,4,3,11,3,NA,Yes,65,Average,Medium
+LOC0337,Hyderabad Institute of Technology,College,Hyderabad,Telangana,17.488455,78.502555,No,No,No,No,No,No,No,No,Poor,Average,High,Yes,Yes,No,High,27,4527,2.3,7,10,3,NA,Yes,30.8,Poor,High
+LOC0338,Mumbai Grand Mall,Mall,Mumbai,Maharashtra,19.096583,72.788684,Yes,Yes,Yes,No,No,Yes,No,Yes,Average,Average,High,Yes,Yes,Yes,Medium,12,16284,2.8,1,22,4,Average,Yes,84.3,Good,Low
+LOC0339,Mysuru College of Engineering,College,Mysuru,Karnataka,12.250164,76.772054,No,No,Yes,Yes,Yes,Yes,No,No,Good,Poor,Medium,No,Yes,Yes,Medium,26,4235,3.5,2,3,1,NA,Yes,68.5,Average,Medium
+LOC0340,Hyderabad Temple Complex,Tourist Attraction,Hyderabad,Telangana,17.527505,78.500874,No,No,Yes,No,No,No,Yes,No,Average,Poor,Low,Yes,No,No,Medium,17,1100,3,0,1,1,NA,Yes,37.9,Poor,High
+LOC0341,Visakhapatnam Tehsil Office,Government Office,Visakhapatnam,Andhra Pradesh,17.60045,83.275756,Yes,Yes,No,No,Yes,No,Yes,No,Good,Poor,Low,Yes,Yes,No,Low,16,3340,3.1,2,7,3,Good,Partial,65.7,Average,Medium
+LOC0342,Thane Plaza Mall,Mall,Thane,Maharashtra,19.093154,73.072858,Yes,Yes,No,No,No,Yes,No,Yes,Poor,Good,Medium,Yes,Yes,No,Medium,16,3659,3,2,22,7,Good,Partial,65.1,Average,Medium
+LOC0343,Thane Medical Center,Hospital,Thane,Maharashtra,19.11213,72.834261,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Average,Good,Medium,Yes,No,Yes,Medium,14,3378,3.8,1,17,2,Good,Yes,100,Excellent,Low
+LOC0344,Bengaluru Tehsil Office,Government Office,Bengaluru,Karnataka,12.84066,77.511959,No,No,Yes,No,No,Yes,No,Yes,Average,Good,High,No,No,Yes,Medium,23,2972,3.4,2,19,1,NA,No,54.8,Poor,Medium
+LOC0345,Udaipur Central Park,Park,Udaipur,Rajasthan,24.593811,73.856912,No,No,Yes,Yes,No,Yes,Yes,No,Poor,Poor,Low,No,Yes,No,Medium,23,2840,1.9,6,5,1,NA,Yes,34.2,Poor,High
+LOC0346,Lucknow Botanical Garden,Tourist Attraction,Lucknow,Uttar Pradesh,26.939307,80.979333,Yes,No,Yes,No,No,No,No,Yes,Good,Average,Low,Yes,No,No,High,3,2227,2.4,6,10,1,NA,No,41.9,Poor,High
+LOC0347,Visakhapatnam Institute of Technology,College,Visakhapatnam,Andhra Pradesh,17.835531,83.345641,No,No,Yes,Yes,Yes,Yes,No,Yes,Poor,Good,High,Yes,Yes,Yes,Low,21,1754,2.7,0,20,1,NA,Yes,76.1,Good,Low
+LOC0348,Pune Railway Station,Railway Station,Pune,Maharashtra,18.591146,73.724112,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Poor,Poor,Low,Yes,Yes,Yes,High,37,12828,3.4,2,15,2,Average,Yes,67.4,Average,High
+LOC0349,Kochi Bus Depot,Bus Stop,Kochi,Kerala,9.783585,76.336349,Yes,No,No,Yes,Yes,No,No,Yes,Good,Average,High,Yes,No,Yes,Low,9,1549,3.4,5,14,1,NA,Partial,79.1,Good,Low
+LOC0350,Thiruvananthapuram Botanical Garden,Tourist Attraction,Thiruvananthapuram,Kerala,8.625508,76.826574,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Good,Average,Medium,No,Yes,No,Low,24,2696,2.9,0,15,1,Good,Partial,97.5,Excellent,Low
+LOC0351,Indore Multispeciality Hospital,Hospital,Indore,Madhya Pradesh,22.732981,75.941002,Yes,No,No,Yes,No,No,Yes,Yes,Good,Poor,High,Yes,Yes,Yes,Low,15,1031,3.2,1,0,6,NA,Yes,81.8,Good,Low
+LOC0352,Nashik General Hospital,Hospital,Nashik,Maharashtra,19.968598,73.654373,Yes,Yes,Yes,No,No,Yes,Yes,No,Good,Poor,High,Yes,Yes,Yes,Low,5,4013,3.4,3,16,4,Good,Yes,91.4,Excellent,Low
+LOC0353,Thiruvananthapuram International Airport,Airport,Thiruvananthapuram,Kerala,8.522953,76.92312,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Good,Average,High,Yes,Yes,Yes,Medium,44,16500,3.9,0,20,2,Good,Yes,100,Excellent,Low
+LOC0354,Kanpur Medical Center,Hospital,Kanpur,Uttar Pradesh,26.34739,80.21363,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Average,Good,Low,Yes,Yes,Yes,Low,33,4663,3.8,1,8,4,Average,No,77.4,Good,Medium
+LOC0355,Delhi Grand Mall,Mall,Delhi,Delhi,28.660134,77.023747,Yes,Yes,No,No,No,Yes,No,No,Average,Average,Medium,Yes,Yes,No,High,21,13989,3.7,4,16,2,Average,Partial,60.5,Average,Medium
+LOC0356,Udaipur Collectorate Office,Government Office,Udaipur,Rajasthan,24.693097,73.594803,No,Yes,Yes,Yes,No,Yes,Yes,No,Good,Good,Low,Yes,Yes,Yes,Medium,6,3644,3.8,1,19,3,Average,Yes,84.8,Good,Medium
+LOC0357,Kochi Institute of Technology,College,Kochi,Kerala,9.868614,76.202667,No,No,Yes,No,No,Yes,Yes,No,Good,Poor,Low,Yes,No,Yes,Medium,15,3953,2.8,2,16,1,NA,Partial,45.4,Poor,High
+LOC0358,Patna Public Garden,Park,Patna,Bihar,25.487028,85.280547,Yes,No,No,Yes,No,No,Yes,No,Poor,Poor,High,Yes,No,Yes,Low,8,1371,2.5,8,11,1,NA,Partial,46.5,Poor,High
+LOC0359,Jaipur City Park,Park,Jaipur,Rajasthan,26.869184,75.771324,Yes,No,No,No,No,Yes,Yes,Yes,Good,Average,Low,Yes,Yes,No,Medium,3,260,2.9,4,12,1,NA,Yes,64.7,Average,Medium
+LOC0360,Nashik Collectorate Office,Government Office,Nashik,Maharashtra,19.941047,73.93873,Yes,No,Yes,No,No,No,No,No,Poor,Average,Medium,Yes,No,No,Medium,5,4830,1.9,4,23,3,NA,Partial,37,Poor,High
+LOC0361,Mumbai Grand Mall,Mall,Mumbai,Maharashtra,18.932984,72.93479,Yes,Yes,Yes,No,No,No,No,No,Good,Poor,High,Yes,Yes,No,Low,30,17271,3.5,2,12,6,Average,Yes,77.1,Good,Low
+LOC0362,Mumbai Tehsil Office,Government Office,Mumbai,Maharashtra,19.140127,72.882331,Yes,No,No,No,No,No,Yes,No,Poor,Poor,Low,No,Yes,Yes,Low,38,4391,3,6,18,1,NA,No,19.5,Poor,High
+LOC0363,Kochi Grand Mall,Mall,Kochi,Kerala,9.889047,76.22928,No,Yes,Yes,No,No,Yes,Yes,Yes,Good,Good,High,Yes,Yes,Yes,High,31,8544,3.3,5,2,3,Average,Yes,89.6,Good,Medium
+LOC0364,Nashik Municipal Office,Government Office,Nashik,Maharashtra,19.849859,73.887418,Yes,No,No,Yes,Yes,Yes,No,No,Average,Average,Medium,No,Yes,Yes,Medium,16,2376,3.4,2,12,2,NA,Yes,70.8,Average,Medium
+LOC0365,Nashik International Airport,Airport,Nashik,Maharashtra,20.119364,73.887719,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Average,Good,High,Yes,No,No,Low,34,5493,4.4,0,2,4,Good,Partial,100,Excellent,Low
+LOC0366,Bhopal College of Engineering,College,Bhopal,Madhya Pradesh,23.201344,77.404043,No,Yes,No,No,No,No,No,No,Average,Good,Medium,Yes,No,Yes,Medium,5,3908,2.6,0,0,2,Poor,Partial,49.8,Poor,Medium
+LOC0367,Indore Multispeciality Hospital,Hospital,Indore,Madhya Pradesh,22.569604,75.725533,Yes,Yes,Yes,No,No,No,Yes,Yes,Good,Good,Medium,Yes,Yes,No,Medium,26,4113,4.3,0,19,6,Good,Yes,96.1,Excellent,Low
+LOC0368,Mysuru City Park,Park,Mysuru,Karnataka,12.247096,76.583487,Yes,Yes,Yes,No,No,No,No,Yes,Average,Average,Low,No,Yes,No,High,24,510,2.9,4,12,1,Good,Partial,54.7,Poor,High
+LOC0369,Mysuru Airport Terminal,Airport,Mysuru,Karnataka,12.326909,76.595648,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Poor,Medium,Yes,Yes,Yes,Low,17,6128,3.6,1,19,2,Average,Partial,71.2,Average,Medium
+LOC0370,Surat International Airport,Airport,Surat,Gujarat,21.195129,72.977311,Yes,Yes,No,No,No,Yes,No,Yes,Poor,Average,Medium,Yes,Yes,Yes,Medium,10,12740,2.7,1,12,6,Good,Yes,68.5,Average,Medium
+LOC0371,Hyderabad Shopping Mall,Mall,Hyderabad,Telangana,17.235908,78.407469,Yes,No,Yes,No,No,Yes,Yes,No,Average,Average,Low,Yes,No,Yes,Low,43,19803,3.4,3,7,6,NA,Yes,63.8,Average,Medium
+LOC0372,Jaipur Central Park,Park,Jaipur,Rajasthan,26.930452,75.860056,No,No,No,No,No,No,Yes,No,Average,Average,Low,Yes,Yes,No,Low,20,2104,3.4,4,0,1,NA,Partial,38,Poor,High
+LOC0373,Mumbai City Bus Stop,Bus Stop,Mumbai,Maharashtra,19.13054,72.911989,No,No,No,No,No,No,No,No,Average,Good,Medium,No,Yes,No,High,18,2487,1.9,6,19,1,NA,No,22,Poor,High
+LOC0374,Mysuru Plaza Mall,Mall,Mysuru,Karnataka,12.297831,76.496321,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Average,Good,Medium,Yes,Yes,Yes,Medium,41,11810,3.2,2,14,6,NA,No,75.9,Good,Low
+LOC0375,Bengaluru College of Engineering,College,Bengaluru,Karnataka,13.095458,77.71999,Yes,Yes,No,No,No,Yes,No,Yes,Poor,Average,High,Yes,Yes,Yes,Medium,32,3022,3.5,1,18,2,Poor,Partial,65,Average,Medium
+LOC0376,Mumbai Railway Station,Railway Station,Mumbai,Maharashtra,19.137502,72.802959,Yes,Yes,Yes,Yes,No,No,No,Yes,Good,Poor,Low,Yes,Yes,Yes,Low,20,9526,3,2,19,1,Poor,Partial,66.6,Average,Medium
+LOC0377,Visakhapatnam Medical Center,Hospital,Visakhapatnam,Andhra Pradesh,17.67181,83.353526,No,No,Yes,No,No,No,Yes,Yes,Average,Average,High,Yes,No,No,Low,32,2904,3.8,1,2,4,NA,Partial,63.3,Average,Low
+LOC0378,Delhi City Centre Mall,Mall,Delhi,Delhi,28.572558,77.14854,No,Yes,Yes,Yes,No,Yes,No,No,Good,Good,Medium,Yes,Yes,Yes,Low,43,19184,4.2,4,8,6,Average,Yes,90.2,Excellent,Medium
+LOC0379,Guwahati Central Station,Railway Station,Guwahati,Assam,26.170643,91.704428,Yes,No,Yes,No,Yes,No,No,Yes,Average,Average,Low,Yes,Yes,No,Low,30,14515,2.9,2,6,3,NA,Partial,57.2,Average,Medium
+LOC0380,Udaipur Plaza Mall,Mall,Udaipur,Rajasthan,24.562392,73.682701,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Good,Medium,Yes,No,Yes,Low,12,14517,4.8,1,19,2,Good,Yes,91.8,Excellent,Medium
+LOC0381,Pune Shopping Mall,Mall,Pune,Maharashtra,18.639758,73.925988,No,Yes,Yes,Yes,Yes,No,No,No,Good,Average,High,Yes,Yes,No,Medium,32,6074,2.8,2,14,7,Average,Yes,83.7,Good,Low
+LOC0382,Bhopal Junction,Railway Station,Bhopal,Madhya Pradesh,23.181046,77.281721,Yes,Yes,No,No,No,Yes,No,No,Poor,Average,Low,Yes,Yes,Yes,High,12,13323,2.4,4,7,1,Good,Yes,51,Poor,High
+LOC0383,Kochi International Airport,Airport,Kochi,Kerala,9.99056,76.345099,Yes,Yes,Yes,No,No,Yes,No,Yes,Good,Average,High,Yes,Yes,Yes,High,42,10628,4.5,2,11,4,Good,Partial,94.2,Excellent,Low
+LOC0384,Guwahati Shopping Mall,Mall,Guwahati,Assam,26.24898,91.795562,No,Yes,No,No,No,Yes,Yes,No,Poor,Average,Medium,Yes,Yes,Yes,Medium,16,17073,3.2,0,3,2,Poor,Yes,56.1,Average,Medium
+LOC0385,Kanpur Bus Stand,Bus Stop,Kanpur,Uttar Pradesh,26.503173,80.431017,No,Yes,No,No,No,No,Yes,No,Good,Poor,Low,Yes,Yes,Yes,High,16,411,2.8,6,9,1,Average,No,34.2,Poor,High
+LOC0386,Bhopal Public Garden,Park,Bhopal,Madhya Pradesh,23.392225,77.499498,No,No,No,No,No,No,Yes,No,Poor,Average,Low,Yes,No,Yes,Low,23,2069,2.9,4,2,1,NA,Partial,28.2,Poor,High
+LOC0387,Udaipur Degree College,College,Udaipur,Rajasthan,24.675617,73.801348,Yes,Yes,No,Yes,No,No,No,No,Average,Good,Low,Yes,Yes,Yes,High,30,3717,2.9,1,0,3,Poor,Partial,58.9,Average,Medium
+LOC0388,Visakhapatnam Heritage Fort,Tourist Attraction,Visakhapatnam,Andhra Pradesh,17.580775,83.236245,No,No,Yes,Yes,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,Yes,Low,2,1058,2.4,3,16,1,NA,Partial,50.4,Poor,High
+LOC0389,Nashik Temple Complex,Tourist Attraction,Nashik,Maharashtra,19.878799,73.694744,No,No,No,No,No,No,Yes,Yes,Average,Poor,High,No,Yes,Yes,Medium,7,989,3,2,18,1,NA,No,36.7,Poor,Medium
+LOC0390,Indore Municipal Office,Government Office,Indore,Madhya Pradesh,22.586016,75.947486,Yes,No,No,No,Yes,No,No,No,Average,Good,Medium,Yes,Yes,No,Low,12,2536,3.5,3,0,2,NA,Yes,65.1,Average,Medium
+LOC0391,Kolkata Airport Terminal,Airport,Kolkata,West Bengal,22.591579,88.28369,Yes,Yes,Yes,No,No,No,No,Yes,Good,Good,High,Yes,No,Yes,High,23,4381,3.9,3,22,2,Good,Yes,90,Excellent,Low
+LOC0392,Ahmedabad Tehsil Office,Government Office,Ahmedabad,Gujarat,23.015605,72.494999,Yes,No,No,No,No,No,No,No,Poor,Good,Medium,No,Yes,Yes,Medium,9,3548,3.5,2,17,2,NA,No,37.4,Poor,High
+LOC0393,Guwahati Museum,Tourist Attraction,Guwahati,Assam,26.071857,91.822838,Yes,Yes,Yes,No,No,Yes,No,No,Poor,Poor,Low,No,Yes,Yes,High,12,1571,4,10,22,1,Poor,Partial,32.7,Poor,High
+LOC0394,Patna Junction,Railway Station,Patna,Bihar,25.483715,85.141572,Yes,Yes,Yes,No,No,Yes,No,Yes,Average,Good,High,Yes,Yes,Yes,Low,10,15229,2.7,1,10,3,Good,No,84.8,Good,Low
+LOC0395,Kanpur City Centre Mall,Mall,Kanpur,Uttar Pradesh,26.514421,80.350176,No,Yes,No,No,No,No,Yes,No,Poor,Average,High,No,No,Yes,High,29,17399,4.3,6,13,7,Good,No,42.1,Poor,High
+LOC0396,Bhopal District Office,Government Office,Bhopal,Madhya Pradesh,23.340192,77.335348,Yes,No,Yes,No,No,Yes,No,No,Average,Average,Medium,No,No,Yes,High,16,1834,1.7,6,16,1,NA,Yes,49.9,Poor,High
+LOC0397,Kochi College of Engineering,College,Kochi,Kerala,9.906843,76.212488,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Average,Good,Low,Yes,No,Yes,Low,9,1470,2.9,2,20,3,NA,Yes,77.1,Good,Medium
+LOC0398,Bhopal Grand Mall,Mall,Bhopal,Madhya Pradesh,23.307092,77.468541,No,Yes,No,No,No,No,No,No,Good,Average,High,Yes,No,Yes,High,11,11970,3.2,5,3,6,Good,Partial,61.1,Average,Medium
+LOC0399,Hyderabad City Hospital,Hospital,Hyderabad,Telangana,17.350672,78.492688,Yes,Yes,Yes,Yes,No,No,No,No,Good,Good,High,Yes,Yes,No,Low,38,2412,2.6,1,18,3,Average,No,84.3,Good,Low
+LOC0400,Indore Botanical Garden,Tourist Attraction,Indore,Madhya Pradesh,22.841489,75.85141,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Good,Good,Low,Yes,No,Yes,Low,2,237,2.6,3,4,1,Average,No,78.8,Good,Medium
+LOC0401,Lucknow District Office,Government Office,Lucknow,Uttar Pradesh,26.87322,80.798881,No,No,Yes,No,No,No,No,Yes,Average,Good,High,Yes,No,No,Medium,35,1546,3.7,3,13,2,NA,Partial,56.8,Average,Low
+LOC0402,Nagpur Bus Depot,Bus Stop,Nagpur,Maharashtra,21.194038,79.115849,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Poor,High,Yes,Yes,No,High,20,1910,3.5,2,18,1,Poor,Partial,65.2,Average,Medium
+LOC0403,Udaipur Grand Mall,Mall,Udaipur,Rajasthan,24.666006,73.67395,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Average,Average,High,No,Yes,No,High,34,4303,3.6,2,17,4,Average,Yes,86.7,Good,Low
+LOC0404,Nashik Bus Depot,Bus Stop,Nashik,Maharashtra,19.994698,73.714862,No,No,Yes,Yes,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,No,Low,5,1205,2.2,2,7,1,NA,Partial,50,Poor,High
+LOC0405,Nagpur Government College,College,Nagpur,Maharashtra,21.056931,78.956956,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Poor,Good,High,No,Yes,No,High,17,1743,3.6,12,11,1,Poor,Yes,70.5,Average,High
+LOC0406,Bengaluru Junction,Railway Station,Bengaluru,Karnataka,12.94272,77.620447,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Average,Average,High,Yes,Yes,Yes,High,41,5988,3.8,4,23,1,Average,Partial,85.8,Good,Medium
+LOC0407,Visakhapatnam College of Engineering,College,Visakhapatnam,Andhra Pradesh,17.720642,83.122862,Yes,No,Yes,No,Yes,Yes,No,Yes,Average,Good,Medium,Yes,Yes,Yes,High,12,1981,4.3,6,4,3,NA,Partial,73.5,Average,Medium
+LOC0408,Guwahati Bus Depot,Bus Stop,Guwahati,Assam,26.045708,91.716426,Yes,Yes,No,No,No,No,No,No,Average,Good,Low,No,Yes,No,Low,12,2888,2,7,7,1,Poor,No,36.4,Poor,High
+LOC0409,Lucknow Botanical Garden,Tourist Attraction,Lucknow,Uttar Pradesh,26.746269,80.848004,No,Yes,Yes,Yes,Yes,Yes,No,No,Average,Poor,Low,No,No,No,Medium,23,1365,3,1,2,1,Poor,No,43.9,Poor,High
+LOC0410,Delhi Heritage Fort,Tourist Attraction,Delhi,Delhi,28.576345,77.218457,No,No,No,No,No,Yes,No,No,Good,Average,High,Yes,Yes,Yes,Medium,21,298,3.1,4,6,1,NA,No,53.2,Poor,Medium
+LOC0411,Mumbai Central Park,Park,Mumbai,Maharashtra,18.992889,72.743675,Yes,Yes,No,Yes,No,No,No,Yes,Average,Good,High,No,No,Yes,Low,10,214,3.5,5,0,1,Poor,Yes,79.5,Good,Low
+LOC0412,Udaipur Municipal Office,Government Office,Udaipur,Rajasthan,24.721817,73.823685,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Average,Average,Medium,Yes,Yes,Yes,High,12,3814,2.1,0,7,3,Average,Yes,85.2,Good,Medium
+LOC0413,Chennai Airport Terminal,Airport,Chennai,Tamil Nadu,13.108018,80.157613,Yes,No,Yes,Yes,No,Yes,Yes,No,Good,Average,Medium,Yes,No,No,High,28,11919,3.9,1,1,2,NA,Yes,84.8,Good,Medium
+LOC0414,Jaipur Grand Mall,Mall,Jaipur,Rajasthan,26.811649,75.874252,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Average,Good,Medium,Yes,Yes,No,Medium,33,17316,2.7,2,4,6,Good,Yes,91.9,Excellent,Low
+LOC0415,Ahmedabad Shopping Mall,Mall,Ahmedabad,Gujarat,23.002091,72.558192,Yes,Yes,No,No,Yes,No,No,Yes,Average,Average,Medium,Yes,Yes,Yes,Medium,20,17793,2.1,2,23,2,Good,Yes,71.2,Average,Medium
+LOC0416,Mysuru Government College,College,Mysuru,Karnataka,12.416112,76.690617,Yes,Yes,No,Yes,No,Yes,Yes,No,Good,Good,High,Yes,Yes,Yes,Low,14,1732,3.5,2,12,3,Good,Yes,100,Excellent,Low
+LOC0417,Kanpur City Park,Park,Kanpur,Uttar Pradesh,26.535959,80.285544,No,No,Yes,Yes,No,Yes,No,No,Average,Average,Low,Yes,Yes,Yes,Medium,22,765,2.3,2,4,1,NA,Partial,50.7,Poor,High
+LOC0418,Bengaluru Bus Depot,Bus Stop,Bengaluru,Karnataka,12.996483,77.549504,No,No,No,No,No,Yes,No,No,Poor,Average,Medium,No,Yes,No,Medium,18,671,2.3,8,12,1,NA,Partial,25.7,Poor,High
+LOC0419,Delhi Central Station,Railway Station,Delhi,Delhi,28.706214,77.061806,Yes,No,No,No,No,Yes,Yes,No,Good,Average,Medium,Yes,Yes,No,High,34,19807,2.7,6,17,2,NA,Partial,58.8,Average,Medium
+LOC0420,Thane City Bus Stop,Bus Stop,Thane,Maharashtra,19.207084,73.023601,Yes,No,No,No,No,No,No,No,Average,Good,High,Yes,Yes,No,Medium,24,352,2.2,4,16,1,NA,No,47,Poor,Medium
+LOC0421,Thiruvananthapuram Heritage Fort,Tourist Attraction,Thiruvananthapuram,Kerala,8.620903,77.029252,No,No,No,Yes,No,No,No,Yes,Good,Average,Medium,Yes,No,No,Medium,19,2197,2.1,3,16,1,NA,Partial,51.5,Poor,Medium
+LOC0422,Pune City Centre Mall,Mall,Pune,Maharashtra,18.414873,73.987312,No,Yes,Yes,Yes,No,Yes,No,Yes,Good,Poor,High,Yes,Yes,Yes,Medium,43,13032,2.9,1,13,2,Good,Partial,83,Good,Low
+LOC0423,Nagpur Bus Depot,Bus Stop,Nagpur,Maharashtra,21.210662,79.125849,Yes,No,No,No,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,No,Medium,6,2190,2.3,7,21,1,NA,Partial,38.1,Poor,High
+LOC0424,Pune City Hospital,Hospital,Pune,Maharashtra,18.46794,73.942032,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Poor,Average,Low,Yes,Yes,Yes,High,5,3979,3.8,5,8,5,Good,Yes,82.2,Good,High
+LOC0425,Nagpur International Airport,Airport,Nagpur,Maharashtra,21.071232,79.04852,Yes,Yes,Yes,Yes,Yes,No,No,No,Good,Average,High,Yes,Yes,Yes,Medium,42,7064,3.1,0,0,4,Average,Yes,100,Excellent,Low
+LOC0426,Thiruvananthapuram City Hospital,Hospital,Thiruvananthapuram,Kerala,8.385767,76.80117,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Good,Average,Medium,Yes,Yes,Yes,Low,10,3597,2.7,0,21,4,Poor,Yes,89.9,Good,Low
+LOC0427,Surat Collectorate Office,Government Office,Surat,Gujarat,21.157327,72.765203,No,No,Yes,No,No,No,No,Yes,Poor,Poor,Medium,No,No,No,Medium,39,3716,3.3,3,16,2,NA,Partial,26.1,Poor,High
+LOC0428,Thane District Office,Government Office,Thane,Maharashtra,19.304856,73.00691,No,No,No,No,No,Yes,No,No,Good,Average,High,Yes,Yes,Yes,Low,23,3127,2.7,2,10,3,NA,No,55,Average,Low
+LOC0429,Bhopal Collectorate Office,Government Office,Bhopal,Madhya Pradesh,23.336797,77.301057,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Good,Poor,High,Yes,Yes,No,Low,39,1434,2.8,2,5,3,Good,Partial,92.1,Excellent,Low
+LOC0430,Pune Shopping Mall,Mall,Pune,Maharashtra,18.424019,73.796897,Yes,No,No,No,Yes,No,No,Yes,Poor,Average,Medium,No,Yes,Yes,Medium,8,18141,2.9,1,12,3,NA,No,42.1,Poor,High
+LOC0431,Chandigarh City Hospital,Hospital,Chandigarh,Chandigarh,30.720499,76.916027,Yes,Yes,Yes,No,No,No,Yes,Yes,Average,Average,Low,Yes,Yes,Yes,Medium,24,4521,3.4,1,8,4,Good,Yes,76.2,Good,Medium
+LOC0432,Guwahati District Office,Government Office,Guwahati,Assam,26.14616,91.745751,Yes,Yes,No,No,Yes,Yes,No,No,Average,Good,High,Yes,Yes,No,Low,37,4719,2.7,3,1,1,Average,Partial,80.5,Good,Low
+LOC0433,Patna Central Park,Park,Patna,Bihar,25.541657,85.118416,Yes,No,No,Yes,No,Yes,No,No,Average,Poor,Low,Yes,No,Yes,Low,2,2900,2.5,3,16,1,NA,No,38.7,Poor,High
+LOC0434,Udaipur Junction,Railway Station,Udaipur,Rajasthan,24.506811,73.650331,Yes,Yes,Yes,No,No,Yes,No,No,Poor,Good,Medium,Yes,Yes,Yes,Low,36,11423,3.3,3,10,1,Poor,Yes,70,Average,Medium
+LOC0435,Kanpur Public Garden,Park,Kanpur,Uttar Pradesh,26.417297,80.396625,No,No,No,No,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,No,Medium,21,232,2.8,4,13,1,NA,Partial,33.2,Poor,High
+LOC0436,Indore City Hospital,Hospital,Indore,Madhya Pradesh,22.628709,75.870266,No,No,Yes,No,Yes,No,No,Yes,Good,Average,High,No,Yes,Yes,Low,21,1011,4,2,18,7,NA,Yes,73.7,Average,Low
+LOC0437,Lucknow College of Engineering,College,Lucknow,Uttar Pradesh,26.981887,80.895976,Yes,Yes,Yes,No,No,No,No,Yes,Good,Average,High,Yes,Yes,Yes,Low,30,4499,2,1,9,3,Average,Partial,83.9,Good,Low
+LOC0438,Lucknow Government College,College,Lucknow,Uttar Pradesh,26.922125,80.984664,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Good,High,Yes,No,Yes,High,29,4172,4.1,3,12,1,Good,Yes,100,Excellent,Low
+LOC0439,Kochi Central Park,Park,Kochi,Kerala,9.964066,76.267362,Yes,No,No,No,Yes,No,No,No,Poor,Average,Medium,Yes,Yes,No,Medium,12,682,3.5,1,12,1,NA,Partial,46.9,Poor,High
+LOC0440,Mumbai Botanical Garden,Tourist Attraction,Mumbai,Maharashtra,18.941692,72.999093,Yes,No,Yes,No,No,Yes,No,Yes,Good,Poor,High,Yes,Yes,Yes,Low,5,211,2.4,5,3,1,NA,No,64.8,Average,Medium
+LOC0441,Nashik Collectorate Office,Government Office,Nashik,Maharashtra,19.930342,73.828289,No,No,Yes,No,No,Yes,No,No,Average,Good,High,No,No,Yes,Low,39,2963,2.2,5,21,2,NA,Partial,52.5,Poor,Medium
+LOC0442,Coimbatore Heritage Fort,Tourist Attraction,Coimbatore,Tamil Nadu,11.011767,77.00821,No,No,No,No,No,No,Yes,Yes,Good,Good,Medium,Yes,Yes,Yes,Low,16,1008,3.2,1,6,1,NA,Yes,68.9,Average,Medium
+LOC0443,Kochi Plaza Mall,Mall,Kochi,Kerala,9.999065,76.303399,No,Yes,No,No,Yes,Yes,Yes,No,Average,Average,High,Yes,No,Yes,Medium,42,11025,4.8,2,7,5,Good,Yes,82.8,Good,Low
+LOC0444,Visakhapatnam Bus Depot,Bus Stop,Visakhapatnam,Andhra Pradesh,17.805864,83.345955,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Poor,Average,Low,No,Yes,Yes,Medium,9,1718,2.6,5,13,1,NA,No,49.8,Poor,High
+LOC0445,Pune Junction,Railway Station,Pune,Maharashtra,18.391966,73.819567,Yes,No,No,No,No,Yes,No,No,Average,Average,Low,Yes,Yes,Yes,High,42,9368,3,2,22,3,NA,Yes,47.1,Poor,High
+LOC0446,Thiruvananthapuram Bus Depot,Bus Stop,Thiruvananthapuram,Kerala,8.46335,76.931539,No,Yes,No,No,No,No,No,No,Average,Good,High,Yes,No,No,Medium,11,2686,2,4,8,1,Average,No,45.6,Poor,Medium
+LOC0447,Kochi Collectorate Office,Government Office,Kochi,Kerala,9.864795,76.368219,No,Yes,No,Yes,No,No,Yes,No,Poor,Average,High,Yes,Yes,Yes,Low,13,1747,3.8,2,18,1,Average,Partial,64.1,Average,Medium
+LOC0448,Kolkata Public Garden,Park,Kolkata,West Bengal,22.59318,88.503722,No,Yes,No,No,No,Yes,No,No,Average,Poor,Medium,Yes,Yes,Yes,High,3,2608,2.8,3,10,1,Good,No,40.5,Poor,High
+LOC0449,Lucknow Railway Station,Railway Station,Lucknow,Uttar Pradesh,26.710676,81.007477,No,Yes,Yes,Yes,No,No,No,No,Average,Average,Low,Yes,Yes,Yes,Medium,16,17526,2.8,1,15,3,Good,Yes,62.4,Average,Medium
+LOC0450,Lucknow Bus Stand,Bus Stop,Lucknow,Uttar Pradesh,26.809323,80.937592,No,No,No,No,No,No,No,Yes,Poor,Good,High,No,Yes,No,Medium,14,1225,2.6,4,7,1,NA,No,32.5,Poor,High
+LOC0451,Jaipur Degree College,College,Jaipur,Rajasthan,26.843097,75.739172,No,Yes,Yes,Yes,Yes,No,No,No,Average,Good,High,No,No,Yes,High,14,2072,4.6,2,7,3,Average,Yes,80.2,Good,Low
+LOC0452,Pune City Park,Park,Pune,Maharashtra,18.511479,73.857981,No,No,Yes,No,No,No,No,No,Poor,Good,Medium,Yes,No,No,Medium,15,1992,3,3,15,1,NA,Yes,40.4,Poor,High
+LOC0453,Indore District Office,Government Office,Indore,Madhya Pradesh,22.617138,75.945999,Yes,No,No,No,No,No,No,No,Poor,Average,Low,Yes,Yes,Yes,High,34,2645,2,1,10,3,NA,Partial,28.7,Poor,High
+LOC0454,Mumbai Domestic Airport,Airport,Mumbai,Maharashtra,19.096833,72.882623,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Good,Average,High,Yes,Yes,Yes,High,42,11321,4.1,4,17,4,Good,Yes,100,Excellent,Medium
+LOC0455,Ahmedabad Junction,Railway Station,Ahmedabad,Gujarat,23.139993,72.503598,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Average,Medium,Yes,Yes,Yes,Medium,10,5397,3.4,3,3,3,Average,Partial,89.3,Good,Low
+LOC0456,Coimbatore Grand Mall,Mall,Coimbatore,Tamil Nadu,11.098571,76.967775,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Average,High,Yes,No,Yes,Medium,25,3503,2.9,1,19,3,Good,Yes,99.1,Excellent,Low
+LOC0457,Visakhapatnam International Airport,Airport,Visakhapatnam,Andhra Pradesh,17.565723,83.105966,Yes,Yes,Yes,Yes,Yes,No,No,No,Average,Poor,High,Yes,No,Yes,Medium,30,14279,3.4,0,13,6,Good,Yes,84.2,Good,Low
+LOC0458,Delhi Domestic Airport,Airport,Delhi,Delhi,28.827544,76.991738,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Average,Good,High,Yes,Yes,No,Medium,29,7911,3.8,0,3,3,NA,Yes,97,Excellent,Low
+LOC0459,Mumbai Degree College,College,Mumbai,Maharashtra,19.066707,72.743379,Yes,No,Yes,No,No,Yes,No,Yes,Average,Average,High,Yes,No,No,Medium,38,570,3.7,2,0,2,NA,Partial,71.5,Average,Low
+LOC0460,Mysuru City Bus Stop,Bus Stop,Mysuru,Karnataka,12.342343,76.52031,No,Yes,No,No,No,No,No,No,Average,Poor,Low,Yes,Yes,Yes,Medium,14,2777,2.4,5,8,1,Good,Partial,33,Poor,High
+LOC0461,Chandigarh Tehsil Office,Government Office,Chandigarh,Chandigarh,30.598141,76.676429,Yes,No,Yes,No,No,No,No,No,Average,Poor,High,Yes,Yes,Yes,Medium,29,3630,3.6,1,23,3,NA,Partial,54.5,Poor,Medium
+LOC0462,Mumbai College of Engineering,College,Mumbai,Maharashtra,18.949203,72.963332,No,Yes,Yes,No,No,Yes,No,Yes,Good,Average,High,Yes,No,Yes,Medium,34,3044,3.9,2,19,2,Good,No,76.3,Good,Low
+LOC0463,Kanpur District Office,Government Office,Kanpur,Uttar Pradesh,26.554616,80.278606,No,Yes,No,No,Yes,Yes,No,No,Average,Good,Low,Yes,Yes,No,Medium,38,3043,2.7,4,7,2,Average,Yes,56.9,Average,Medium
+LOC0464,Nashik Lake View Point,Tourist Attraction,Nashik,Maharashtra,19.893391,73.92007,Yes,No,No,No,Yes,Yes,No,Yes,Average,Average,Medium,Yes,Yes,Yes,Low,17,2547,4.3,2,17,1,NA,Partial,69.8,Average,Medium
+LOC0465,Hyderabad International Airport,Airport,Hyderabad,Telangana,17.438021,78.470466,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Good,Good,High,Yes,Yes,No,High,34,17093,3.7,5,20,3,Good,Yes,100,Excellent,Medium
+LOC0466,Indore Railway Station,Railway Station,Indore,Madhya Pradesh,22.688104,75.956364,Yes,Yes,No,No,Yes,No,Yes,Yes,Average,Poor,High,Yes,Yes,Yes,High,13,15555,2.4,4,20,3,Good,No,61,Average,Medium
+LOC0467,Lucknow Collectorate Office,Government Office,Lucknow,Uttar Pradesh,26.812388,81.00741,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Average,High,No,Yes,Yes,Low,18,2672,3.1,2,4,2,Good,Yes,100,Excellent,Low
+LOC0468,Nagpur Multispeciality Hospital,Hospital,Nagpur,Maharashtra,21.069173,79.043103,Yes,Yes,Yes,Yes,No,No,No,Yes,Good,Average,Low,No,No,Yes,High,26,2534,4.1,2,7,6,Good,Yes,80.7,Good,Medium
+LOC0469,Chennai City Bus Stop,Bus Stop,Chennai,Tamil Nadu,13.005733,80.128417,No,Yes,No,No,No,No,Yes,No,Poor,Good,Medium,No,Yes,No,Medium,7,1323,1.6,6,0,1,Average,Partial,40,Poor,High
+LOC0470,Indore Railway Station,Railway Station,Indore,Madhya Pradesh,22.676554,75.746953,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Good,Good,Medium,Yes,Yes,Yes,Medium,25,17076,4.2,2,17,3,NA,Yes,94.5,Excellent,Low
+LOC0471,Visakhapatnam City Park,Park,Visakhapatnam,Andhra Pradesh,17.556158,83.099926,Yes,No,Yes,No,Yes,No,No,No,Poor,Average,High,No,Yes,Yes,Medium,20,1499,2,1,14,1,NA,Yes,57.1,Average,Medium
+LOC0472,Hyderabad Museum,Tourist Attraction,Hyderabad,Telangana,17.324544,78.584437,Yes,Yes,No,No,Yes,No,Yes,No,Average,Average,Low,Yes,No,No,High,11,1515,3.7,2,16,1,Poor,Yes,56.1,Average,Medium
+LOC0473,Thane Railway Station,Railway Station,Thane,Maharashtra,19.257021,72.883373,Yes,Yes,No,Yes,No,No,Yes,Yes,Poor,Average,Low,Yes,Yes,Yes,Low,12,14536,4,2,14,1,Poor,Yes,65.3,Average,Medium
+LOC0474,Visakhapatnam Government College,College,Visakhapatnam,Andhra Pradesh,17.591736,83.174834,No,No,Yes,Yes,No,Yes,No,Yes,Poor,Average,Low,Yes,Yes,Yes,High,33,2750,4.2,6,8,2,NA,Partial,45.6,Poor,High
+LOC0475,Ahmedabad Plaza Mall,Mall,Ahmedabad,Gujarat,22.936744,72.596132,Yes,Yes,Yes,No,No,Yes,No,No,Average,Good,High,Yes,Yes,Yes,Low,17,8663,2.2,0,17,3,Poor,No,72,Average,Low
+LOC0476,Bengaluru Multispeciality Hospital,Hospital,Bengaluru,Karnataka,13.085736,77.486275,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Good,Good,Medium,Yes,Yes,Yes,High,31,558,3.4,4,10,3,Poor,Yes,98.5,Excellent,Medium
+LOC0477,Guwahati City Bus Stop,Bus Stop,Guwahati,Assam,26.087514,91.755488,Yes,No,Yes,No,No,No,No,No,Poor,Good,High,No,Yes,No,Medium,12,2439,2.4,9,14,1,NA,Partial,44.9,Poor,High
+LOC0478,Chandigarh Junction,Railway Station,Chandigarh,Chandigarh,30.787742,76.633388,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Poor,High,Yes,No,Yes,Low,25,16598,3.3,2,3,2,Good,Yes,95.9,Excellent,Low
+LOC0479,Kochi Museum,Tourist Attraction,Kochi,Kerala,9.991582,76.129693,Yes,Yes,Yes,No,No,No,No,No,Poor,Poor,Medium,No,No,No,Low,8,470,2.3,1,2,1,Good,Partial,47.8,Poor,High
+LOC0480,Visakhapatnam Public Garden,Park,Visakhapatnam,Andhra Pradesh,17.650479,83.140768,No,No,Yes,No,Yes,No,No,No,Poor,Average,Medium,Yes,No,No,Low,18,1043,3,6,0,1,NA,No,33.2,Poor,High
+LOC0481,Thane Domestic Airport,Airport,Thane,Maharashtra,19.087809,73.102624,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Good,Average,High,Yes,No,Yes,High,41,9650,2.9,3,6,3,Good,Partial,99.4,Excellent,Low
+LOC0482,Nagpur Grand Mall,Mall,Nagpur,Maharashtra,21.153772,79.073725,No,Yes,Yes,No,No,Yes,Yes,No,Good,Good,High,Yes,Yes,Yes,High,9,6524,3.5,4,4,7,Good,Yes,89.7,Good,Medium
+LOC0483,Kolkata City Bus Stop,Bus Stop,Kolkata,West Bengal,22.533612,88.374282,Yes,No,No,No,Yes,No,No,No,Poor,Good,Medium,No,Yes,Yes,High,21,1793,2.1,8,17,1,NA,Partial,36.4,Poor,High
+LOC0484,Nagpur Botanical Garden,Tourist Attraction,Nagpur,Maharashtra,21.114074,79.19997,No,No,Yes,No,No,No,No,No,Poor,Poor,Medium,Yes,Yes,Yes,Medium,23,616,2.9,3,5,1,NA,No,23.6,Poor,High
+LOC0485,Hyderabad Central Park,Park,Hyderabad,Telangana,17.345653,78.561872,No,Yes,Yes,No,No,No,No,No,Poor,Good,Medium,Yes,Yes,Yes,Medium,4,762,2.6,4,18,1,Poor,Yes,47.9,Poor,High
+LOC0486,Thiruvananthapuram International Airport,Airport,Thiruvananthapuram,Kerala,8.406708,77.079905,Yes,No,No,Yes,Yes,Yes,Yes,No,Good,Average,Low,Yes,No,No,High,15,7526,3.4,2,17,3,NA,Partial,67.1,Average,Medium
+LOC0487,Hyderabad Collectorate Office,Government Office,Hyderabad,Telangana,17.278015,78.452708,Yes,Yes,No,No,No,No,No,No,Good,Average,Medium,No,Yes,Yes,Medium,38,4760,2.5,3,14,2,Average,Yes,66,Average,Medium
+LOC0488,Patna Bus Stand,Bus Stop,Patna,Bihar,25.584198,85.084844,No,No,Yes,No,Yes,Yes,No,Yes,Poor,Average,Medium,No,Yes,Yes,High,24,1161,2.9,2,20,1,NA,No,39.1,Poor,High
+LOC0489,Kanpur Government College,College,Kanpur,Uttar Pradesh,26.465665,80.417648,Yes,Yes,Yes,No,Yes,Yes,No,No,Good,Good,Low,Yes,No,Yes,Low,7,710,2.8,1,3,1,Average,Yes,86.2,Good,Medium
+LOC0490,Chandigarh Government College,College,Chandigarh,Chandigarh,30.612632,76.766831,Yes,Yes,Yes,Yes,Yes,No,No,No,Poor,Good,Medium,Yes,No,Yes,Medium,25,3932,2.7,4,3,1,Average,No,65.4,Average,Medium
+LOC0491,Jaipur Municipal Office,Government Office,Jaipur,Rajasthan,26.861671,75.798478,Yes,Yes,No,No,Yes,No,No,No,Good,Good,High,Yes,Yes,Yes,Low,16,1297,3.6,1,3,1,Average,Yes,92.5,Excellent,Low
+LOC0492,Kanpur Domestic Airport,Airport,Kanpur,Uttar Pradesh,26.336883,80.413828,Yes,No,Yes,Yes,No,No,Yes,No,Average,Good,Medium,Yes,No,Yes,Medium,32,6372,2.5,2,2,7,NA,Yes,74.6,Average,Medium
+LOC0493,Ahmedabad College of Engineering,College,Ahmedabad,Gujarat,23.002794,72.648799,Yes,Yes,No,No,No,Yes,No,No,Average,Good,Medium,Yes,No,No,High,23,4135,3.3,1,12,1,Poor,Yes,64.3,Average,Medium
+LOC0494,Patna International Airport,Airport,Patna,Bihar,25.570199,85.12445,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Poor,High,Yes,Yes,Yes,Medium,38,12777,3.7,1,6,7,Average,Yes,94.4,Excellent,Low
+LOC0495,Guwahati College of Engineering,College,Guwahati,Assam,26.205454,91.754488,No,Yes,No,Yes,No,Yes,No,Yes,Average,Poor,High,Yes,Yes,Yes,Medium,29,1171,3,0,14,2,Average,No,60.9,Average,Low
+LOC0496,Ahmedabad College of Engineering,College,Ahmedabad,Gujarat,23.083449,72.629215,Yes,No,Yes,No,Yes,No,No,No,Average,Good,Medium,Yes,No,Yes,Medium,5,858,4.4,0,23,2,NA,Partial,66.8,Average,Medium
+LOC0497,Chandigarh City Park,Park,Chandigarh,Chandigarh,30.819974,76.87156,No,Yes,No,No,No,No,Yes,No,Average,Average,Medium,Yes,No,Yes,Low,14,1616,2.5,6,4,1,Average,Yes,55.1,Average,Medium
+LOC0498,Nagpur City Bus Stop,Bus Stop,Nagpur,Maharashtra,21.179249,79.1864,No,No,No,No,No,No,No,No,Good,Average,Medium,No,Yes,No,Medium,2,2748,1.3,7,13,1,NA,No,27.3,Poor,High
+LOC0499,Ahmedabad Plaza Mall,Mall,Ahmedabad,Gujarat,22.97587,72.538635,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Good,Low,Yes,No,Yes,High,35,8669,4.2,7,1,7,Good,Partial,70.8,Average,High
+LOC0500,Coimbatore Central Park,Park,Coimbatore,Tamil Nadu,11.121255,76.971868,No,No,Yes,No,No,No,No,No,Good,Poor,Low,Yes,No,Yes,Low,23,2673,3.7,7,8,1,NA,Yes,40.3,Poor,High
+LOC0501,Coimbatore District Office,Government Office,Coimbatore,Tamil Nadu,10.928384,77.068592,No,No,Yes,No,Yes,No,No,Yes,Poor,Average,Low,Yes,Yes,Yes,High,36,1906,3.9,5,3,3,NA,No,31.2,Poor,High
+LOC0502,Bengaluru City Bus Stop,Bus Stop,Bengaluru,Karnataka,13.039288,77.444807,No,Yes,Yes,No,No,No,No,No,Poor,Poor,Low,No,Yes,Yes,High,11,1215,2.6,9,15,1,Good,No,15.4,Poor,High
+LOC0503,Hyderabad Botanical Garden,Tourist Attraction,Hyderabad,Telangana,17.402332,78.447811,No,No,Yes,No,Yes,No,No,No,Average,Average,Low,No,Yes,No,Medium,14,2243,2.6,4,20,1,NA,Yes,37.6,Poor,High
+LOC0504,Guwahati City Park,Park,Guwahati,Assam,26.279761,91.835702,No,Yes,Yes,Yes,Yes,Yes,No,No,Poor,Average,Low,Yes,Yes,No,Medium,3,358,3.9,3,16,1,Average,Partial,57.9,Average,Medium
+LOC0505,Kanpur Central Park,Park,Kanpur,Uttar Pradesh,26.449863,80.214285,No,Yes,Yes,Yes,No,Yes,No,No,Average,Poor,Medium,No,No,Yes,High,13,1253,3.7,8,12,1,Poor,Partial,46.9,Poor,High
+LOC0506,Jaipur Plaza Mall,Mall,Jaipur,Rajasthan,26.828451,75.758267,Yes,No,Yes,No,Yes,Yes,No,No,Poor,Good,Low,No,Yes,Yes,High,14,17595,3.8,7,20,7,NA,Partial,45.8,Poor,High
+LOC0507,Ahmedabad Bus Stand,Bus Stop,Ahmedabad,Gujarat,23.12373,72.531161,No,No,Yes,No,No,Yes,No,No,Poor,Average,Medium,No,Yes,No,High,18,1690,2.4,8,23,1,NA,Partial,27.4,Poor,High
+LOC0508,Guwahati Institute of Technology,College,Guwahati,Assam,26.239702,91.724497,Yes,No,No,Yes,No,Yes,No,No,Poor,Poor,Low,No,No,Yes,High,32,1628,3.3,8,19,3,NA,No,20.6,Poor,High
+LOC0509,Pune Central Station,Railway Station,Pune,Maharashtra,18.437314,73.944891,Yes,Yes,Yes,No,No,No,Yes,Yes,Average,Poor,High,Yes,Yes,No,Medium,39,4472,1,3,18,1,Average,No,56.9,Average,Low
+LOC0510,Kolkata Junction,Railway Station,Kolkata,West Bengal,22.61311,88.21682,Yes,No,Yes,No,No,No,No,Yes,Poor,Good,Low,Yes,Yes,Yes,High,5,16738,4.4,5,9,3,NA,No,40.9,Poor,High
+LOC0511,Guwahati Temple Complex,Tourist Attraction,Guwahati,Assam,26.247905,91.775511,No,No,No,No,No,No,Yes,No,Poor,Average,Medium,Yes,Yes,Yes,Low,11,2759,2.3,3,13,1,NA,Partial,35.5,Poor,High
+LOC0512,Kochi College of Engineering,College,Kochi,Kerala,9.908928,76.382411,Yes,No,No,No,No,Yes,No,No,Average,Good,High,Yes,No,Yes,High,12,2141,2.7,5,11,3,NA,No,51.5,Poor,High
+LOC0513,Ahmedabad Collectorate Office,Government Office,Ahmedabad,Gujarat,23.010396,72.612173,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Average,Average,Medium,Yes,Yes,No,Low,20,3153,3.1,2,7,3,NA,No,73.7,Average,Medium
+LOC0514,Kochi Health Centre,Hospital,Kochi,Kerala,9.782923,76.342566,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Average,Poor,Low,Yes,Yes,Yes,High,27,923,3.6,2,21,3,Good,Yes,64.1,Average,Medium
+LOC0515,Delhi Junction,Railway Station,Delhi,Delhi,28.825691,77.099809,Yes,No,Yes,Yes,No,No,No,Yes,Average,Poor,Low,Yes,Yes,Yes,Medium,31,12995,3.2,2,16,1,NA,No,45.6,Poor,High
+LOC0516,Chandigarh Green Park,Park,Chandigarh,Chandigarh,30.862138,76.89395,Yes,No,Yes,Yes,Yes,No,Yes,No,Average,Poor,Medium,No,No,Yes,Low,7,1970,1.9,2,22,1,NA,Partial,57.8,Average,Medium
+LOC0517,Indore College of Engineering,College,Indore,Madhya Pradesh,22.671268,75.914579,Yes,No,Yes,No,Yes,No,Yes,No,Good,Average,Medium,Yes,Yes,Yes,High,5,4449,3.7,4,17,2,NA,Yes,74.3,Average,Medium
+LOC0518,Thiruvananthapuram Institute of Technology,College,Thiruvananthapuram,Kerala,8.483951,76.986428,Yes,Yes,No,No,Yes,Yes,Yes,No,Good,Good,Medium,Yes,Yes,Yes,Medium,34,2625,3.1,4,5,2,Average,Yes,91.3,Excellent,Medium
+LOC0519,Guwahati City Park,Park,Guwahati,Assam,26.087941,91.614192,No,No,Yes,No,No,Yes,No,No,Poor,Average,Low,Yes,No,Yes,Medium,12,2174,3.1,8,1,1,NA,Yes,34.8,Poor,High
+LOC0520,Kolkata Institute of Technology,College,Kolkata,West Bengal,22.516865,88.304328,No,No,No,No,Yes,Yes,Yes,Yes,Poor,Average,Low,Yes,Yes,No,High,33,4104,2.9,5,18,2,NA,Yes,39,Poor,High
+LOC0521,Surat General Hospital,Hospital,Surat,Gujarat,21.108405,72.697153,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Average,Medium,No,No,No,Low,14,855,4.5,2,4,3,Good,Yes,86.3,Good,Low
+LOC0522,Kolkata Green Park,Park,Kolkata,West Bengal,22.445046,88.245003,Yes,No,No,No,No,No,No,No,Poor,Poor,High,Yes,No,No,Medium,16,2376,3,8,4,1,NA,Partial,32,Poor,High
+LOC0523,Chandigarh Central Park,Park,Chandigarh,Chandigarh,30.876131,76.632894,Yes,No,Yes,No,No,No,Yes,No,Poor,Good,Low,Yes,No,No,Medium,5,1158,2.3,1,17,1,NA,No,36.6,Poor,High
+LOC0524,Guwahati Tehsil Office,Government Office,Guwahati,Assam,26.043262,91.779754,Yes,No,No,No,No,No,Yes,No,Average,Average,High,Yes,No,No,Low,34,3009,2.2,2,14,1,NA,Yes,59.9,Average,Low
+LOC0525,Lucknow Central Park,Park,Lucknow,Uttar Pradesh,26.838623,81.033329,Yes,No,Yes,No,Yes,Yes,No,Yes,Good,Average,Low,Yes,Yes,No,Low,16,2609,3.7,4,2,1,NA,No,66.6,Average,Medium
+LOC0526,Surat District Office,Government Office,Surat,Gujarat,21.045693,72.898918,No,No,Yes,No,No,No,No,No,Good,Average,Medium,Yes,Yes,Yes,Medium,29,3405,3.4,4,15,2,NA,Partial,52.8,Poor,High
+LOC0527,Mumbai Museum,Tourist Attraction,Mumbai,Maharashtra,19.0261,72.991087,No,Yes,No,No,Yes,No,No,No,Poor,Average,Low,Yes,Yes,No,Medium,19,2224,2.3,7,8,1,Poor,No,21.1,Poor,High
+LOC0528,Delhi Bus Stand,Bus Stop,Delhi,Delhi,28.636391,77.061826,No,Yes,No,Yes,No,Yes,No,No,Good,Average,High,Yes,Yes,No,Medium,18,2796,2.6,3,6,1,Poor,Yes,74.5,Average,Low
+LOC0529,Thiruvananthapuram Institute of Technology,College,Thiruvananthapuram,Kerala,8.375768,76.953599,No,Yes,Yes,No,No,Yes,No,No,Average,Average,Medium,Yes,No,No,Low,10,3097,2.1,0,19,1,Good,Yes,64.5,Average,Medium
+LOC0530,Bhopal Tehsil Office,Government Office,Bhopal,Madhya Pradesh,23.329563,77.417785,No,Yes,No,Yes,No,Yes,Yes,No,Average,Good,Medium,No,No,Yes,Low,36,2200,3.8,4,21,2,Average,No,63,Average,Medium
+LOC0531,Mysuru Medical Center,Hospital,Mysuru,Karnataka,12.414174,76.608509,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Average,Medium,Yes,Yes,Yes,High,33,1976,3.1,3,6,5,Good,Yes,100,Excellent,Medium
+LOC0532,Delhi City Centre Mall,Mall,Delhi,Delhi,28.599675,76.997984,Yes,Yes,Yes,Yes,No,No,No,No,Average,Good,Medium,Yes,No,No,Low,35,8437,3,0,18,6,Average,Partial,76.3,Good,Low
+LOC0533,Guwahati Degree College,College,Guwahati,Assam,26.249911,91.723454,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Good,Good,Medium,Yes,Yes,Yes,High,15,2109,3.4,4,2,2,NA,Yes,89.7,Good,Medium
+LOC0534,Bhopal City Hospital,Hospital,Bhopal,Madhya Pradesh,23.184451,77.507913,Yes,Yes,Yes,Yes,Yes,No,No,No,Good,Average,High,Yes,Yes,Yes,High,5,2873,3.5,2,0,5,Poor,Yes,92.9,Excellent,Low
+LOC0535,Delhi Domestic Airport,Airport,Delhi,Delhi,28.793103,77.084944,No,Yes,No,No,No,Yes,No,Yes,Good,Good,High,Yes,Yes,No,Low,26,11275,3.7,2,23,6,Poor,Partial,74,Average,Low
+LOC0536,Jaipur Airport Terminal,Airport,Jaipur,Rajasthan,26.89207,75.889696,Yes,Yes,Yes,No,No,Yes,No,No,Poor,Good,Medium,Yes,No,No,High,41,14145,3.8,4,23,2,Good,Partial,62.7,Average,High
+LOC0537,Hyderabad Institute of Technology,College,Hyderabad,Telangana,17.265842,78.427321,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Good,Poor,High,Yes,Yes,No,Medium,37,2720,3.8,4,20,3,Average,Yes,91.2,Excellent,Low
+LOC0538,Hyderabad Grand Mall,Mall,Hyderabad,Telangana,17.377153,78.390096,No,Yes,No,Yes,Yes,No,No,No,Poor,Good,High,Yes,Yes,Yes,High,44,19245,4.2,8,7,3,Poor,Partial,57.2,Average,High
+LOC0539,Delhi Airport Terminal,Airport,Delhi,Delhi,28.705017,77.146235,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Good,Good,Medium,Yes,No,Yes,Medium,20,16807,4.4,1,18,4,Good,Yes,100,Excellent,Low
+LOC0540,Surat Collectorate Office,Government Office,Surat,Gujarat,21.2114,72.744922,Yes,No,No,No,No,Yes,No,Yes,Average,Average,High,Yes,Yes,Yes,Low,34,4696,2.7,3,20,2,NA,Yes,68.7,Average,Low
+LOC0541,Nashik Municipal Office,Government Office,Nashik,Maharashtra,19.979963,73.765331,Yes,No,No,No,No,Yes,Yes,No,Average,Average,Medium,No,Yes,No,Low,29,3059,3,3,5,1,NA,Yes,61.9,Average,Medium
+LOC0542,Delhi Shopping Mall,Mall,Delhi,Delhi,28.839338,77.240938,No,Yes,No,No,Yes,No,No,Yes,Good,Good,Medium,Yes,No,Yes,Medium,25,8969,3,1,11,2,Average,Partial,69.5,Average,Medium
+LOC0543,Bhopal District Office,Government Office,Bhopal,Madhya Pradesh,23.224419,77.516416,Yes,Yes,No,Yes,No,No,No,No,Poor,Good,High,No,Yes,Yes,Low,15,4519,2.5,4,7,2,Average,Yes,70.2,Average,Medium
+LOC0544,Visakhapatnam Junction,Railway Station,Visakhapatnam,Andhra Pradesh,17.724166,83.302664,No,No,No,Yes,No,No,Yes,No,Average,Poor,High,No,Yes,Yes,Medium,12,12768,3.1,4,17,3,NA,Yes,49.5,Poor,Medium
+LOC0545,Patna Public Garden,Park,Patna,Bihar,25.640604,85.252942,Yes,No,No,No,No,Yes,No,No,Poor,Poor,Medium,Yes,No,No,Medium,18,1617,2.7,3,2,1,NA,Yes,39.4,Poor,High
+LOC0546,Indore City Centre Mall,Mall,Indore,Madhya Pradesh,22.625461,75.767,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Average,Medium,Yes,Yes,No,High,16,8198,3,6,4,6,Poor,Yes,84.6,Good,Medium
+LOC0547,Nashik Central Station,Railway Station,Nashik,Maharashtra,19.969078,73.856942,No,No,No,Yes,Yes,Yes,Yes,No,Average,Good,Low,Yes,Yes,No,Medium,38,4055,2.7,5,18,2,NA,No,47.4,Poor,High
+LOC0548,Pune Degree College,College,Pune,Maharashtra,18.506885,73.735264,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Average,Good,High,Yes,No,Yes,High,24,3235,3.4,4,4,3,Poor,Yes,88.4,Good,Medium
+LOC0549,Thane City Centre Mall,Mall,Thane,Maharashtra,19.206638,72.912131,Yes,No,No,Yes,No,Yes,Yes,No,Average,Poor,Medium,Yes,No,Yes,High,37,15406,3.8,3,19,7,NA,Yes,60.1,Average,Medium
+LOC0550,Chandigarh International Airport,Airport,Chandigarh,Chandigarh,30.682309,76.91539,No,Yes,Yes,No,No,Yes,No,Yes,Average,Good,Low,Yes,No,Yes,Medium,18,9006,3.6,1,5,6,Good,Yes,70.2,Average,Medium
+LOC0551,Bengaluru Museum,Tourist Attraction,Bengaluru,Karnataka,12.871042,77.650705,No,Yes,Yes,Yes,Yes,No,No,No,Average,Poor,Medium,No,Yes,Yes,Low,17,2962,3.7,1,11,1,Average,No,56.7,Average,Medium
+LOC0552,Ahmedabad Plaza Mall,Mall,Ahmedabad,Gujarat,22.883308,72.658257,Yes,No,Yes,Yes,Yes,Yes,No,No,Average,Good,Low,Yes,Yes,No,Medium,25,10850,2.9,1,7,3,NA,Yes,73.9,Average,Medium
+LOC0553,Thiruvananthapuram Central Station,Railway Station,Thiruvananthapuram,Kerala,8.408565,76.849565,Yes,Yes,Yes,No,No,No,Yes,No,Good,Good,High,Yes,Yes,Yes,Medium,31,16214,3.3,2,15,3,Good,Yes,96.1,Excellent,Low
+LOC0554,Coimbatore International Airport,Airport,Coimbatore,Tamil Nadu,10.931054,76.981779,Yes,No,Yes,No,Yes,No,No,Yes,Average,Average,High,Yes,Yes,Yes,Medium,11,14870,4.4,3,22,6,NA,Partial,72.5,Average,Low
+LOC0555,Bhopal City Bus Stop,Bus Stop,Bhopal,Madhya Pradesh,23.142698,77.360562,No,No,Yes,No,No,No,No,No,Good,Average,Low,Yes,Yes,No,Medium,3,1884,2.5,6,19,1,NA,Partial,37.9,Poor,High
+LOC0556,Mumbai Collectorate Office,Government Office,Mumbai,Maharashtra,19.102657,73.007656,Yes,No,No,Yes,No,Yes,No,No,Poor,Average,Medium,No,Yes,Yes,High,13,2788,3.6,8,5,3,NA,Yes,51.6,Poor,High
+LOC0557,Bhopal Public Garden,Park,Bhopal,Madhya Pradesh,23.39543,77.345239,Yes,Yes,No,Yes,No,No,Yes,Yes,Poor,Good,Medium,No,Yes,No,Low,20,2069,2.7,0,17,1,Average,Partial,69.5,Average,Medium
+LOC0558,Patna Shopping Mall,Mall,Patna,Bihar,25.454728,85.09241,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Good,Good,Medium,Yes,Yes,Yes,Low,29,18646,3.6,1,3,3,Good,Partial,100,Excellent,Low
+LOC0559,Ahmedabad Junction,Railway Station,Ahmedabad,Gujarat,22.963038,72.643754,No,No,No,No,No,No,Yes,No,Average,Average,Medium,No,Yes,No,Low,24,12329,1.9,0,9,2,NA,Yes,44.4,Poor,Medium
+LOC0560,Patna Domestic Airport,Airport,Patna,Bihar,25.679503,85.168944,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Average,Poor,Medium,Yes,No,No,Low,36,10076,4.3,1,21,3,Average,Yes,81,Good,Low
+LOC0561,Kolkata Domestic Airport,Airport,Kolkata,West Bengal,22.583243,88.264547,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Good,Poor,High,Yes,No,Yes,Low,32,16773,3.4,3,10,4,Good,Partial,90.3,Excellent,Low
+LOC0562,Coimbatore City Bus Stop,Bus Stop,Coimbatore,Tamil Nadu,10.957708,77.054113,Yes,No,No,No,Yes,No,No,No,Good,Poor,Medium,No,Yes,No,High,21,384,2.6,10,12,1,NA,No,33,Poor,High
+LOC0563,Thiruvananthapuram District Office,Government Office,Thiruvananthapuram,Kerala,8.477853,77.075579,No,No,No,No,No,Yes,Yes,No,Good,Poor,Medium,No,Yes,Yes,Medium,21,3396,2.8,1,6,3,NA,Partial,48.7,Poor,Medium
+LOC0564,Chennai Institute of Technology,College,Chennai,Tamil Nadu,13.23075,80.236444,Yes,Yes,No,No,No,No,Yes,No,Good,Poor,Medium,Yes,Yes,No,Medium,24,2239,3.1,1,0,1,Good,No,62.5,Average,Medium
+LOC0565,Coimbatore City Centre Mall,Mall,Coimbatore,Tamil Nadu,11.010867,77.041233,No,No,Yes,Yes,No,Yes,No,Yes,Average,Poor,Medium,Yes,No,Yes,High,38,14351,3.9,1,22,5,NA,Yes,56.6,Average,Medium
+LOC0566,Coimbatore Collectorate Office,Government Office,Coimbatore,Tamil Nadu,11.1587,76.833732,Yes,Yes,No,No,Yes,Yes,No,Yes,Average,Good,Medium,Yes,Yes,No,Low,32,2663,2.5,0,22,3,Good,No,74.2,Average,Medium
+LOC0567,Chandigarh District Office,Government Office,Chandigarh,Chandigarh,30.791877,76.789262,Yes,Yes,No,Yes,Yes,Yes,No,No,Average,Poor,Low,Yes,Yes,No,Medium,8,1207,2.2,6,9,2,Good,Yes,62.5,Average,Medium
+LOC0568,Thiruvananthapuram City Hospital,Hospital,Thiruvananthapuram,Kerala,8.443761,77.07177,No,Yes,No,No,No,No,Yes,Yes,Average,Poor,High,Yes,No,Yes,High,35,3491,4.1,5,2,4,Good,Partial,57,Average,Medium
+LOC0569,Pune Railway Station,Railway Station,Pune,Maharashtra,18.465979,73.95883,No,Yes,Yes,Yes,Yes,Yes,No,No,Good,Average,High,Yes,Yes,No,Low,40,5698,3.4,1,6,2,Average,No,85.5,Good,Low
+LOC0570,Guwahati Medical Center,Hospital,Guwahati,Assam,26.200049,91.700364,Yes,Yes,No,Yes,Yes,No,No,No,Good,Average,High,Yes,Yes,Yes,Medium,29,3360,3.5,2,0,2,Average,Yes,93.9,Excellent,Low
+LOC0571,Bengaluru Junction,Railway Station,Bengaluru,Karnataka,13.088062,77.660377,Yes,Yes,No,No,No,No,No,No,Poor,Average,Low,Yes,Yes,Yes,High,23,18382,2.7,5,23,1,Poor,Yes,35.6,Poor,High
+LOC0572,Mysuru District Office,Government Office,Mysuru,Karnataka,12.191993,76.706471,Yes,Yes,No,Yes,No,Yes,No,No,Poor,Average,Medium,Yes,No,Yes,Low,31,790,2.6,3,2,3,Average,Partial,65.1,Average,Medium
+LOC0573,Bengaluru City Park,Park,Bengaluru,Karnataka,12.979503,77.507626,No,No,No,Yes,No,No,No,No,Poor,Average,Low,No,No,No,High,4,2737,3.1,5,1,1,NA,Partial,21.2,Poor,High
+LOC0574,Chandigarh Heritage Fort,Tourist Attraction,Chandigarh,Chandigarh,30.664546,76.868825,Yes,Yes,No,No,No,Yes,No,No,Poor,Poor,Medium,Yes,No,No,Medium,6,2437,2.4,3,5,1,Average,Yes,48.1,Poor,High
+LOC0575,Lucknow International Airport,Airport,Lucknow,Uttar Pradesh,26.825453,80.932538,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Average,Good,High,Yes,No,No,High,16,3436,3.7,2,11,7,Good,Yes,100,Excellent,Low
+LOC0576,Thane Plaza Mall,Mall,Thane,Maharashtra,19.18952,73.119766,Yes,Yes,Yes,Yes,Yes,No,No,No,Poor,Good,High,Yes,Yes,No,Medium,7,11055,3.4,1,23,6,Good,Yes,86,Good,Low
+LOC0577,Delhi Temple Complex,Tourist Attraction,Delhi,Delhi,28.792002,77.217589,Yes,No,Yes,No,No,Yes,No,No,Poor,Average,Medium,No,Yes,Yes,Low,24,2321,3.8,1,0,1,NA,Partial,57.6,Average,Medium
+LOC0578,Kolkata Railway Station,Railway Station,Kolkata,West Bengal,22.491495,88.248934,Yes,Yes,No,Yes,No,No,No,Yes,Good,Good,Medium,Yes,Yes,Yes,High,15,11916,2.6,3,5,3,Poor,Partial,75.6,Good,Medium
+LOC0579,Bhopal Railway Station,Railway Station,Bhopal,Madhya Pradesh,23.195455,77.542662,Yes,Yes,Yes,Yes,No,No,No,Yes,Average,Average,Medium,Yes,Yes,No,Medium,10,15571,2.3,1,6,2,Good,Partial,78.2,Good,Low
+LOC0580,Indore Bus Stand,Bus Stop,Indore,Madhya Pradesh,22.729279,75.993088,No,Yes,No,No,No,Yes,No,No,Average,Good,Medium,No,Yes,No,Medium,20,758,2.2,5,23,1,Good,Partial,51.1,Poor,High
+LOC0581,Nagpur Airport Terminal,Airport,Nagpur,Maharashtra,21.024915,79.190136,Yes,No,Yes,No,No,Yes,Yes,Yes,Poor,Good,Medium,Yes,Yes,Yes,Medium,7,8443,4.1,0,16,5,NA,Yes,74.9,Average,Medium
+LOC0582,Guwahati Grand Mall,Mall,Guwahati,Assam,26.236498,91.610219,Yes,No,Yes,No,Yes,No,No,No,Good,Good,High,No,Yes,Yes,High,30,19305,4.4,5,16,6,NA,Yes,77.8,Good,Medium
+LOC0583,Coimbatore Shopping Mall,Mall,Coimbatore,Tamil Nadu,11.01699,76.907874,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Average,Poor,Medium,Yes,No,Yes,Medium,23,12793,3.8,5,11,7,Average,Partial,77.8,Good,Medium
+LOC0584,Ahmedabad Medical Center,Hospital,Ahmedabad,Gujarat,22.973417,72.662663,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Good,High,Yes,No,No,High,9,1403,2.2,3,12,4,Good,Yes,95.4,Excellent,Low
+LOC0585,Hyderabad City Bus Stop,Bus Stop,Hyderabad,Telangana,17.534654,78.447791,No,No,No,No,No,No,No,No,Poor,Average,Medium,No,Yes,No,Low,11,2987,2.4,7,12,1,NA,Partial,22.8,Poor,High
+LOC0586,Hyderabad Railway Station,Railway Station,Hyderabad,Telangana,17.339891,78.636347,No,Yes,Yes,No,Yes,Yes,No,No,Poor,Good,Medium,No,Yes,Yes,Medium,28,8419,3.2,5,1,1,Average,Yes,63.5,Average,Medium
+LOC0587,Chandigarh Grand Mall,Mall,Chandigarh,Chandigarh,30.72632,76.67555,No,Yes,Yes,Yes,No,Yes,Yes,No,Average,Good,High,Yes,No,Yes,Low,13,14277,3.5,1,3,4,Poor,Yes,88.2,Good,Low
+LOC0588,Nagpur Airport Terminal,Airport,Nagpur,Maharashtra,21.133892,79.213888,Yes,Yes,No,Yes,No,Yes,No,Yes,Average,Average,High,Yes,Yes,Yes,Medium,8,17213,2.8,3,8,3,Poor,Yes,82.8,Good,Low
+LOC0589,Pune Central Station,Railway Station,Pune,Maharashtra,18.464673,73.93479,Yes,Yes,Yes,No,Yes,No,No,No,Good,Average,Medium,No,Yes,No,Medium,39,19779,2.9,5,5,3,Average,Partial,72,Average,Medium
+LOC0590,Surat General Hospital,Hospital,Surat,Gujarat,21.096879,72.897455,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Good,Good,High,Yes,Yes,Yes,Medium,31,3932,2.8,1,5,5,Good,Yes,100,Excellent,Low
+LOC0591,Kochi City Bus Stop,Bus Stop,Kochi,Kerala,9.829811,76.361539,No,No,Yes,Yes,Yes,No,No,No,Average,Poor,Medium,No,Yes,Yes,Low,21,1549,1.3,6,23,1,NA,Partial,39.6,Poor,High
+LOC0592,Kolkata Degree College,College,Kolkata,West Bengal,22.650567,88.504728,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Poor,High,No,No,Yes,High,25,887,3.7,3,17,3,Good,Yes,86.1,Good,Low
+LOC0593,Coimbatore City Hospital,Hospital,Coimbatore,Tamil Nadu,11.126547,76.809812,No,Yes,Yes,No,No,Yes,No,Yes,Good,Good,High,Yes,Yes,Yes,High,29,2639,3.2,1,16,2,Average,Yes,85.4,Good,Low
+LOC0594,Nashik Junction,Railway Station,Nashik,Maharashtra,19.931241,73.647541,Yes,Yes,No,Yes,No,No,No,No,Average,Average,High,Yes,Yes,Yes,High,31,9248,2.9,1,6,3,Good,Yes,79,Good,Low
+LOC0595,Kolkata General Hospital,Hospital,Kolkata,West Bengal,22.590352,88.333982,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Poor,Poor,High,Yes,No,Yes,High,33,1811,5,0,16,6,Good,Yes,87.6,Good,Medium
+LOC0596,Kolkata International Airport,Airport,Kolkata,West Bengal,22.553681,88.240172,Yes,Yes,Yes,No,No,Yes,No,No,Average,Poor,Medium,Yes,Yes,Yes,Medium,6,7159,3.9,0,21,2,Good,Yes,73.5,Average,Medium
+LOC0597,Mumbai Bus Stand,Bus Stop,Mumbai,Maharashtra,19.164731,73.013993,No,No,Yes,No,No,Yes,No,No,Poor,Average,High,Yes,Yes,No,Low,17,2782,1.4,5,23,1,NA,Partial,40.8,Poor,High
+LOC0598,Kanpur Plaza Mall,Mall,Kanpur,Uttar Pradesh,26.333101,80.227958,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Poor,Average,High,Yes,No,Yes,Medium,31,7840,5,4,20,6,Average,Yes,87.8,Good,Medium
+LOC0599,Thiruvananthapuram Green Park,Park,Thiruvananthapuram,Kerala,8.558123,76.809187,No,No,No,Yes,No,Yes,No,No,Average,Poor,Low,Yes,Yes,Yes,Medium,5,487,3.4,4,7,1,NA,Yes,42,Poor,High
+LOC0600,Visakhapatnam Collectorate Office,Government Office,Visakhapatnam,Andhra Pradesh,17.816769,83.363283,No,No,Yes,No,Yes,No,No,Yes,Average,Good,Low,Yes,Yes,Yes,Low,19,2713,3.3,5,15,1,NA,Partial,50.6,Poor,High
+LOC0601,Nashik Public Garden,Park,Nashik,Maharashtra,19.979207,73.702911,Yes,No,No,Yes,No,Yes,No,No,Poor,Poor,High,No,Yes,No,High,17,1590,2.6,3,8,1,NA,Partial,44.2,Poor,High
+LOC0602,Udaipur Shopping Mall,Mall,Udaipur,Rajasthan,24.664168,73.757934,No,Yes,No,No,No,Yes,No,Yes,Good,Average,Medium,No,Yes,Yes,Low,15,14403,2.9,1,1,6,Average,Yes,72.8,Average,Medium
+LOC0603,Kolkata City Hospital,Hospital,Kolkata,West Bengal,22.661191,88.33194,Yes,No,No,No,Yes,Yes,No,Yes,Average,Poor,Medium,Yes,Yes,Yes,Medium,20,3937,4.1,0,23,7,NA,Yes,63.8,Average,Medium
+LOC0604,Nashik Collectorate Office,Government Office,Nashik,Maharashtra,20.032205,73.704485,No,Yes,No,Yes,No,No,Yes,No,Average,Good,Low,Yes,Yes,Yes,Medium,39,3819,2.5,2,2,2,Poor,Partial,54.6,Poor,High
+LOC0605,Bengaluru Institute of Technology,College,Bengaluru,Karnataka,12.953286,77.71266,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Average,Average,Medium,Yes,Yes,Yes,High,39,3752,3.7,2,23,3,Good,Yes,85,Good,Medium
+LOC0606,Nagpur Lake View Point,Tourist Attraction,Nagpur,Maharashtra,21.179835,79.11692,Yes,No,Yes,No,No,Yes,No,No,Average,Good,Low,No,No,Yes,High,24,2481,3.4,3,6,1,NA,Yes,54.9,Poor,High
+LOC0607,Jaipur District Office,Government Office,Jaipur,Rajasthan,26.967537,75.730993,Yes,No,Yes,Yes,Yes,Yes,No,No,Good,Good,Medium,No,Yes,No,High,38,3551,3.9,2,10,2,NA,Partial,81.6,Good,Medium
+LOC0608,Thane Degree College,College,Thane,Maharashtra,19.207748,72.998297,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Good,Poor,Medium,Yes,Yes,Yes,Low,38,2363,2.8,2,19,3,Poor,Yes,83,Good,Low
+LOC0609,Pune Central Station,Railway Station,Pune,Maharashtra,18.376856,73.936339,No,Yes,No,Yes,Yes,No,Yes,Yes,Poor,Poor,High,No,Yes,Yes,Medium,26,6696,2.2,3,18,3,Average,Partial,54.5,Poor,Medium
+LOC0610,Nagpur City Bus Stop,Bus Stop,Nagpur,Maharashtra,21.007757,79.14758,No,Yes,Yes,No,Yes,No,No,No,Average,Average,Low,Yes,Yes,No,Low,3,465,2.3,3,19,1,Good,Yes,55.6,Average,Medium
+LOC0611,Visakhapatnam Bus Stand,Bus Stop,Visakhapatnam,Andhra Pradesh,17.611485,83.074475,No,Yes,No,No,No,No,No,No,Average,Average,Medium,No,Yes,No,High,6,1343,2.8,8,2,1,Poor,No,27.7,Poor,High
+LOC0612,Visakhapatnam Tehsil Office,Government Office,Visakhapatnam,Andhra Pradesh,17.558016,83.219587,Yes,Yes,Yes,No,Yes,No,Yes,No,Average,Good,High,Yes,Yes,No,Medium,27,514,3.6,3,23,2,Poor,Yes,82.9,Good,Low
+LOC0613,Kochi Health Centre,Hospital,Kochi,Kerala,9.812192,76.197384,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Good,High,Yes,No,No,High,7,3495,3.8,6,16,6,Average,Yes,97.2,Excellent,Medium
+LOC0614,Pune City Hospital,Hospital,Pune,Maharashtra,18.585723,73.916779,No,Yes,No,No,Yes,Yes,Yes,Yes,Good,Average,High,Yes,No,No,High,34,1535,3.5,3,1,3,Average,Partial,78.9,Good,Low
+LOC0615,Visakhapatnam Railway Station,Railway Station,Visakhapatnam,Andhra Pradesh,17.628082,83.115607,Yes,Yes,Yes,No,No,Yes,No,Yes,Good,Poor,Medium,Yes,Yes,No,High,36,15074,3.4,5,7,2,Average,Yes,74.2,Average,Medium
+LOC0616,Mysuru Public Garden,Park,Mysuru,Karnataka,12.224565,76.703477,No,No,No,Yes,No,No,No,No,Average,Good,Medium,Yes,No,Yes,Medium,11,1327,2.9,2,2,1,NA,Yes,54.8,Poor,Medium
+LOC0617,Hyderabad Railway Station,Railway Station,Hyderabad,Telangana,17.47903,78.526984,Yes,No,Yes,No,Yes,Yes,No,No,Average,Average,High,Yes,Yes,Yes,Medium,7,19905,3.2,3,18,2,NA,No,65.5,Average,Low
+LOC0618,Jaipur Bus Stand,Bus Stop,Jaipur,Rajasthan,26.863607,75.645782,No,No,Yes,No,No,No,No,No,Poor,Good,High,No,Yes,Yes,High,11,253,2.7,3,0,1,NA,Partial,41.7,Poor,High
+LOC0619,Thane Grand Mall,Mall,Thane,Maharashtra,19.341699,72.923246,Yes,No,Yes,Yes,Yes,No,No,No,Poor,Good,Medium,Yes,Yes,Yes,High,9,15244,3.5,3,6,2,NA,Yes,67.2,Average,Medium
+LOC0620,Coimbatore Public Garden,Park,Coimbatore,Tamil Nadu,10.932704,77.057839,No,No,No,Yes,No,No,No,No,Average,Good,High,Yes,Yes,Yes,Low,16,2522,2.9,5,13,1,NA,No,50.8,Poor,Medium
+LOC0621,Nashik Plaza Mall,Mall,Nashik,Maharashtra,19.85981,73.701298,Yes,No,Yes,No,Yes,Yes,No,No,Poor,Average,Medium,Yes,Yes,No,Medium,43,16130,4,3,21,2,NA,Partial,57.5,Average,Medium
+LOC0622,Thane Tehsil Office,Government Office,Thane,Maharashtra,19.361172,72.991721,No,Yes,No,No,Yes,No,No,Yes,Average,Average,Medium,No,No,Yes,Low,16,3144,2.1,3,14,1,Poor,Partial,47.8,Poor,Medium
+LOC0623,Thane General Hospital,Hospital,Thane,Maharashtra,19.30267,72.842222,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Good,Good,High,Yes,Yes,Yes,High,21,3031,4.4,2,11,6,Average,Partial,100,Excellent,Low
+LOC0624,Guwahati Government College,College,Guwahati,Assam,26.117587,91.690222,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Good,Poor,Medium,Yes,Yes,Yes,High,13,2391,3.2,4,23,3,Average,Partial,78.9,Good,Medium
+LOC0625,Kolkata Bus Depot,Bus Stop,Kolkata,West Bengal,22.563833,88.410508,No,No,Yes,Yes,Yes,No,No,Yes,Poor,Poor,Low,Yes,Yes,No,High,7,1933,3,5,1,1,NA,No,26.9,Poor,High
+LOC0626,Thane Medical Center,Hospital,Thane,Maharashtra,19.238692,72.930486,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Good,Average,Medium,Yes,Yes,Yes,Medium,32,3419,4.2,1,14,7,Poor,Yes,97.7,Excellent,Low
+LOC0627,Mysuru Museum,Tourist Attraction,Mysuru,Karnataka,12.348788,76.715992,Yes,Yes,No,No,Yes,No,No,No,Poor,Good,High,Yes,Yes,Yes,Medium,14,1680,3,2,19,1,Good,Yes,72.6,Average,Medium
+LOC0628,Chandigarh Green Park,Park,Chandigarh,Chandigarh,30.849594,76.630174,Yes,No,No,No,No,Yes,Yes,No,Good,Average,Low,Yes,No,Yes,Medium,14,250,3.5,0,10,1,NA,Partial,62,Average,Medium
+LOC0629,Thane Bus Depot,Bus Stop,Thane,Maharashtra,19.362173,72.949244,Yes,No,No,Yes,No,Yes,No,No,Average,Good,Low,Yes,Yes,No,Low,12,2115,2.3,2,21,1,NA,Partial,56.1,Average,Medium
+LOC0630,Pune Health Centre,Hospital,Pune,Maharashtra,18.408428,73.916886,Yes,Yes,Yes,No,Yes,No,No,Yes,Good,Average,Medium,No,Yes,Yes,High,29,872,3.7,8,15,3,Good,No,70.4,Average,High
+LOC0631,Kochi General Hospital,Hospital,Kochi,Kerala,10.005804,76.402036,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Average,Average,High,Yes,No,Yes,Medium,12,4494,4.6,0,1,5,Average,Yes,99.6,Excellent,Low
+LOC0632,Patna Railway Station,Railway Station,Patna,Bihar,25.546244,85.126396,No,No,Yes,No,Yes,No,No,No,Poor,Average,Medium,Yes,Yes,Yes,High,29,14015,3.5,4,8,1,NA,No,34.1,Poor,High
+LOC0633,Lucknow International Airport,Airport,Lucknow,Uttar Pradesh,26.843407,81.071563,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Average,Poor,Medium,Yes,Yes,No,High,37,16514,4.4,3,12,7,Average,Yes,75,Good,Medium
+LOC0634,Nashik Central Park,Park,Nashik,Maharashtra,19.938633,73.721351,Yes,No,No,No,No,Yes,No,Yes,Poor,Average,Medium,No,No,Yes,Low,18,447,3.3,6,7,1,NA,Yes,51.1,Poor,High
+LOC0635,Jaipur Grand Mall,Mall,Jaipur,Rajasthan,26.838257,75.760104,Yes,No,Yes,Yes,No,Yes,No,Yes,Average,Good,Medium,Yes,Yes,Yes,High,21,15027,3.4,2,5,5,NA,Yes,80.9,Good,Medium
+LOC0636,Pune Central Station,Railway Station,Pune,Maharashtra,18.466299,73.770309,No,Yes,Yes,Yes,Yes,No,Yes,No,Average,Average,Low,Yes,Yes,Yes,Medium,42,7524,3.2,4,0,2,Good,No,63.4,Average,Medium
+LOC0637,Nagpur Museum,Tourist Attraction,Nagpur,Maharashtra,21.230552,79.196576,Yes,Yes,No,No,No,Yes,No,Yes,Poor,Average,Low,Yes,Yes,Yes,Low,12,454,3.2,2,7,1,Good,Partial,60,Average,Medium
+LOC0638,Visakhapatnam Grand Mall,Mall,Visakhapatnam,Andhra Pradesh,17.542799,83.205581,Yes,Yes,Yes,No,No,No,Yes,No,Average,Average,High,Yes,Yes,Yes,Medium,34,14756,3.6,2,21,6,Poor,Partial,73,Average,Low
+LOC0639,Mumbai Junction,Railway Station,Mumbai,Maharashtra,19.087914,73.001701,Yes,No,No,No,No,Yes,No,Yes,Good,Average,Medium,Yes,Yes,No,Medium,41,7935,3.2,5,12,3,NA,Partial,63.8,Average,Medium
+LOC0640,Patna Central Station,Railway Station,Patna,Bihar,25.508398,85.040027,No,Yes,No,Yes,No,Yes,No,Yes,Average,Average,Low,Yes,Yes,Yes,High,34,5444,3.4,6,1,1,Poor,No,46.3,Poor,High
+LOC0641,Jaipur Collectorate Office,Government Office,Jaipur,Rajasthan,27.051044,75.762015,No,No,Yes,No,Yes,No,Yes,No,Poor,Average,High,Yes,No,Yes,Low,24,4626,2.7,3,5,3,NA,No,47,Poor,Medium
+LOC0642,Chandigarh Airport Terminal,Airport,Chandigarh,Chandigarh,30.609966,76.760536,Yes,Yes,Yes,No,No,Yes,No,Yes,Poor,Average,High,Yes,Yes,No,Low,37,6657,3.4,0,10,7,Poor,Partial,72.7,Average,Medium
+LOC0643,Kanpur Central Park,Park,Kanpur,Uttar Pradesh,26.592874,80.444342,No,No,No,No,No,Yes,No,No,Poor,Average,High,No,Yes,Yes,Low,5,2947,3.6,5,15,1,NA,No,35.5,Poor,High
+LOC0644,Chandigarh Bus Stand,Bus Stop,Chandigarh,Chandigarh,30.856776,76.756712,No,No,No,Yes,Yes,No,No,No,Poor,Good,Low,No,Yes,No,High,2,531,3.2,8,22,1,NA,Partial,26.9,Poor,High
+LOC0645,Kolkata City Bus Stop,Bus Stop,Kolkata,West Bengal,22.683409,88.376069,No,No,No,Yes,Yes,No,No,No,Good,Good,High,No,Yes,No,Low,21,2795,2.7,2,10,1,NA,No,61,Average,Low
+LOC0646,Ahmedabad Airport Terminal,Airport,Ahmedabad,Gujarat,23.091991,72.639476,No,Yes,Yes,No,Yes,Yes,No,No,Poor,Poor,Medium,Yes,Yes,Yes,High,29,11761,3.9,1,16,3,Good,Yes,57.5,Average,Medium
+LOC0647,Thiruvananthapuram Airport Terminal,Airport,Thiruvananthapuram,Kerala,8.563198,76.889821,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Good,High,Yes,Yes,Yes,Medium,38,13886,4.7,2,2,3,Good,Yes,100,Excellent,Low
+LOC0648,Nagpur Health Centre,Hospital,Nagpur,Maharashtra,21.106567,79.148973,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Poor,High,Yes,Yes,Yes,Medium,12,1931,3.4,0,23,4,Good,No,92.8,Excellent,Low
+LOC0649,Coimbatore Bus Depot,Bus Stop,Coimbatore,Tamil Nadu,11.103964,76.889526,No,No,No,No,Yes,Yes,No,No,Poor,Average,Low,Yes,Yes,No,High,24,1576,3,1,13,1,NA,No,24.2,Poor,High
+LOC0650,Jaipur Botanical Garden,Tourist Attraction,Jaipur,Rajasthan,27.000373,75.858028,No,No,Yes,Yes,Yes,Yes,No,No,Poor,Average,High,Yes,Yes,Yes,Low,14,475,3.3,2,12,1,NA,Yes,69.5,Average,Medium
+LOC0651,Surat Degree College,College,Surat,Gujarat,21.142687,72.693316,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Good,Good,Low,No,No,Yes,Medium,13,3207,3.1,3,12,1,Poor,Partial,72.1,Average,Medium
+LOC0652,Nagpur District Office,Government Office,Nagpur,Maharashtra,21.265187,79.077048,Yes,Yes,No,Yes,Yes,No,No,No,Good,Good,High,Yes,No,Yes,Low,12,732,2.1,2,11,1,Poor,Yes,88,Good,Low
+LOC0653,Bhopal Bus Depot,Bus Stop,Bhopal,Madhya Pradesh,23.164931,77.425932,No,No,No,No,No,No,No,No,Poor,Average,Medium,No,Yes,No,Low,17,944,2,4,5,1,NA,No,19.1,Poor,High
+LOC0654,Patna College of Engineering,College,Patna,Bihar,25.523257,85.017962,No,Yes,No,No,No,No,Yes,No,Average,Poor,Low,Yes,Yes,No,Medium,16,3071,3.6,2,6,1,Average,Partial,39.3,Poor,High
+LOC0655,Chandigarh Airport Terminal,Airport,Chandigarh,Chandigarh,30.765977,76.711034,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Average,Average,High,Yes,Yes,No,Medium,28,7185,4,1,15,2,Good,Partial,100,Excellent,Low
+LOC0656,Mumbai Degree College,College,Mumbai,Maharashtra,19.2185,72.805628,Yes,No,No,No,Yes,No,Yes,No,Average,Good,High,Yes,Yes,Yes,Medium,32,2576,3.7,2,9,1,NA,Yes,76.2,Good,Low
+LOC0657,Nagpur Airport Terminal,Airport,Nagpur,Maharashtra,21.031676,79.119022,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Good,Average,Medium,Yes,No,Yes,Medium,42,3761,4.1,0,22,2,Good,Yes,100,Excellent,Low
+LOC0658,Ahmedabad City Hospital,Hospital,Ahmedabad,Gujarat,22.953993,72.70673,No,No,Yes,Yes,Yes,No,Yes,No,Average,Average,High,Yes,Yes,No,Low,6,4794,4.7,2,20,2,NA,Yes,77.5,Good,Low
+LOC0659,Patna Tehsil Office,Government Office,Patna,Bihar,25.631505,85.282984,No,Yes,No,No,Yes,No,Yes,No,Poor,Poor,Medium,Yes,No,Yes,Medium,36,570,2,6,15,3,Poor,Partial,31,Poor,High
+LOC0660,Visakhapatnam Railway Station,Railway Station,Visakhapatnam,Andhra Pradesh,17.705402,83.316658,No,Yes,No,No,Yes,No,No,No,Average,Poor,Medium,No,Yes,No,Medium,20,12812,3.2,4,13,3,Average,Partial,40.4,Poor,High
+LOC0661,Chandigarh Public Garden,Park,Chandigarh,Chandigarh,30.838218,76.782743,No,No,No,Yes,No,Yes,No,No,Average,Average,High,No,Yes,No,Low,14,869,2.9,3,21,1,NA,Partial,54.2,Poor,Medium
+LOC0662,Thiruvananthapuram City Bus Stop,Bus Stop,Thiruvananthapuram,Kerala,8.540661,76.895236,Yes,No,No,No,No,No,No,No,Average,Poor,Low,Yes,No,Yes,High,13,2195,3.1,3,15,1,NA,Partial,27.7,Poor,High
+LOC0663,Ahmedabad Medical Center,Hospital,Ahmedabad,Gujarat,22.912767,72.509298,No,No,Yes,No,Yes,Yes,Yes,No,Average,Average,Medium,Yes,Yes,No,High,5,640,3.7,4,15,5,NA,Yes,60.6,Average,Medium
+LOC0664,Mumbai Central Station,Railway Station,Mumbai,Maharashtra,19.177469,72.915651,Yes,No,Yes,No,No,Yes,No,No,Average,Poor,Medium,No,Yes,No,Medium,32,16685,3.3,2,14,3,NA,Yes,53.2,Poor,Medium
+LOC0665,Bengaluru College of Engineering,College,Bengaluru,Karnataka,13.053139,77.513967,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Good,High,Yes,Yes,Yes,Medium,19,2392,3.5,0,22,3,Good,Yes,100,Excellent,Low
+LOC0666,Thiruvananthapuram City Bus Stop,Bus Stop,Thiruvananthapuram,Kerala,8.588703,77.07979,No,No,Yes,No,No,Yes,Yes,No,Poor,Good,Medium,Yes,Yes,Yes,Medium,9,531,2.8,1,13,1,NA,Yes,56.6,Average,Medium
+LOC0667,Surat Airport Terminal,Airport,Surat,Gujarat,21.233608,72.69112,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Good,Poor,High,Yes,No,Yes,Low,31,3165,4.3,1,21,7,Average,Partial,98,Excellent,Low
+LOC0668,Pune Institute of Technology,College,Pune,Maharashtra,18.477468,73.864159,Yes,Yes,Yes,No,Yes,No,No,No,Average,Poor,High,No,No,Yes,High,35,945,3,3,3,1,Poor,Yes,61.1,Average,Medium
+LOC0669,Thiruvananthapuram Shopping Mall,Mall,Thiruvananthapuram,Kerala,8.590066,76.937353,Yes,Yes,No,No,No,No,Yes,No,Average,Poor,High,Yes,Yes,Yes,Low,22,14352,2.9,3,11,4,Good,Partial,66.6,Average,Low
+LOC0670,Kanpur Shopping Mall,Mall,Kanpur,Uttar Pradesh,26.56739,80.332229,Yes,No,No,No,No,Yes,No,No,Poor,Good,Low,Yes,Yes,Yes,High,38,6060,3.3,3,22,6,NA,Yes,43.2,Poor,High
+LOC0671,Patna Collectorate Office,Government Office,Patna,Bihar,25.728373,85.11967,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Good,Good,High,Yes,No,Yes,Medium,5,2968,2.8,1,0,2,Good,No,97.6,Excellent,Low
+LOC0672,Bhopal International Airport,Airport,Bhopal,Madhya Pradesh,23.370989,77.405235,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Good,Medium,Yes,Yes,Yes,Low,6,7031,4.3,1,23,6,Poor,Yes,100,Excellent,Low
+LOC0673,Indore City Bus Stop,Bus Stop,Indore,Madhya Pradesh,22.623674,75.813726,Yes,Yes,Yes,Yes,No,No,No,No,Poor,Poor,Low,Yes,Yes,No,Low,15,2033,2.5,2,17,1,Average,Partial,47.4,Poor,High
+LOC0674,Pune Airport Terminal,Airport,Pune,Maharashtra,18.52756,73.764956,Yes,Yes,Yes,Yes,No,No,No,Yes,Average,Good,Medium,Yes,No,Yes,High,21,18494,3.4,1,9,4,Poor,Partial,75.1,Good,Medium
+LOC0675,Nashik College of Engineering,College,Nashik,Maharashtra,19.877579,73.728663,No,No,Yes,No,No,Yes,No,No,Average,Good,High,Yes,No,No,High,6,3387,3.6,1,2,3,NA,Partial,58.7,Average,Medium
+LOC0676,Chennai Municipal Office,Government Office,Chennai,Tamil Nadu,13.095775,80.136926,No,No,Yes,No,No,No,No,No,Poor,Good,Medium,No,Yes,Yes,Medium,9,2078,3.1,6,20,1,NA,No,28.5,Poor,High
+LOC0677,Ahmedabad Medical Center,Hospital,Ahmedabad,Gujarat,23.11923,72.436579,Yes,Yes,Yes,No,No,No,Yes,Yes,Poor,Good,Low,Yes,Yes,Yes,Low,29,1265,3.9,3,4,3,Average,Yes,71.7,Average,Medium
+LOC0678,Chandigarh Airport Terminal,Airport,Chandigarh,Chandigarh,30.815393,76.833959,No,Yes,No,Yes,Yes,Yes,No,Yes,Average,Average,Low,Yes,No,Yes,Medium,41,9055,3.4,2,3,2,Average,Yes,69.2,Average,Medium
+LOC0679,Nagpur Plaza Mall,Mall,Nagpur,Maharashtra,21.042933,79.168949,No,No,Yes,No,Yes,Yes,Yes,Yes,Good,Poor,High,Yes,No,Yes,High,18,11229,2.5,1,10,3,NA,Partial,66.2,Average,Medium
+LOC0680,Mumbai International Airport,Airport,Mumbai,Maharashtra,19.029037,72.879606,Yes,Yes,Yes,No,Yes,No,No,Yes,Poor,Poor,High,Yes,No,Yes,Medium,35,13547,3.4,1,18,6,Good,Yes,70.7,Average,Medium
+LOC0681,Kanpur Plaza Mall,Mall,Kanpur,Uttar Pradesh,26.492101,80.238677,Yes,Yes,Yes,No,No,No,No,No,Good,Average,Medium,Yes,Yes,Yes,High,44,13505,4,3,17,4,Average,Yes,76,Good,Medium
+LOC0682,Coimbatore Bus Depot,Bus Stop,Coimbatore,Tamil Nadu,11.08272,76.940192,No,No,Yes,No,No,No,No,No,Average,Average,Medium,No,Yes,No,Medium,12,1486,3,8,17,1,NA,No,29.1,Poor,High
+LOC0683,Guwahati Botanical Garden,Tourist Attraction,Guwahati,Assam,26.041443,91.587271,No,Yes,Yes,No,Yes,No,Yes,No,Average,Average,Low,Yes,Yes,Yes,Medium,3,2544,2.3,2,1,1,Good,Yes,64.2,Average,Medium
+LOC0684,Pune Shopping Mall,Mall,Pune,Maharashtra,18.494887,73.893101,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Good,Average,High,Yes,Yes,Yes,High,16,18604,2.9,2,18,2,Average,Yes,100,Excellent,Low
+LOC0685,Chennai Temple Complex,Tourist Attraction,Chennai,Tamil Nadu,13.011535,80.329796,No,No,Yes,No,No,No,Yes,No,Poor,Average,Low,No,No,Yes,Medium,15,2553,3.5,3,20,1,NA,Partial,29.1,Poor,High
+LOC0686,Visakhapatnam Botanical Garden,Tourist Attraction,Visakhapatnam,Andhra Pradesh,17.805304,83.269855,Yes,No,No,Yes,Yes,No,No,No,Poor,Poor,Medium,Yes,No,Yes,Low,23,526,4,2,21,1,NA,Yes,52.2,Poor,High
+LOC0687,Kanpur Bus Stand,Bus Stop,Kanpur,Uttar Pradesh,26.469173,80.242954,No,No,No,No,No,No,No,No,Good,Average,Low,No,Yes,No,Medium,16,2661,3,4,17,1,NA,No,26.2,Poor,High
+LOC0688,Chennai Municipal Office,Government Office,Chennai,Tamil Nadu,13.220588,80.348449,No,No,No,No,No,No,No,Yes,Average,Average,High,Yes,Yes,Yes,Low,25,4904,2.6,5,17,2,NA,Yes,51.2,Poor,Medium
+LOC0689,Nashik Collectorate Office,Government Office,Nashik,Maharashtra,20.034446,73.853482,No,No,Yes,Yes,Yes,Yes,No,Yes,Good,Good,High,Yes,Yes,Yes,Low,23,2528,3.7,1,20,2,NA,Partial,90.3,Excellent,Low
+LOC0690,Coimbatore City Bus Stop,Bus Stop,Coimbatore,Tamil Nadu,10.896645,77.082207,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Average,Medium,Yes,Yes,No,High,2,1427,2.1,5,6,1,Poor,Partial,65.4,Average,Medium
+LOC0691,Pune College of Engineering,College,Pune,Maharashtra,18.417976,73.790569,Yes,No,No,No,No,No,No,Yes,Poor,Good,Low,Yes,Yes,Yes,High,22,2967,3.5,3,15,2,NA,Yes,42.9,Poor,High
+LOC0692,Chandigarh Degree College,College,Chandigarh,Chandigarh,30.757514,76.739639,Yes,No,Yes,Yes,No,No,No,No,Average,Poor,Low,Yes,No,Yes,High,27,2235,3.9,5,12,3,NA,Partial,42.9,Poor,High
+LOC0693,Bengaluru Public Garden,Park,Bengaluru,Karnataka,12.832901,77.658712,Yes,Yes,Yes,No,No,No,No,No,Average,Poor,Low,Yes,Yes,No,Medium,8,2988,2.3,7,14,1,Good,No,38.2,Poor,High
+LOC0694,Ahmedabad City Hospital,Hospital,Ahmedabad,Gujarat,23.093648,72.433408,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Poor,Good,Medium,Yes,Yes,Yes,High,14,3469,4.1,3,18,2,Poor,Partial,84.2,Good,Medium
+LOC0695,Hyderabad Bus Depot,Bus Stop,Hyderabad,Telangana,17.365708,78.49217,No,No,No,No,No,No,No,No,Poor,Average,Medium,No,Yes,Yes,High,9,903,2.3,6,8,1,NA,Yes,24.9,Poor,High
+LOC0696,Thiruvananthapuram Railway Station,Railway Station,Thiruvananthapuram,Kerala,8.475044,76.948817,No,Yes,Yes,No,No,No,Yes,No,Average,Poor,Low,Yes,Yes,No,Medium,8,3257,1.7,1,9,1,Poor,Partial,36,Poor,High
+LOC0697,Visakhapatnam Shopping Mall,Mall,Visakhapatnam,Andhra Pradesh,17.741148,83.158647,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Poor,Good,Low,Yes,Yes,No,High,42,16209,3.3,6,15,3,Average,Yes,64.9,Average,High
+LOC0698,Lucknow Health Centre,Hospital,Lucknow,Uttar Pradesh,26.971632,80.81803,No,No,Yes,No,No,Yes,No,Yes,Good,Good,High,Yes,Yes,No,Low,39,3545,4.2,0,13,7,NA,Yes,82.6,Good,Low
+LOC0699,Jaipur Central Park,Park,Jaipur,Rajasthan,27.003781,75.869148,No,No,Yes,No,No,No,No,No,Average,Good,Low,No,Yes,Yes,Medium,15,2181,3,4,13,1,NA,No,30.8,Poor,High
+LOC0700,Pune Junction,Railway Station,Pune,Maharashtra,18.543916,73.757477,Yes,No,No,Yes,Yes,No,Yes,No,Good,Poor,Low,Yes,Yes,No,High,40,6965,4.3,5,18,3,NA,Yes,59.2,Average,High
+LOC0701,Coimbatore Degree College,College,Coimbatore,Tamil Nadu,10.926306,76.888249,No,Yes,Yes,Yes,No,Yes,No,Yes,Average,Good,Medium,Yes,Yes,No,Medium,19,4197,2.4,2,16,2,Poor,No,63.2,Average,Medium
+LOC0702,Bengaluru Bus Depot,Bus Stop,Bengaluru,Karnataka,12.878636,77.490277,Yes,Yes,Yes,No,No,Yes,No,No,Good,Good,Low,No,Yes,Yes,High,8,1572,2.7,10,7,1,Average,Partial,63.1,Average,High
+LOC0703,Delhi Junction,Railway Station,Delhi,Delhi,28.564886,77.153927,Yes,Yes,Yes,Yes,No,No,No,No,Good,Good,Low,Yes,Yes,Yes,Medium,40,8345,2.9,2,10,3,Good,Yes,84.6,Good,Medium
+LOC0704,Nashik Collectorate Office,Government Office,Nashik,Maharashtra,20.117926,73.705587,Yes,Yes,Yes,No,Yes,Yes,No,No,Average,Good,High,Yes,Yes,Yes,Low,27,1782,2.9,3,11,3,Good,Yes,94.6,Excellent,Low
+LOC0705,Kolkata Bus Stand,Bus Stop,Kolkata,West Bengal,22.480365,88.420519,No,No,No,No,No,No,No,Yes,Average,Poor,Low,No,Yes,Yes,High,9,378,3.5,6,7,1,NA,Yes,24.6,Poor,High
+LOC0706,Chandigarh Degree College,College,Chandigarh,Chandigarh,30.768279,76.6951,No,No,No,No,Yes,Yes,No,No,Poor,Average,Medium,Yes,Yes,Yes,Medium,35,4807,3.5,3,18,1,NA,Yes,46.4,Poor,High
+LOC0707,Mysuru Bus Depot,Bus Stop,Mysuru,Karnataka,12.355983,76.654507,No,No,No,No,No,No,No,No,Average,Average,High,Yes,Yes,Yes,Low,8,2596,3.2,1,9,1,NA,No,43.5,Poor,Medium
+LOC0708,Pune International Airport,Airport,Pune,Maharashtra,18.449422,73.73076,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Good,Average,High,Yes,Yes,No,Medium,29,10101,4.3,1,21,6,NA,Yes,98,Excellent,Low
+LOC0709,Bhopal Plaza Mall,Mall,Bhopal,Madhya Pradesh,23.147111,77.406424,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Poor,Good,Medium,No,Yes,Yes,High,18,19444,3.5,7,4,6,Good,No,70.3,Average,High
+LOC0710,Thane Government College,College,Thane,Maharashtra,19.227194,73.114626,No,No,No,No,No,No,No,No,Average,Poor,High,Yes,Yes,No,Low,22,1702,3.2,4,2,3,NA,Partial,38.1,Poor,Medium
+LOC0711,Ahmedabad College of Engineering,College,Ahmedabad,Gujarat,23.046992,72.656602,No,No,No,Yes,No,Yes,Yes,Yes,Average,Average,Medium,Yes,Yes,Yes,Low,13,958,3.2,6,13,2,NA,Yes,65.8,Average,Medium
+LOC0712,Coimbatore Degree College,College,Coimbatore,Tamil Nadu,11.152068,76.868463,No,Yes,Yes,No,Yes,Yes,No,Yes,Good,Poor,High,No,Yes,No,High,7,3635,2.5,2,5,2,Average,Partial,68.2,Average,Medium
+LOC0713,Kolkata Heritage Fort,Tourist Attraction,Kolkata,West Bengal,22.713032,88.512552,Yes,No,No,No,Yes,Yes,No,No,Good,Average,Low,No,Yes,Yes,Low,2,457,3.1,6,8,1,NA,Yes,61.3,Average,Medium
+LOC0714,Mumbai General Hospital,Hospital,Mumbai,Maharashtra,19.186375,72.935969,No,Yes,Yes,No,Yes,No,Yes,No,Good,Good,Medium,Yes,No,No,Medium,38,4883,4,1,17,6,Average,Yes,80.7,Good,Low
+LOC0715,Chandigarh Collectorate Office,Government Office,Chandigarh,Chandigarh,30.816799,76.82439,Yes,Yes,Yes,No,Yes,No,No,No,Poor,Poor,High,No,No,Yes,Low,25,4072,3.3,3,10,2,Poor,Yes,58,Average,Medium
+LOC0716,Udaipur Collectorate Office,Government Office,Udaipur,Rajasthan,24.441874,73.629752,No,No,No,No,Yes,Yes,No,Yes,Average,Good,Medium,Yes,Yes,Yes,Medium,19,2295,1.7,3,6,1,NA,No,48.8,Poor,Medium
+LOC0717,Coimbatore College of Engineering,College,Coimbatore,Tamil Nadu,11.15429,76.838049,Yes,No,Yes,Yes,No,Yes,No,No,Poor,Poor,Medium,Yes,No,Yes,High,33,2845,3.7,0,20,1,NA,Partial,51.1,Poor,High
+LOC0718,Kolkata Bus Stand,Bus Stop,Kolkata,West Bengal,22.567042,88.417039,Yes,No,No,No,Yes,No,No,No,Poor,Average,Medium,Yes,Yes,No,High,10,319,3.1,6,13,1,NA,Yes,42.5,Poor,High
+LOC0719,Pune City Park,Park,Pune,Maharashtra,18.624504,73.793631,Yes,No,Yes,No,No,No,No,No,Average,Average,Medium,No,Yes,No,Medium,3,1191,4.3,3,9,1,NA,No,48.1,Poor,Medium
+LOC0720,Bhopal Railway Station,Railway Station,Bhopal,Madhya Pradesh,23.336745,77.546925,Yes,Yes,Yes,No,No,Yes,No,Yes,Average,Average,High,Yes,Yes,Yes,Medium,12,12643,2.5,3,19,3,Average,Yes,82.2,Good,Low
+LOC0721,Chennai Botanical Garden,Tourist Attraction,Chennai,Tamil Nadu,13.186373,80.338878,Yes,No,Yes,No,No,Yes,No,No,Good,Average,Medium,Yes,No,Yes,Medium,24,2660,3.4,5,8,1,NA,Yes,71,Average,Medium
+LOC0722,Patna Tehsil Office,Government Office,Patna,Bihar,25.708568,85.25767,No,Yes,No,No,No,Yes,No,No,Average,Good,Medium,Yes,Yes,No,Medium,15,2684,2.7,7,23,3,Poor,Yes,51,Poor,High
+LOC0723,Thiruvananthapuram Tehsil Office,Government Office,Thiruvananthapuram,Kerala,8.600203,76.907149,No,No,Yes,No,Yes,No,No,No,Average,Good,Medium,Yes,No,Yes,Medium,9,3747,2.4,4,14,3,NA,Yes,52.9,Poor,High
+LOC0724,Lucknow International Airport,Airport,Lucknow,Uttar Pradesh,26.885895,81.014236,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Average,Good,Low,Yes,Yes,No,High,9,5800,3.4,4,2,2,Good,Partial,77.7,Good,Medium
+LOC0725,Indore Shopping Mall,Mall,Indore,Madhya Pradesh,22.570235,75.768283,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Average,Average,High,Yes,Yes,No,High,16,5144,3.6,1,15,2,Good,Partial,86.8,Good,Low
+LOC0726,Ahmedabad Government College,College,Ahmedabad,Gujarat,22.915602,72.70423,Yes,No,No,No,Yes,Yes,No,Yes,Good,Poor,High,Yes,Yes,Yes,High,25,3322,3.3,4,22,3,NA,Partial,65.4,Average,Medium
+LOC0727,Thane Central Station,Railway Station,Thane,Maharashtra,19.250079,73.067753,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Poor,Good,Low,Yes,Yes,No,High,36,4552,2.8,2,14,3,Good,Yes,73.7,Average,High
+LOC0728,Pune Shopping Mall,Mall,Pune,Maharashtra,18.397615,73.761793,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Average,Average,High,Yes,Yes,No,Medium,23,4464,3.4,0,15,7,Average,Yes,95,Excellent,Low
+LOC0729,Surat Domestic Airport,Airport,Surat,Gujarat,21.206063,72.900599,Yes,No,No,Yes,Yes,Yes,No,No,Poor,Good,Low,Yes,No,No,Low,7,17494,4.7,1,12,2,NA,Yes,64.5,Average,Medium
+LOC0730,Mumbai Government College,College,Mumbai,Maharashtra,19.101089,72.940163,Yes,Yes,Yes,Yes,No,Yes,No,No,Average,Average,Medium,No,Yes,No,Medium,33,4300,3.6,3,17,1,Poor,Yes,74.8,Average,Medium
+LOC0731,Thiruvananthapuram General Hospital,Hospital,Thiruvananthapuram,Kerala,8.489459,76.938018,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Good,Average,Medium,Yes,Yes,No,Low,28,3929,4,2,8,2,Poor,Partial,93.2,Excellent,Low
+LOC0732,Jaipur Domestic Airport,Airport,Jaipur,Rajasthan,26.976683,75.762086,Yes,Yes,Yes,No,Yes,No,No,Yes,Poor,Average,Medium,Yes,No,No,High,21,17191,4,1,12,6,Poor,No,53.4,Poor,High
+LOC0733,Bengaluru City Centre Mall,Mall,Bengaluru,Karnataka,12.99303,77.617324,Yes,No,Yes,No,No,No,Yes,Yes,Poor,Average,Medium,No,Yes,Yes,Low,11,12887,2.7,1,11,7,NA,Partial,55.7,Average,Medium
+LOC0734,Thiruvananthapuram Medical Center,Hospital,Thiruvananthapuram,Kerala,8.633202,76.871655,No,No,Yes,No,Yes,Yes,Yes,Yes,Good,Poor,Medium,Yes,No,Yes,Medium,18,1449,4.2,2,16,4,NA,Partial,66.6,Average,Medium
+LOC0735,Mumbai Institute of Technology,College,Mumbai,Maharashtra,18.942328,72.839043,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Average,Good,Medium,Yes,Yes,Yes,High,27,4058,2.7,5,7,1,Average,Partial,81,Good,Medium
+LOC0736,Mysuru Bus Stand,Bus Stop,Mysuru,Karnataka,12.169014,76.633199,Yes,Yes,Yes,No,Yes,No,Yes,No,Good,Good,Medium,Yes,Yes,No,Low,2,2176,3.3,6,13,1,Average,No,79.2,Good,Medium
+LOC0737,Surat Airport Terminal,Airport,Surat,Gujarat,21.020411,72.951382,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Average,Poor,Low,Yes,Yes,Yes,Medium,18,16516,4.9,1,16,5,Good,Yes,80.5,Good,Medium
+LOC0738,Visakhapatnam Temple Complex,Tourist Attraction,Visakhapatnam,Andhra Pradesh,17.760671,83.352974,Yes,No,Yes,No,Yes,Yes,Yes,No,Average,Poor,High,No,No,Yes,High,13,1697,2.6,1,18,1,NA,Yes,64.3,Average,Medium
+LOC0739,Nashik City Bus Stop,Bus Stop,Nashik,Maharashtra,20.039047,73.792828,Yes,Yes,No,No,No,No,No,No,Average,Average,Low,No,No,No,Low,15,2383,2.7,7,23,1,Average,No,34,Poor,High
+LOC0740,Pune Municipal Office,Government Office,Pune,Maharashtra,18.471013,73.994644,No,No,Yes,Yes,No,No,No,Yes,Poor,Poor,Medium,Yes,No,Yes,Medium,26,3298,2.2,3,15,2,NA,Partial,36,Poor,High
+LOC0741,Mumbai Domestic Airport,Airport,Mumbai,Maharashtra,19.132657,72.960621,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Good,Poor,Medium,Yes,No,Yes,High,16,17226,4.5,5,11,3,Good,No,81.8,Good,Medium
+LOC0742,Delhi City Park,Park,Delhi,Delhi,28.598435,76.99516,Yes,No,No,No,No,Yes,No,No,Average,Good,High,Yes,No,Yes,High,5,647,2.9,3,6,1,NA,Yes,64.4,Average,Medium
+LOC0743,Patna Lake View Point,Tourist Attraction,Patna,Bihar,25.46752,85.066254,No,No,Yes,No,Yes,No,No,No,Average,Average,Medium,No,Yes,Yes,High,15,2741,2.7,4,9,1,NA,Partial,42.5,Poor,High
+LOC0744,Delhi Central Park,Park,Delhi,Delhi,28.705132,77.047831,No,No,Yes,No,No,No,Yes,Yes,Average,Average,Low,No,No,Yes,Medium,14,2992,3.3,5,22,1,NA,Partial,38.6,Poor,High
+LOC0745,Patna International Airport,Airport,Patna,Bihar,25.690223,85.096856,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Average,High,Yes,Yes,Yes,High,29,9285,4.8,1,16,4,Average,Yes,100,Excellent,Low
+LOC0746,Lucknow Central Park,Park,Lucknow,Uttar Pradesh,26.898341,80.947161,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Average,Poor,Medium,Yes,Yes,Yes,Low,13,1153,3.6,6,21,1,Poor,Yes,71.8,Average,Medium
+LOC0747,Thane Institute of Technology,College,Thane,Maharashtra,19.165268,72.972401,Yes,No,Yes,Yes,Yes,No,No,No,Good,Average,Medium,Yes,No,Yes,Low,31,3464,3.7,0,4,3,NA,No,75.5,Good,Low
+LOC0748,Mysuru Municipal Office,Government Office,Mysuru,Karnataka,12.352064,76.490885,No,Yes,Yes,No,Yes,Yes,No,No,Average,Poor,High,Yes,Yes,Yes,Medium,34,2591,3.9,6,11,3,Average,Yes,68.2,Average,Medium
+LOC0749,Kolkata Botanical Garden,Tourist Attraction,Kolkata,West Bengal,22.598547,88.498802,No,No,Yes,No,Yes,Yes,No,No,Poor,Good,Medium,No,Yes,Yes,Low,22,1684,3.3,2,1,1,NA,Partial,54.1,Poor,High
+LOC0750,Pune Tehsil Office,Government Office,Pune,Maharashtra,18.501753,73.794973,No,Yes,No,No,No,No,Yes,No,Poor,Poor,Medium,Yes,No,No,Low,27,1610,3.9,2,10,1,Poor,Yes,39.6,Poor,High
+LOC0751,Guwahati Junction,Railway Station,Guwahati,Assam,26.106279,91.785256,No,Yes,Yes,No,No,No,No,Yes,Average,Average,Low,Yes,Yes,Yes,High,39,16275,3.4,4,6,2,Poor,Yes,49.1,Poor,High
+LOC0752,Coimbatore Tehsil Office,Government Office,Coimbatore,Tamil Nadu,11.024887,76.928985,Yes,No,No,No,No,Yes,No,No,Good,Good,Medium,Yes,No,No,Low,35,4165,3.7,4,19,1,NA,Partial,65,Average,Medium
+LOC0753,Bengaluru Tehsil Office,Government Office,Bengaluru,Karnataka,13.06354,77.629465,No,Yes,No,Yes,No,No,No,No,Good,Good,Medium,Yes,No,Yes,High,18,2110,1.8,3,1,2,Poor,Partial,57.9,Average,Medium
+LOC0754,Nashik Junction,Railway Station,Nashik,Maharashtra,20.064984,73.727669,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Poor,Medium,Yes,Yes,Yes,High,31,18111,3,2,20,3,Good,No,72.4,Average,Medium
+LOC0755,Surat Central Park,Park,Surat,Gujarat,21.167127,72.770929,No,No,No,Yes,No,No,No,No,Average,Poor,Low,Yes,Yes,Yes,Medium,24,1847,2.3,2,12,1,NA,Partial,29.5,Poor,High
+LOC0756,Kanpur Shopping Mall,Mall,Kanpur,Uttar Pradesh,26.526141,80.338815,Yes,No,Yes,No,No,Yes,No,Yes,Good,Average,Low,Yes,Yes,Yes,High,9,18667,3.1,4,5,2,NA,Yes,66.3,Average,High
+LOC0757,Indore Junction,Railway Station,Indore,Madhya Pradesh,22.596375,75.752013,Yes,No,No,No,No,No,Yes,No,Poor,Good,Low,Yes,Yes,Yes,Medium,5,6890,3,1,7,1,NA,Partial,44.2,Poor,High
+LOC0758,Kochi City Bus Stop,Bus Stop,Kochi,Kerala,9.920483,76.344682,Yes,No,Yes,No,Yes,No,No,No,Average,Poor,Medium,Yes,Yes,No,Medium,18,2129,1.9,2,16,1,NA,Yes,50.7,Poor,Medium
+LOC0759,Mumbai Multispeciality Hospital,Hospital,Mumbai,Maharashtra,19.114212,72.947219,No,Yes,Yes,Yes,Yes,No,No,Yes,Good,Good,High,Yes,Yes,Yes,Medium,6,4066,2.2,2,9,5,Poor,Yes,88.7,Good,Low
+LOC0760,Chennai Central Park,Park,Chennai,Tamil Nadu,12.990794,80.233331,No,No,No,Yes,No,Yes,No,No,Good,Poor,High,Yes,Yes,Yes,Low,13,755,3.9,3,16,1,NA,No,56.9,Average,Low
+LOC0761,Nashik Degree College,College,Nashik,Maharashtra,19.94689,73.924594,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Average,Good,Medium,Yes,No,Yes,Medium,14,1714,3.3,2,9,1,Average,Yes,90,Excellent,Low
+LOC0762,Ahmedabad Institute of Technology,College,Ahmedabad,Gujarat,22.945334,72.63619,Yes,Yes,No,No,Yes,No,Yes,No,Poor,Good,Low,Yes,No,No,High,13,833,2.1,6,8,3,Average,Partial,45.3,Poor,High
+LOC0763,Patna Domestic Airport,Airport,Patna,Bihar,25.558143,85.210362,No,No,No,No,No,Yes,No,Yes,Average,Average,Medium,Yes,Yes,No,High,42,11228,4,1,17,5,NA,Yes,51.7,Poor,High
+LOC0764,Kolkata Medical Center,Hospital,Kolkata,West Bengal,22.43375,88.222125,Yes,Yes,Yes,No,No,Yes,No,No,Poor,Average,Medium,Yes,Yes,Yes,High,24,3629,4.1,3,4,7,Average,Yes,68.3,Average,Medium
+LOC0765,Bhopal Museum,Tourist Attraction,Bhopal,Madhya Pradesh,23.166063,77.374864,No,No,No,Yes,No,No,Yes,Yes,Average,Poor,High,Yes,Yes,Yes,Medium,14,2811,2.7,1,9,1,NA,Partial,55,Average,Low
+LOC0766,Indore Health Centre,Hospital,Indore,Madhya Pradesh,22.691993,75.849398,Yes,Yes,Yes,No,No,Yes,No,Yes,Good,Average,High,Yes,No,Yes,Medium,8,4174,3.5,1,9,6,Poor,Yes,90.4,Excellent,Low
+LOC0767,Mysuru Shopping Mall,Mall,Mysuru,Karnataka,12.263361,76.740428,Yes,Yes,Yes,No,Yes,No,No,No,Average,Good,High,Yes,No,No,High,36,5328,3.2,5,11,5,Good,Partial,74.9,Average,Medium
+LOC0768,Hyderabad International Airport,Airport,Hyderabad,Telangana,17.294636,78.56865,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Average,Medium,Yes,Yes,No,Medium,15,16539,3.5,0,13,6,Average,Yes,96.5,Excellent,Low
+LOC0769,Nashik Plaza Mall,Mall,Nashik,Maharashtra,19.897483,73.809372,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Good,Good,Medium,Yes,No,Yes,High,27,18520,3.3,4,21,7,Average,Yes,97.5,Excellent,Medium
+LOC0770,Nagpur District Office,Government Office,Nagpur,Maharashtra,21.263248,79.222672,No,No,No,No,No,No,No,No,Average,Average,Medium,Yes,No,Yes,Low,6,1804,2.8,2,17,1,NA,Yes,42.2,Poor,Medium
+LOC0771,Pune Domestic Airport,Airport,Pune,Maharashtra,18.654244,73.877208,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Poor,Good,High,Yes,No,Yes,High,38,12056,2.8,6,14,7,Good,Yes,87.5,Good,Medium
+LOC0772,Mysuru Tehsil Office,Government Office,Mysuru,Karnataka,12.334098,76.515107,No,No,Yes,Yes,No,No,Yes,No,Good,Average,Medium,Yes,Yes,Yes,Low,28,2090,2.9,5,13,2,NA,No,59.8,Average,Medium
+LOC0773,Kanpur Public Garden,Park,Kanpur,Uttar Pradesh,26.580066,80.323099,Yes,No,Yes,No,No,Yes,No,No,Good,Poor,Low,Yes,No,Yes,Low,18,320,2.5,2,10,1,NA,Yes,56.4,Average,Medium
+LOC0774,Patna City Centre Mall,Mall,Patna,Bihar,25.624669,85.07753,No,No,Yes,No,Yes,No,No,Yes,Average,Poor,Medium,Yes,No,Yes,Medium,44,5098,3.7,1,4,7,NA,Partial,48.7,Poor,Medium
+LOC0775,Hyderabad Junction,Railway Station,Hyderabad,Telangana,17.483135,78.475101,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Good,Good,Low,Yes,Yes,Yes,High,9,16588,1.7,5,3,3,Average,Partial,78.6,Good,Medium
+LOC0776,Nashik Bus Depot,Bus Stop,Nashik,Maharashtra,19.988591,73.684467,No,No,No,No,No,No,No,Yes,Good,Good,Low,No,Yes,No,High,2,2482,2.4,8,4,1,NA,Partial,34.2,Poor,High
+LOC0777,Thiruvananthapuram City Centre Mall,Mall,Thiruvananthapuram,Kerala,8.49745,76.872043,Yes,Yes,No,No,Yes,Yes,No,No,Good,Good,High,Yes,No,Yes,High,9,7113,3.4,0,10,5,Good,Partial,89.7,Good,Low
+LOC0778,Udaipur Domestic Airport,Airport,Udaipur,Rajasthan,24.67204,73.75134,No,Yes,Yes,Yes,No,No,No,Yes,Poor,Good,High,Yes,No,Yes,High,21,8492,3.6,4,14,4,Good,Yes,71.5,Average,Medium
+LOC0779,Pune Heritage Fort,Tourist Attraction,Pune,Maharashtra,18.370567,73.842622,Yes,Yes,Yes,No,No,No,Yes,Yes,Average,Poor,Low,No,No,Yes,Low,15,1423,1.8,2,3,1,Average,Partial,53.3,Poor,High
+LOC0780,Patna City Hospital,Hospital,Patna,Bihar,25.490819,85.052625,Yes,Yes,Yes,No,Yes,No,No,Yes,Good,Poor,High,Yes,Yes,No,Medium,14,1022,3.5,0,4,5,Good,Yes,89.9,Good,Low
+LOC0781,Kolkata Central Station,Railway Station,Kolkata,West Bengal,22.558638,88.227578,Yes,Yes,Yes,No,No,No,No,No,Average,Average,Medium,Yes,No,Yes,Low,10,13834,2.2,3,13,2,Good,No,59.2,Average,Medium
+LOC0782,Thiruvananthapuram Government College,College,Thiruvananthapuram,Kerala,8.423387,76.911571,No,Yes,Yes,No,Yes,No,No,Yes,Good,Average,High,Yes,No,No,High,29,3456,3.4,6,16,3,Poor,Yes,69,Average,Medium
+LOC0783,Lucknow Junction,Railway Station,Lucknow,Uttar Pradesh,26.960623,80.837002,Yes,Yes,No,No,Yes,No,No,No,Poor,Good,Medium,Yes,Yes,No,Low,24,6218,3.2,0,0,2,Average,Partial,64.6,Average,Medium
+LOC0784,Thiruvananthapuram Bus Stand,Bus Stop,Thiruvananthapuram,Kerala,8.414546,76.801994,Yes,No,Yes,No,No,No,No,Yes,Poor,Average,Medium,Yes,Yes,No,High,11,1692,3,3,5,1,NA,Partial,46.9,Poor,High
+LOC0785,Kanpur Botanical Garden,Tourist Attraction,Kanpur,Uttar Pradesh,26.459209,80.306181,No,No,No,No,No,Yes,No,No,Average,Average,High,Yes,Yes,Yes,Medium,22,743,3.7,1,5,1,NA,Partial,55.6,Average,Low
+LOC0786,Bengaluru Multispeciality Hospital,Hospital,Bengaluru,Karnataka,13.010172,77.513364,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Good,Poor,Medium,Yes,Yes,Yes,Low,13,1307,3.3,0,3,2,Good,Yes,95.5,Excellent,Low
+LOC0787,Kanpur Shopping Mall,Mall,Kanpur,Uttar Pradesh,26.500724,80.187707,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Average,Poor,Medium,Yes,No,Yes,High,22,12086,3.2,2,9,5,Good,Yes,88.7,Good,Medium
+LOC0788,Patna International Airport,Airport,Patna,Bihar,25.58322,84.995587,No,Yes,Yes,Yes,Yes,No,No,No,Average,Average,Medium,Yes,No,Yes,High,23,18631,3.2,3,10,5,Good,Yes,70.7,Average,Medium
+LOC0789,Kanpur International Airport,Airport,Kanpur,Uttar Pradesh,26.523231,80.461676,Yes,Yes,Yes,No,Yes,No,No,Yes,Good,Good,Medium,Yes,Yes,Yes,Medium,40,10723,3.9,0,17,3,Good,Yes,97.2,Excellent,Low
+LOC0790,Bhopal Domestic Airport,Airport,Bhopal,Madhya Pradesh,23.331179,77.479005,Yes,No,Yes,No,Yes,No,Yes,Yes,Good,Average,Medium,Yes,Yes,Yes,High,33,17334,4.1,5,19,3,NA,Yes,78.5,Good,Medium
+LOC0791,Nagpur Airport Terminal,Airport,Nagpur,Maharashtra,21.18305,78.988175,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Poor,Average,Medium,Yes,Yes,Yes,Medium,40,14413,5,0,23,4,Good,Yes,90.5,Excellent,Medium
+LOC0792,Chennai Institute of Technology,College,Chennai,Tamil Nadu,13.115893,80.359011,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Poor,High,Yes,No,No,High,35,2403,3.7,6,0,1,Good,Yes,90.3,Excellent,Medium
+LOC0793,Mumbai City Hospital,Hospital,Mumbai,Maharashtra,18.969436,72.903315,No,Yes,Yes,No,No,No,Yes,No,Good,Good,Medium,Yes,No,Yes,Low,11,4804,4.9,3,3,7,Good,Yes,85.8,Good,Low
+LOC0794,Surat Junction,Railway Station,Surat,Gujarat,21.088052,72.880228,Yes,Yes,Yes,No,No,Yes,Yes,No,Average,Good,Medium,No,Yes,Yes,Medium,13,6601,2.9,3,16,1,Good,Partial,78.9,Good,Low
+LOC0795,Thiruvananthapuram Airport Terminal,Airport,Thiruvananthapuram,Kerala,8.48997,76.8599,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Average,Poor,Medium,Yes,No,No,Medium,17,17062,3.8,0,1,5,Good,Yes,90.2,Excellent,Low
+LOC0796,Kolkata Central Station,Railway Station,Kolkata,West Bengal,22.469251,88.280536,Yes,Yes,No,No,No,No,No,No,Good,Good,High,Yes,Yes,Yes,Medium,42,7347,3.2,4,23,3,Good,Yes,81.9,Good,Low
+LOC0797,Surat Shopping Mall,Mall,Surat,Gujarat,21.105747,72.733193,No,Yes,No,Yes,No,No,No,Yes,Average,Good,High,Yes,Yes,Yes,High,9,8484,3.8,3,18,6,Poor,Yes,69.3,Average,Medium
+LOC0798,Coimbatore Public Garden,Park,Coimbatore,Tamil Nadu,11.117875,76.832691,No,No,Yes,No,No,No,No,No,Average,Poor,Low,No,No,Yes,Low,16,1542,1.9,2,14,1,NA,No,17,Poor,High
+LOC0799,Visakhapatnam Junction,Railway Station,Visakhapatnam,Andhra Pradesh,17.796712,83.331197,No,Yes,Yes,No,No,Yes,No,Yes,Poor,Good,Medium,Yes,Yes,Yes,Medium,12,10840,3.7,3,20,2,Good,No,58.7,Average,Medium
+LOC0800,Kanpur Grand Mall,Mall,Kanpur,Uttar Pradesh,26.394111,80.38341,Yes,Yes,Yes,No,Yes,No,No,Yes,Poor,Good,High,Yes,Yes,Yes,Medium,16,12844,3.2,3,16,5,Good,Yes,82.8,Good,Low
+LOC0801,Jaipur Domestic Airport,Airport,Jaipur,Rajasthan,26.978544,75.923143,Yes,Yes,No,Yes,No,Yes,Yes,No,Average,Good,High,Yes,No,No,Medium,29,12041,3.6,2,15,3,Good,Yes,93,Excellent,Low
+LOC0802,Coimbatore Collectorate Office,Government Office,Coimbatore,Tamil Nadu,11.111838,77.048254,Yes,No,No,Yes,Yes,Yes,No,Yes,Poor,Average,Low,Yes,Yes,No,Medium,34,1877,2.9,4,15,1,NA,Yes,56.2,Average,High
+LOC0803,Pune Railway Station,Railway Station,Pune,Maharashtra,18.494725,73.719501,No,Yes,Yes,Yes,No,Yes,No,Yes,Good,Poor,High,Yes,Yes,Yes,Medium,17,14049,2.1,4,0,1,Average,Yes,81.1,Good,Low
+LOC0804,Patna International Airport,Airport,Patna,Bihar,25.608245,85.014657,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Poor,Average,High,Yes,Yes,Yes,Low,28,16489,4,2,16,6,Average,No,85,Good,Low
+LOC0805,Chandigarh Temple Complex,Tourist Attraction,Chandigarh,Chandigarh,30.712362,76.832245,Yes,Yes,Yes,No,No,No,No,No,Poor,Average,Low,No,No,Yes,Low,23,1144,3,2,5,1,Good,No,44.6,Poor,High
+LOC0806,Kolkata City Hospital,Hospital,Kolkata,West Bengal,22.474663,88.443277,Yes,Yes,Yes,No,No,No,Yes,No,Average,Poor,High,Yes,No,Yes,High,21,3751,3.5,3,14,7,Average,Partial,64,Average,Medium
+LOC0807,Udaipur Domestic Airport,Airport,Udaipur,Rajasthan,24.590337,73.793495,Yes,Yes,No,Yes,No,No,No,Yes,Average,Good,Low,Yes,No,Yes,Medium,24,7400,3.5,0,13,4,Average,Yes,72.5,Average,Medium
+LOC0808,Surat Public Garden,Park,Surat,Gujarat,21.266371,72.682345,No,No,No,Yes,No,No,No,Yes,Good,Average,Medium,Yes,Yes,Yes,Low,18,366,2.7,5,0,1,NA,Yes,64.1,Average,Medium
+LOC0809,Lucknow Temple Complex,Tourist Attraction,Lucknow,Uttar Pradesh,26.758376,81.071427,No,Yes,Yes,No,No,No,No,No,Good,Good,High,Yes,No,Yes,Low,22,854,3.2,2,0,1,Average,No,70,Average,Low
+LOC0810,Chennai Institute of Technology,College,Chennai,Tamil Nadu,13.026473,80.283548,Yes,Yes,No,No,No,Yes,No,No,Average,Good,Low,No,No,Yes,Medium,14,2020,3.4,2,16,2,Average,No,51.2,Poor,High
+LOC0811,Bhopal Central Park,Park,Bhopal,Madhya Pradesh,23.274721,77.505113,Yes,No,No,No,No,No,No,No,Average,Average,Medium,Yes,No,Yes,Medium,17,1947,3.5,2,20,1,NA,No,41.9,Poor,Medium
+LOC0812,Jaipur City Centre Mall,Mall,Jaipur,Rajasthan,27.043804,75.684035,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Good,Medium,Yes,No,Yes,High,41,3910,3.8,1,11,3,Average,No,88,Good,Medium
+LOC0813,Thane Government College,College,Thane,Maharashtra,19.18481,73.028271,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Average,High,Yes,Yes,No,High,13,3432,3.4,3,4,2,Good,Partial,93.2,Excellent,Low
+LOC0814,Nashik Multispeciality Hospital,Hospital,Nashik,Maharashtra,20.124064,73.869028,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Good,Poor,Medium,Yes,Yes,Yes,Medium,31,1718,3.5,1,10,4,Average,Partial,85.2,Good,Low
+LOC0815,Visakhapatnam Government College,College,Visakhapatnam,Andhra Pradesh,17.673975,83.268972,Yes,Yes,Yes,Yes,No,No,Yes,No,Good,Average,Medium,Yes,Yes,No,Medium,24,893,2,3,9,1,Good,Yes,88.2,Good,Low
+LOC0816,Lucknow Grand Mall,Mall,Lucknow,Uttar Pradesh,26.916908,80.861056,Yes,Yes,Yes,No,Yes,Yes,No,No,Average,Average,Medium,Yes,Yes,No,High,25,6341,3.1,5,7,7,Good,Partial,73.2,Average,Medium
+LOC0817,Lucknow Bus Depot,Bus Stop,Lucknow,Uttar Pradesh,26.719969,80.937127,No,Yes,No,No,No,No,No,Yes,Poor,Average,Low,No,Yes,No,High,21,2411,2.2,8,17,1,Poor,No,11.7,Poor,High
+LOC0818,Coimbatore Bus Depot,Bus Stop,Coimbatore,Tamil Nadu,11.15034,77.090609,Yes,No,No,No,No,No,No,No,Poor,Good,High,No,Yes,No,High,11,282,3.7,4,10,1,NA,Yes,48.4,Poor,High
+LOC0819,Pune Tehsil Office,Government Office,Pune,Maharashtra,18.614321,73.805279,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Poor,Average,Medium,Yes,Yes,Yes,Medium,18,970,3.7,2,9,1,NA,No,68.2,Average,Medium
+LOC0820,Coimbatore Central Station,Railway Station,Coimbatore,Tamil Nadu,10.886681,77.07751,Yes,Yes,No,Yes,No,No,No,No,Average,Good,Low,Yes,Yes,Yes,High,26,12151,2.5,4,20,1,Good,Yes,63.3,Average,High
+LOC0821,Lucknow Public Garden,Park,Lucknow,Uttar Pradesh,26.901048,80.922422,No,No,No,No,No,No,No,No,Poor,Average,High,No,Yes,Yes,Low,12,1815,3.5,3,3,1,NA,Partial,38.6,Poor,Medium
+LOC0822,Mumbai Degree College,College,Mumbai,Maharashtra,19.047458,72.9218,No,Yes,Yes,Yes,Yes,No,No,No,Good,Good,Medium,Yes,No,No,Medium,39,4625,3.2,1,12,2,Average,Yes,82,Good,Low
+LOC0823,Indore Airport Terminal,Airport,Indore,Madhya Pradesh,22.703626,75.925118,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Poor,Average,High,Yes,Yes,Yes,Medium,11,10449,3.2,0,3,3,Average,Yes,94.1,Excellent,Low
+LOC0824,Indore Government College,College,Indore,Madhya Pradesh,22.761543,75.842928,No,No,Yes,No,No,Yes,Yes,No,Good,Average,Medium,Yes,No,Yes,Medium,29,1419,2.6,3,5,2,NA,Yes,65.6,Average,Medium
+LOC0825,Patna Domestic Airport,Airport,Patna,Bihar,25.739912,85.218859,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Average,Average,High,Yes,No,Yes,Low,30,7460,4.3,1,20,4,Good,No,94.1,Excellent,Low
+LOC0826,Kochi Government College,College,Kochi,Kerala,10.068481,76.265904,Yes,Yes,Yes,Yes,No,No,No,No,Good,Average,High,Yes,No,Yes,High,37,3079,3.3,6,20,2,Good,Yes,86.1,Good,Medium
+LOC0827,Patna Shopping Mall,Mall,Patna,Bihar,25.461257,85.087731,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Average,Average,High,No,Yes,Yes,Medium,21,19131,3.5,3,9,6,Average,Yes,88.8,Good,Low
+LOC0828,Indore Junction,Railway Station,Indore,Madhya Pradesh,22.60451,75.750021,No,No,No,No,Yes,No,No,No,Average,Poor,Low,Yes,Yes,No,High,38,15456,3.4,4,0,1,NA,Partial,25,Poor,High
+LOC0829,Indore Bus Depot,Bus Stop,Indore,Madhya Pradesh,22.677782,75.913654,No,No,No,No,No,No,No,Yes,Poor,Good,Medium,Yes,Yes,No,High,18,2317,2.7,8,11,1,NA,Partial,29.1,Poor,High
+LOC0830,Thane Medical Center,Hospital,Thane,Maharashtra,19.312915,72.898778,Yes,Yes,Yes,No,No,Yes,No,No,Average,Good,High,Yes,Yes,Yes,High,15,1495,3.5,2,21,7,Good,Partial,81.8,Good,Low
+LOC0831,Pune City Bus Stop,Bus Stop,Pune,Maharashtra,18.44107,73.784747,Yes,Yes,No,No,No,No,Yes,No,Poor,Average,Low,No,Yes,No,High,4,2774,3,6,6,1,Average,Yes,42.3,Poor,High
+LOC0832,Indore Temple Complex,Tourist Attraction,Indore,Madhya Pradesh,22.678706,75.968892,No,No,Yes,Yes,Yes,Yes,No,No,Poor,Average,Medium,Yes,No,Yes,Medium,2,1230,3.8,3,4,1,NA,Partial,57.4,Average,Medium
+LOC0833,Kolkata Shopping Mall,Mall,Kolkata,West Bengal,22.648382,88.266015,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Average,Poor,High,Yes,Yes,Yes,High,12,3741,4,6,6,3,Good,Partial,81.3,Good,Medium
+LOC0834,Pune District Office,Government Office,Pune,Maharashtra,18.513524,73.800986,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Poor,Good,Low,No,Yes,Yes,Medium,23,3237,3.3,2,11,3,Poor,Partial,64.7,Average,Medium
+LOC0835,Pune Plaza Mall,Mall,Pune,Maharashtra,18.593196,73.923649,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Average,Average,High,No,Yes,Yes,Medium,38,18168,2.8,6,22,2,NA,Partial,76.3,Good,Low
+LOC0836,Chennai Multispeciality Hospital,Hospital,Chennai,Tamil Nadu,13.064164,80.281857,No,Yes,Yes,No,No,No,Yes,Yes,Good,Good,Medium,Yes,Yes,Yes,Medium,10,3548,3.6,0,10,3,Average,Yes,84.3,Good,Low
+LOC0837,Kolkata Central Station,Railway Station,Kolkata,West Bengal,22.537004,88.331075,Yes,No,Yes,No,No,Yes,No,No,Average,Poor,High,No,Yes,No,Low,42,18083,2.4,2,12,3,NA,Partial,54.8,Poor,Medium
+LOC0838,Kolkata District Office,Government Office,Kolkata,West Bengal,22.496846,88.250877,No,Yes,No,Yes,No,No,No,Yes,Average,Average,Medium,Yes,Yes,Yes,High,14,608,2.9,6,18,1,Poor,Partial,50.2,Poor,High
+LOC0839,Coimbatore Central Station,Railway Station,Coimbatore,Tamil Nadu,11.003504,77.020692,Yes,No,Yes,No,No,No,No,No,Average,Poor,Low,No,Yes,Yes,Low,38,18340,3.5,3,4,1,NA,No,34.5,Poor,High
+LOC0840,Patna International Airport,Airport,Patna,Bihar,25.58097,85.146399,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Average,Average,High,Yes,Yes,Yes,Medium,5,3409,3.6,3,11,4,Average,Partial,87.7,Good,Low
+LOC0841,Indore Junction,Railway Station,Indore,Madhya Pradesh,22.706562,75.72965,Yes,Yes,Yes,No,No,No,Yes,No,Average,Average,Medium,No,Yes,No,High,16,3004,3.2,4,21,3,Poor,No,50.2,Poor,High
+LOC0842,Mumbai International Airport,Airport,Mumbai,Maharashtra,19.16239,72.968157,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Average,Good,High,Yes,No,No,Medium,16,19327,4.2,0,1,2,Poor,Yes,100,Excellent,Low
+LOC0843,Mumbai Public Garden,Park,Mumbai,Maharashtra,19.068426,72.748466,No,No,No,Yes,No,No,Yes,No,Average,Average,High,Yes,Yes,Yes,Medium,19,2958,2.1,4,4,1,NA,Partial,55.5,Average,Medium
+LOC0844,Guwahati College of Engineering,College,Guwahati,Assam,26.056427,91.745797,Yes,No,No,No,Yes,No,Yes,Yes,Poor,Good,Low,Yes,No,No,High,21,4324,2.3,5,20,2,NA,Partial,38.9,Poor,High
+LOC0845,Udaipur Degree College,College,Udaipur,Rajasthan,24.701682,73.566406,Yes,Yes,Yes,No,No,Yes,Yes,No,Poor,Good,Low,Yes,No,Yes,High,5,4889,2,4,16,2,Poor,Partial,50.4,Poor,High
+LOC0846,Kolkata Plaza Mall,Mall,Kolkata,West Bengal,22.442496,88.428342,Yes,No,No,No,Yes,Yes,No,No,Good,Good,Medium,Yes,No,Yes,High,6,11053,3.7,2,12,3,NA,Partial,69.7,Average,Medium
+LOC0847,Lucknow Railway Station,Railway Station,Lucknow,Uttar Pradesh,26.859051,80.909353,Yes,No,Yes,No,No,Yes,No,No,Average,Poor,Low,Yes,Yes,Yes,Medium,17,16666,3.2,2,11,3,NA,Yes,50.4,Poor,High
+LOC0848,Delhi Domestic Airport,Airport,Delhi,Delhi,28.8088,77.163138,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Average,Poor,High,Yes,No,Yes,Medium,44,8956,3.8,0,1,7,Good,Partial,92.2,Excellent,Low
+LOC0849,Pune Degree College,College,Pune,Maharashtra,18.4919,73.914397,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Good,Average,Low,Yes,Yes,Yes,Low,37,2443,3,3,17,1,Average,Yes,85,Good,Medium
+LOC0850,Coimbatore Domestic Airport,Airport,Coimbatore,Tamil Nadu,11.041791,76.886371,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Average,Good,High,Yes,Yes,Yes,High,6,17082,4.2,5,0,2,Average,Yes,99.6,Excellent,Medium
+LOC0851,Udaipur Multispeciality Hospital,Hospital,Udaipur,Rajasthan,24.435824,73.666973,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Good,Low,Yes,Yes,No,Low,32,1465,3.9,0,9,5,Good,Partial,95.4,Excellent,Medium
+LOC0852,Mysuru Bus Stand,Bus Stop,Mysuru,Karnataka,12.308151,76.727098,Yes,Yes,No,No,No,No,No,Yes,Good,Average,Medium,Yes,Yes,Yes,Medium,8,1475,2.3,0,18,1,Poor,Partial,66.2,Average,Medium
+LOC0853,Udaipur District Office,Government Office,Udaipur,Rajasthan,24.702272,73.595266,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Poor,High,Yes,Yes,Yes,Low,8,1769,3.1,3,20,2,Average,Partial,73.9,Average,Medium
+LOC0854,Bhopal Government College,College,Bhopal,Madhya Pradesh,23.407997,77.324641,No,No,No,No,No,Yes,Yes,Yes,Average,Good,Medium,Yes,No,Yes,Low,23,516,4.1,3,3,3,NA,No,56.4,Average,Medium
+LOC0855,Chennai Bus Depot,Bus Stop,Chennai,Tamil Nadu,12.969053,80.140126,No,No,Yes,No,No,No,No,No,Average,Poor,Medium,No,Yes,No,Medium,23,821,3.7,4,6,1,NA,Partial,34,Poor,High
+LOC0856,Patna City Centre Mall,Mall,Patna,Bihar,25.714868,85.240056,Yes,Yes,Yes,Yes,No,No,Yes,No,Good,Good,Medium,Yes,Yes,No,Low,13,17177,4.2,0,4,3,Good,Yes,100,Excellent,Low
+LOC0857,Jaipur Bus Stand,Bus Stop,Jaipur,Rajasthan,27.051831,75.801054,No,No,No,No,No,No,No,No,Average,Average,Medium,No,Yes,No,High,9,1774,1.7,5,8,1,NA,Partial,25.9,Poor,High
+LOC0858,Coimbatore Domestic Airport,Airport,Coimbatore,Tamil Nadu,11.005883,77.08608,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Average,High,Yes,No,Yes,Medium,35,6156,4,0,10,3,Good,Yes,100,Excellent,Low
+LOC0859,Nagpur Bus Stand,Bus Stop,Nagpur,Maharashtra,21.246198,79.022988,Yes,No,Yes,No,No,No,Yes,Yes,Average,Average,Medium,Yes,Yes,Yes,Medium,2,2925,3.9,3,8,1,NA,No,61.1,Average,Medium
+LOC0860,Udaipur College of Engineering,College,Udaipur,Rajasthan,24.588163,73.625454,No,Yes,Yes,No,No,Yes,No,Yes,Average,Average,Low,No,Yes,Yes,Medium,26,4141,2.2,1,2,1,Average,No,48.5,Poor,High
+LOC0861,Chennai General Hospital,Hospital,Chennai,Tamil Nadu,13.150253,80.198827,Yes,No,Yes,Yes,Yes,No,No,Yes,Average,Average,High,Yes,No,Yes,Medium,23,4868,2.1,2,17,4,NA,Yes,77.2,Good,Low
+LOC0862,Coimbatore Central Station,Railway Station,Coimbatore,Tamil Nadu,11.097182,76.862772,No,No,No,Yes,No,No,No,No,Average,Average,Low,No,Yes,Yes,Medium,15,6927,4.5,2,5,3,NA,No,36.1,Poor,High
+LOC0863,Chennai General Hospital,Hospital,Chennai,Tamil Nadu,12.955861,80.356678,No,Yes,No,Yes,Yes,Yes,No,No,Good,Good,Low,Yes,Yes,Yes,Low,35,1627,2.9,2,5,6,Good,No,72.4,Average,Medium
+LOC0864,Chandigarh Lake View Point,Tourist Attraction,Chandigarh,Chandigarh,30.877831,76.878962,No,Yes,No,Yes,No,Yes,Yes,No,Poor,Good,Medium,No,Yes,Yes,Medium,22,1345,3.3,1,6,1,Average,Yes,68.2,Average,Medium
+LOC0865,Nashik Domestic Airport,Airport,Nashik,Maharashtra,20.064225,73.70097,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Good,Poor,High,Yes,No,Yes,Low,5,9654,3.7,1,22,3,Good,Yes,99,Excellent,Low
+LOC0866,Delhi District Office,Government Office,Delhi,Delhi,28.677477,77.153661,No,Yes,Yes,No,No,Yes,Yes,Yes,Good,Good,Medium,No,Yes,No,High,15,3665,1.9,2,8,2,Good,Partial,74.9,Average,Medium
+LOC0867,Pune City Centre Mall,Mall,Pune,Maharashtra,18.586388,73.947204,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Poor,Medium,Yes,Yes,Yes,Medium,27,14447,4.2,0,20,4,Good,Yes,91.6,Excellent,Low
+LOC0868,Bengaluru Multispeciality Hospital,Hospital,Bengaluru,Karnataka,13.064979,77.614846,Yes,No,Yes,Yes,No,Yes,Yes,No,Poor,Average,Medium,Yes,Yes,No,High,17,3919,3.7,5,14,4,NA,Yes,65,Average,High
+LOC0869,Indore Plaza Mall,Mall,Indore,Madhya Pradesh,22.856152,75.914301,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Good,Good,High,Yes,Yes,Yes,Medium,43,7187,3.8,1,13,2,Average,Yes,100,Excellent,Low
+LOC0870,Indore Collectorate Office,Government Office,Indore,Madhya Pradesh,22.57791,75.734755,Yes,No,No,No,No,No,No,No,Good,Poor,Medium,No,No,No,Low,24,3294,2.4,2,18,1,NA,No,35.9,Poor,Medium
+LOC0871,Surat Shopping Mall,Mall,Surat,Gujarat,21.195997,72.70522,Yes,Yes,Yes,Yes,No,No,No,No,Good,Good,Medium,Yes,No,No,High,21,18428,4.3,5,3,4,Average,Partial,81.5,Good,Medium
+LOC0872,Kanpur Heritage Fort,Tourist Attraction,Kanpur,Uttar Pradesh,26.492351,80.433933,Yes,Yes,Yes,Yes,No,No,No,Yes,Poor,Good,High,Yes,Yes,Yes,Medium,4,2329,3.4,1,23,1,Average,Partial,80,Good,Low
+LOC0873,Chennai Bus Depot,Bus Stop,Chennai,Tamil Nadu,13.039689,80.318597,Yes,No,Yes,Yes,No,No,No,No,Poor,Good,High,Yes,Yes,No,High,9,2042,3.1,9,1,1,NA,Partial,56.9,Average,High
+LOC0874,Nagpur Temple Complex,Tourist Attraction,Nagpur,Maharashtra,21.238216,79.206362,Yes,No,Yes,No,Yes,Yes,No,No,Good,Good,Low,Yes,Yes,Yes,Low,4,1126,4.2,0,10,1,NA,Yes,82.1,Good,Medium
+LOC0875,Mysuru City Park,Park,Mysuru,Karnataka,12.305865,76.705307,No,No,No,No,No,No,No,Yes,Poor,Poor,Low,No,No,No,Medium,3,764,2.3,0,1,1,NA,Partial,13.8,Poor,High
+LOC0876,Guwahati General Hospital,Hospital,Guwahati,Assam,26.268466,91.721302,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Good,High,Yes,Yes,No,Medium,16,741,3.1,2,22,5,Good,Yes,100,Excellent,Low
+LOC0877,Hyderabad Domestic Airport,Airport,Hyderabad,Telangana,17.439232,78.560333,Yes,Yes,Yes,Yes,No,No,Yes,No,Average,Average,Medium,Yes,Yes,No,High,12,6293,4.1,5,18,7,Average,Partial,73.6,Average,Medium
+LOC0878,Surat Green Park,Park,Surat,Gujarat,21.164893,72.756437,Yes,No,No,No,No,No,No,Yes,Poor,Average,Medium,Yes,Yes,Yes,Low,12,1723,3.6,2,9,1,NA,No,43.8,Poor,High
+LOC0879,Lucknow Municipal Office,Government Office,Lucknow,Uttar Pradesh,26.71871,81.076349,No,No,Yes,Yes,No,Yes,No,Yes,Good,Average,Low,No,No,Yes,Low,31,2200,2.9,0,16,3,NA,Partial,61.3,Average,Medium
+LOC0880,Mysuru Lake View Point,Tourist Attraction,Mysuru,Karnataka,12.171659,76.601729,No,No,Yes,No,No,No,No,Yes,Average,Good,Medium,Yes,Yes,Yes,High,18,1034,2.4,5,19,1,NA,Partial,45.4,Poor,High
+LOC0881,Jaipur Government College,College,Jaipur,Rajasthan,26.798071,75.717781,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Good,Good,High,Yes,No,Yes,Medium,28,1650,4.7,0,14,2,Good,Yes,100,Excellent,Low
+LOC0882,Lucknow Bus Depot,Bus Stop,Lucknow,Uttar Pradesh,26.908175,81.051167,No,No,Yes,No,No,No,No,No,Average,Poor,High,No,Yes,No,High,14,201,2.2,9,13,1,NA,No,21.5,Poor,High
+LOC0883,Patna Degree College,College,Patna,Bihar,25.457254,85.210343,Yes,Yes,Yes,Yes,No,No,No,No,Poor,Good,Low,Yes,Yes,Yes,Medium,33,1822,3.7,4,19,3,Poor,Partial,57,Average,High
+LOC0884,Mysuru Botanical Garden,Tourist Attraction,Mysuru,Karnataka,12.172838,76.511257,No,No,Yes,No,Yes,Yes,Yes,No,Average,Average,High,No,Yes,Yes,High,18,620,3.4,8,22,1,NA,Yes,60.5,Average,Medium
+LOC0885,Jaipur City Hospital,Hospital,Jaipur,Rajasthan,26.877994,75.709174,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Good,Average,High,Yes,Yes,Yes,High,12,4374,4,2,13,6,Good,Yes,100,Excellent,Low
+LOC0886,Patna Shopping Mall,Mall,Patna,Bihar,25.663816,85.199331,Yes,No,Yes,Yes,No,Yes,No,Yes,Good,Poor,Medium,No,Yes,Yes,Low,42,10491,3.2,0,21,2,NA,No,67.4,Average,Medium
+LOC0887,Nagpur Heritage Fort,Tourist Attraction,Nagpur,Maharashtra,21.049495,79.221435,No,Yes,Yes,Yes,No,No,No,Yes,Poor,Poor,Low,Yes,No,No,High,8,999,4,3,15,1,Average,Partial,38.4,Poor,High
+LOC0888,Hyderabad International Airport,Airport,Hyderabad,Telangana,17.235945,78.611782,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Poor,Average,High,Yes,Yes,Yes,High,19,6582,3.5,1,3,2,Good,Partial,85.2,Good,Medium
+LOC0889,Kochi Degree College,College,Kochi,Kerala,9.824055,76.36117,Yes,No,Yes,No,No,Yes,No,Yes,Average,Poor,High,Yes,Yes,No,High,11,2193,3.8,6,4,2,NA,Yes,63,Average,Medium
+LOC0890,Kolkata Plaza Mall,Mall,Kolkata,West Bengal,22.500882,88.462602,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Good,Average,Low,Yes,No,No,Medium,28,9563,3.1,3,9,3,Average,Yes,84.5,Good,Medium
+LOC0891,Patna Municipal Office,Government Office,Patna,Bihar,25.497607,85.210021,No,Yes,No,Yes,No,No,No,Yes,Good,Average,High,Yes,Yes,No,Medium,14,2825,3.5,2,4,2,Good,Partial,79.3,Good,Low
+LOC0892,Bhopal Heritage Fort,Tourist Attraction,Bhopal,Madhya Pradesh,23.136763,77.367629,Yes,No,Yes,No,No,Yes,No,Yes,Good,Poor,Low,Yes,No,Yes,Medium,23,219,3,5,16,1,NA,Partial,52.6,Poor,High
+LOC0893,Thane Temple Complex,Tourist Attraction,Thane,Maharashtra,19.087283,72.968867,Yes,No,Yes,No,No,No,Yes,Yes,Good,Average,Medium,Yes,Yes,Yes,Medium,15,495,3.8,3,17,1,NA,Yes,77.5,Good,Low
+LOC0894,Thiruvananthapuram Collectorate Office,Government Office,Thiruvananthapuram,Kerala,8.488946,76.905416,Yes,Yes,No,Yes,No,No,No,No,Good,Good,Low,Yes,No,No,Medium,39,3203,3.2,1,9,3,Average,Yes,73.5,Average,Medium
+LOC0895,Coimbatore Central Park,Park,Coimbatore,Tamil Nadu,11.153072,77.102935,Yes,No,Yes,Yes,No,No,No,Yes,Good,Average,Low,Yes,No,Yes,Low,6,2202,3.3,5,10,1,NA,Partial,66.4,Average,Medium
+LOC0896,Thiruvananthapuram International Airport,Airport,Thiruvananthapuram,Kerala,8.418937,77.028897,Yes,Yes,Yes,No,No,No,Yes,Yes,Good,Good,Low,Yes,Yes,Yes,Low,19,11031,3.5,1,8,7,Average,Yes,87.5,Good,Medium
+LOC0897,Mumbai Junction,Railway Station,Mumbai,Maharashtra,19.208303,72.812054,Yes,No,No,Yes,Yes,No,No,Yes,Good,Good,High,Yes,Yes,Yes,Medium,27,3740,2.1,1,8,2,NA,Partial,83.3,Good,Low
+LOC0898,Bhopal International Airport,Airport,Bhopal,Madhya Pradesh,23.114809,77.441954,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Average,Average,High,Yes,Yes,No,Medium,38,14221,4,0,1,2,Good,Yes,100,Excellent,Low
+LOC0899,Indore Grand Mall,Mall,Indore,Madhya Pradesh,22.823181,76.005558,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Poor,Poor,Low,Yes,Yes,Yes,High,30,10704,2.7,5,3,5,Poor,Yes,46.6,Poor,High
+LOC0900,Bengaluru City Bus Stop,Bus Stop,Bengaluru,Karnataka,13.046308,77.681606,Yes,Yes,No,No,No,No,Yes,No,Good,Average,Medium,No,Yes,Yes,High,5,628,1.8,1,15,1,Poor,No,53.4,Poor,High
+LOC0901,Coimbatore Airport Terminal,Airport,Coimbatore,Tamil Nadu,10.892779,77.07524,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Good,Good,High,Yes,Yes,Yes,Medium,14,9480,4.1,0,20,7,Average,Yes,100,Excellent,Low
+LOC0902,Kolkata Lake View Point,Tourist Attraction,Kolkata,West Bengal,22.699694,88.265532,Yes,No,No,No,No,No,Yes,Yes,Poor,Poor,High,Yes,No,No,Low,13,262,3.1,3,19,1,NA,Partial,45,Poor,Medium
+LOC0903,Nagpur Domestic Airport,Airport,Nagpur,Maharashtra,20.999589,79.119302,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Poor,Average,Medium,Yes,No,Yes,Medium,5,6982,3.8,1,5,7,Poor,Partial,72.9,Average,Medium
+LOC0904,Hyderabad Bus Stand,Bus Stop,Hyderabad,Telangana,17.294608,78.440867,No,No,No,Yes,No,No,No,No,Good,Good,Low,No,Yes,Yes,Medium,3,733,1.8,11,22,1,NA,No,30.3,Poor,High
+LOC0905,Nashik Central Station,Railway Station,Nashik,Maharashtra,20.10658,73.916364,Yes,No,Yes,Yes,No,No,No,No,Poor,Good,Medium,Yes,Yes,Yes,High,25,18973,3.7,1,19,2,NA,Partial,58.5,Average,Medium
+LOC0906,Lucknow Central Park,Park,Lucknow,Uttar Pradesh,26.910575,80.807898,No,No,No,No,No,No,No,Yes,Average,Poor,High,No,Yes,Yes,Medium,16,2331,3.5,3,21,1,NA,No,32,Poor,Medium
+LOC0907,Nagpur Heritage Fort,Tourist Attraction,Nagpur,Maharashtra,21.208094,79.209099,Yes,No,No,Yes,No,No,No,No,Average,Good,High,Yes,Yes,Yes,High,22,2865,3.5,3,11,1,NA,Partial,65.4,Average,Medium
+LOC0908,Visakhapatnam Collectorate Office,Government Office,Visakhapatnam,Andhra Pradesh,17.631759,83.210444,No,Yes,Yes,No,No,No,No,No,Good,Good,Medium,Yes,No,No,Low,9,900,2.6,4,11,2,Good,Partial,65.9,Average,Medium
+LOC0909,Lucknow Multispeciality Hospital,Hospital,Lucknow,Uttar Pradesh,26.883969,81.051098,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Poor,High,Yes,Yes,Yes,High,26,1155,3.6,10,20,5,Good,Yes,82.8,Good,Medium
+LOC0910,Coimbatore Central Station,Railway Station,Coimbatore,Tamil Nadu,11.088698,76.957335,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Good,Average,High,No,Yes,No,High,36,5502,3.5,6,0,2,NA,Yes,88.7,Good,Medium
+LOC0911,Visakhapatnam Shopping Mall,Mall,Visakhapatnam,Andhra Pradesh,17.672471,83.133924,No,No,Yes,No,No,Yes,No,Yes,Poor,Average,High,No,Yes,Yes,High,40,6754,2.2,3,2,3,NA,Yes,49.9,Poor,High
+LOC0912,Thane Municipal Office,Government Office,Thane,Maharashtra,19.224908,72.947113,Yes,Yes,Yes,No,Yes,Yes,No,No,Good,Good,High,No,No,Yes,High,10,1153,3.2,9,13,3,Average,No,75.4,Good,Medium
+LOC0913,Visakhapatnam International Airport,Airport,Visakhapatnam,Andhra Pradesh,17.595214,83.162541,No,Yes,Yes,Yes,No,Yes,No,Yes,Good,Good,High,Yes,No,Yes,Low,6,7738,3.6,0,3,4,Average,Yes,100,Excellent,Low
+LOC0914,Jaipur District Office,Government Office,Jaipur,Rajasthan,27.021903,75.71053,Yes,Yes,No,Yes,No,Yes,No,Yes,Good,Average,Medium,Yes,No,Yes,Medium,23,1687,2.3,1,3,2,Good,Yes,90.7,Excellent,Low
+LOC0915,Nagpur Institute of Technology,College,Nagpur,Maharashtra,20.998591,79.027601,Yes,No,Yes,Yes,No,Yes,Yes,No,Poor,Good,Medium,Yes,No,No,Low,24,3881,3,0,18,3,NA,Partial,69.3,Average,Medium
+LOC0916,Nagpur Grand Mall,Mall,Nagpur,Maharashtra,21.25256,79.099269,Yes,Yes,Yes,No,No,No,No,Yes,Average,Average,Low,Yes,No,Yes,High,13,11495,3.7,8,11,2,Average,Yes,58.1,Average,High
+LOC0917,Ahmedabad Medical Center,Hospital,Ahmedabad,Gujarat,23.03815,72.430678,No,Yes,Yes,Yes,No,Yes,No,No,Good,Average,Medium,Yes,Yes,Yes,High,9,2387,3.7,4,14,4,Average,Partial,74.8,Average,Medium
+LOC0918,Chennai Central Station,Railway Station,Chennai,Tamil Nadu,13.010564,80.324197,Yes,Yes,No,Yes,No,No,No,No,Poor,Average,High,Yes,Yes,No,High,10,3184,3.7,6,1,1,Average,Partial,61.2,Average,Medium
+LOC0919,Hyderabad Medical Center,Hospital,Hyderabad,Telangana,17.350264,78.618983,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Average,Average,High,Yes,No,No,High,13,2038,3.7,1,6,2,NA,Yes,84.4,Good,Low
+LOC0920,Guwahati District Office,Government Office,Guwahati,Assam,26.287883,91.621758,No,Yes,Yes,No,Yes,No,Yes,No,Good,Average,Medium,No,No,No,Medium,10,3804,3.1,2,20,2,Poor,Partial,61.7,Average,Medium
+LOC0921,Guwahati Degree College,College,Guwahati,Assam,26.2175,91.589228,Yes,Yes,Yes,Yes,No,No,No,Yes,Poor,Average,Low,Yes,Yes,Yes,High,7,3298,3.7,3,19,2,Average,Partial,58.9,Average,High
+LOC0922,Bengaluru Domestic Airport,Airport,Bengaluru,Karnataka,13.069464,77.538302,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Good,Low,Yes,No,No,High,39,7596,4.1,0,15,6,Average,Partial,90,Excellent,Medium
+LOC0923,Kochi District Office,Government Office,Kochi,Kerala,9.926679,76.138591,No,Yes,No,Yes,Yes,No,No,No,Poor,Average,Medium,No,Yes,Yes,Medium,5,4507,3,3,0,2,Average,Yes,56.6,Average,Medium
+LOC0924,Lucknow Railway Station,Railway Station,Lucknow,Uttar Pradesh,26.907364,80.92095,Yes,Yes,Yes,No,No,No,No,No,Poor,Average,Medium,Yes,Yes,Yes,Medium,6,18019,3.2,4,8,1,Poor,No,47.2,Poor,High
+LOC0925,Hyderabad Government College,College,Hyderabad,Telangana,17.268324,78.423243,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Good,Poor,Medium,Yes,No,Yes,High,19,4539,4.8,4,8,1,Poor,Yes,78,Good,Medium
+LOC0926,Kanpur Bus Depot,Bus Stop,Kanpur,Uttar Pradesh,26.536322,80.417922,No,No,Yes,No,No,Yes,No,No,Poor,Poor,Medium,Yes,Yes,No,High,14,323,3,6,2,1,NA,Partial,28.9,Poor,High
+LOC0927,Delhi Multispeciality Hospital,Hospital,Delhi,Delhi,28.83968,77.184457,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Average,Good,Medium,Yes,No,No,Low,6,3467,3.8,0,2,4,Good,Yes,100,Excellent,Low
+LOC0928,Kochi Central Station,Railway Station,Kochi,Kerala,9.86404,76.237581,No,Yes,No,No,Yes,Yes,No,Yes,Good,Good,Low,Yes,Yes,Yes,High,17,14134,3.7,4,12,1,Average,No,60.1,Average,High
+LOC0929,Delhi City Park,Park,Delhi,Delhi,28.768359,77.214741,Yes,No,Yes,Yes,Yes,No,Yes,No,Poor,Poor,Medium,No,Yes,No,High,7,1484,3.7,9,13,1,NA,Yes,49.9,Poor,High
+LOC0930,Indore Railway Station,Railway Station,Indore,Madhya Pradesh,22.588547,75.852031,No,Yes,No,No,Yes,No,Yes,No,Poor,Poor,Medium,No,Yes,Yes,High,44,7113,2.1,4,8,1,Good,Partial,36.9,Poor,High
+LOC0931,Mysuru Central Park,Park,Mysuru,Karnataka,12.186979,76.563199,No,No,No,No,No,Yes,No,No,Average,Poor,Low,Yes,No,Yes,Low,14,1673,2.2,6,12,1,NA,Yes,28,Poor,High
+LOC0932,Jaipur Grand Mall,Mall,Jaipur,Rajasthan,26.825705,75.908316,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Average,Good,Medium,Yes,No,No,High,19,7989,3.9,2,6,3,Average,Yes,94.2,Excellent,Medium
+LOC0933,Mysuru Museum,Tourist Attraction,Mysuru,Karnataka,12.425064,76.578063,Yes,No,Yes,No,No,Yes,No,No,Good,Good,Low,No,Yes,Yes,Low,19,758,2,4,10,1,NA,Partial,60.3,Average,Medium
+LOC0934,Bhopal Green Park,Park,Bhopal,Madhya Pradesh,23.397666,77.489043,No,Yes,No,No,No,No,No,No,Average,Good,Medium,No,Yes,Yes,Low,12,1075,3,4,23,1,Average,No,43.3,Poor,High
+LOC0935,Delhi Tehsil Office,Government Office,Delhi,Delhi,28.555464,76.990182,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Average,Poor,High,No,Yes,Yes,Low,23,583,2.2,4,9,3,Poor,Partial,70,Average,Medium
+LOC0936,Kolkata City Centre Mall,Mall,Kolkata,West Bengal,22.619805,88.499724,Yes,Yes,No,Yes,No,Yes,No,Yes,Good,Average,High,Yes,Yes,Yes,Medium,40,9678,4.2,2,2,6,Good,No,93.7,Excellent,Low
+LOC0937,Mysuru Bus Stand,Bus Stop,Mysuru,Karnataka,12.392444,76.637558,No,Yes,No,Yes,No,No,No,No,Average,Average,Medium,No,Yes,No,Medium,7,712,3.3,3,19,1,Good,Partial,54.6,Poor,Medium
+LOC0938,Delhi Municipal Office,Government Office,Delhi,Delhi,28.847373,77.010861,Yes,Yes,No,No,No,No,No,No,Poor,Average,Low,Yes,Yes,Yes,Low,14,4295,2.5,2,7,2,Good,Partial,47.9,Poor,High
+LOC0939,Thiruvananthapuram Central Park,Park,Thiruvananthapuram,Kerala,8.611128,76.854031,Yes,No,Yes,No,No,No,No,Yes,Poor,Good,Medium,No,No,Yes,Low,9,2952,2.9,5,11,1,NA,Yes,54.1,Poor,High
+LOC0940,Nagpur Airport Terminal,Airport,Nagpur,Maharashtra,21.206982,78.964738,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Average,Good,High,Yes,No,No,Medium,6,10945,3.6,1,13,5,Average,Partial,96,Excellent,Low
+LOC0941,Hyderabad Plaza Mall,Mall,Hyderabad,Telangana,17.446547,78.44649,Yes,Yes,No,No,Yes,Yes,Yes,No,Average,Good,High,Yes,Yes,Yes,Medium,21,8269,2.6,6,17,2,Average,Partial,80.5,Good,Low
+LOC0942,Udaipur Grand Mall,Mall,Udaipur,Rajasthan,24.710972,73.658355,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Good,Average,High,Yes,No,Yes,High,37,8285,4.1,3,22,4,NA,Yes,97.6,Excellent,Low
+LOC0943,Jaipur Railway Station,Railway Station,Jaipur,Rajasthan,26.769751,75.686395,No,No,No,Yes,No,No,No,No,Poor,Average,Low,Yes,Yes,Yes,High,41,3045,3.1,14,23,1,NA,Partial,17.6,Poor,High
+LOC0944,Guwahati Domestic Airport,Airport,Guwahati,Assam,26.168461,91.791948,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Poor,Average,High,Yes,Yes,Yes,Medium,28,16515,4,0,21,4,Average,Yes,84.8,Good,Low
+LOC0945,Thiruvananthapuram Public Garden,Park,Thiruvananthapuram,Kerala,8.491783,77.049006,Yes,No,No,Yes,Yes,No,No,Yes,Poor,Average,Low,Yes,Yes,No,Medium,22,1149,2.9,0,21,1,NA,Partial,48.6,Poor,High
+LOC0946,Bengaluru City Hospital,Hospital,Bengaluru,Karnataka,13.072319,77.604477,Yes,Yes,Yes,No,No,No,No,Yes,Poor,Good,High,Yes,No,Yes,Medium,21,3981,3.1,4,12,7,Good,Yes,75.3,Good,Medium
+LOC0947,Delhi International Airport,Airport,Delhi,Delhi,28.775644,77.158776,Yes,Yes,Yes,Yes,No,No,No,No,Poor,Average,High,No,No,Yes,Low,30,18582,3.5,1,8,5,Average,Partial,71.5,Average,Medium
+LOC0948,Jaipur Multispeciality Hospital,Hospital,Jaipur,Rajasthan,26.870903,75.756359,Yes,Yes,No,Yes,No,Yes,No,No,Average,Average,High,Yes,Yes,Yes,High,31,1264,2.6,2,7,2,Average,Yes,80.2,Good,Low
+LOC0949,Surat Museum,Tourist Attraction,Surat,Gujarat,21.255854,72.942936,Yes,Yes,Yes,Yes,No,Yes,No,No,Good,Average,Medium,Yes,No,Yes,Medium,21,2695,1.8,3,6,1,Good,Yes,89.1,Good,Low
+LOC0950,Thane District Office,Government Office,Thane,Maharashtra,19.162683,72.894818,Yes,Yes,Yes,Yes,No,No,No,No,Good,Good,High,No,No,Yes,High,25,4163,2.9,5,21,2,Average,Partial,79.5,Good,Medium
+LOC0951,Coimbatore Degree College,College,Coimbatore,Tamil Nadu,11.166773,77.041166,No,Yes,Yes,No,Yes,No,No,Yes,Good,Good,High,Yes,No,Yes,High,33,3593,4.1,6,23,3,Good,Yes,83,Good,Medium
+LOC0952,Guwahati Central Station,Railway Station,Guwahati,Assam,26.05006,91.654183,No,Yes,Yes,No,No,No,No,No,Poor,Average,High,Yes,Yes,Yes,High,31,4583,3.5,4,14,2,Poor,No,40.2,Poor,High
+LOC0953,Nashik Temple Complex,Tourist Attraction,Nashik,Maharashtra,20.103776,73.763872,No,Yes,No,Yes,No,Yes,No,No,Poor,Average,High,Yes,No,Yes,Medium,23,1094,2.3,4,3,1,Average,No,51.2,Poor,High
+LOC0954,Visakhapatnam District Office,Government Office,Visakhapatnam,Andhra Pradesh,17.626813,83.280283,No,No,No,No,Yes,No,No,No,Average,Average,Low,Yes,Yes,No,Low,28,1631,3.5,4,12,1,NA,Yes,40.5,Poor,High
+LOC0955,Delhi City Bus Stop,Bus Stop,Delhi,Delhi,28.554708,77.218909,No,Yes,Yes,Yes,No,Yes,No,No,Poor,Average,Low,No,Yes,No,High,18,848,2.2,5,10,1,Poor,Yes,41.1,Poor,High
+LOC0956,Coimbatore City Centre Mall,Mall,Coimbatore,Tamil Nadu,11.103635,76.825805,No,No,Yes,Yes,Yes,No,Yes,No,Poor,Poor,Medium,Yes,Yes,Yes,Low,32,12159,3.7,3,21,3,NA,Yes,53.6,Poor,High
+LOC0957,Chennai College of Engineering,College,Chennai,Tamil Nadu,13.071028,80.189955,Yes,Yes,Yes,Yes,No,No,No,No,Average,Average,Medium,Yes,Yes,Yes,Medium,38,1364,3.2,2,9,2,Poor,No,64.7,Average,Medium
+LOC0958,Lucknow Railway Station,Railway Station,Lucknow,Uttar Pradesh,26.697855,81.026362,Yes,Yes,Yes,No,No,No,No,Yes,Average,Good,Medium,Yes,Yes,Yes,Medium,14,19582,3.2,3,20,3,Poor,Yes,72.2,Average,Medium
+LOC0959,Bhopal District Office,Government Office,Bhopal,Madhya Pradesh,23.299139,77.463514,Yes,Yes,Yes,No,No,No,No,No,Average,Good,Low,No,No,Yes,Low,28,626,2.4,1,8,2,Good,Partial,61.2,Average,Medium
+LOC0960,Jaipur Museum,Tourist Attraction,Jaipur,Rajasthan,26.832921,75.923685,No,No,No,No,No,No,No,No,Average,Average,Medium,Yes,No,Yes,Medium,19,219,3.2,2,3,1,NA,Yes,43.5,Poor,Medium
+LOC0961,Coimbatore Central Station,Railway Station,Coimbatore,Tamil Nadu,11.106167,76.880205,Yes,No,Yes,No,Yes,Yes,Yes,No,Good,Average,Medium,No,Yes,No,Medium,24,8098,2.9,1,6,3,NA,Partial,76,Good,Low
+LOC0962,Thane Junction,Railway Station,Thane,Maharashtra,19.344779,73.079958,No,Yes,No,No,Yes,Yes,No,No,Poor,Good,Medium,Yes,Yes,Yes,Medium,37,19630,3.3,4,0,2,Poor,Partial,53.7,Poor,High
+LOC0963,Thane City Hospital,Hospital,Thane,Maharashtra,19.239899,73.046018,Yes,Yes,Yes,No,No,Yes,No,Yes,Average,Good,High,Yes,No,Yes,High,32,4033,4.4,7,7,4,Good,Yes,88.6,Good,Medium
+LOC0964,Surat Bus Depot,Bus Stop,Surat,Gujarat,21.269452,72.911062,Yes,No,No,No,No,No,Yes,Yes,Good,Good,Low,Yes,Yes,No,High,2,2074,3,7,12,1,NA,No,47.6,Poor,High
+LOC0965,Udaipur Grand Mall,Mall,Udaipur,Rajasthan,24.544032,73.682181,Yes,Yes,Yes,No,No,No,Yes,Yes,Poor,Average,Low,Yes,No,Yes,High,28,5770,3.7,9,9,2,Poor,Partial,46.5,Poor,High
+LOC0966,Udaipur Shopping Mall,Mall,Udaipur,Rajasthan,24.648305,73.671262,Yes,No,Yes,Yes,No,No,No,Yes,Average,Average,High,Yes,No,Yes,High,19,18437,2.5,1,10,6,NA,Partial,68.2,Average,Medium
+LOC0967,Patna Central Park,Park,Patna,Bihar,25.669984,85.101893,Yes,No,No,No,Yes,Yes,No,No,Poor,Average,Low,No,No,Yes,Low,7,2658,3.7,1,7,1,NA,Yes,49.3,Poor,High
+LOC0968,Kolkata Bus Stand,Bus Stop,Kolkata,West Bengal,22.693192,88.2264,No,No,No,No,No,No,No,No,Good,Poor,Low,No,Yes,Yes,Medium,6,1858,1.7,6,10,1,NA,No,15.8,Poor,High
+LOC0969,Coimbatore Green Park,Park,Coimbatore,Tamil Nadu,10.942921,77.052828,Yes,No,No,Yes,Yes,No,No,Yes,Good,Poor,Medium,No,Yes,No,Medium,13,2270,2.7,1,23,1,NA,Partial,59.9,Average,Medium
+LOC0970,Patna Heritage Fort,Tourist Attraction,Patna,Bihar,25.460547,85.221422,Yes,No,No,No,No,Yes,No,No,Poor,Good,Low,Yes,Yes,No,Low,17,2836,2.7,2,1,1,NA,Yes,48.4,Poor,High
+LOC0971,Hyderabad City Park,Park,Hyderabad,Telangana,17.49509,78.525318,Yes,No,Yes,Yes,No,Yes,Yes,No,Poor,Poor,High,Yes,Yes,Yes,High,2,2252,2.6,5,17,1,NA,Partial,57.2,Average,Medium
+LOC0972,Thiruvananthapuram Bus Stand,Bus Stop,Thiruvananthapuram,Kerala,8.515605,76.951935,No,No,Yes,Yes,No,Yes,Yes,No,Average,Average,Low,No,Yes,Yes,High,22,779,2,3,7,1,NA,Partial,47.6,Poor,High
+LOC0973,Kanpur City Park,Park,Kanpur,Uttar Pradesh,26.483356,80.26629,Yes,Yes,Yes,Yes,No,No,No,No,Average,Average,Medium,No,Yes,Yes,Low,4,730,3.1,4,11,1,Poor,Partial,67.4,Average,Medium
+LOC0974,Guwahati Bus Stand,Bus Stop,Guwahati,Assam,26.155023,91.884464,No,No,No,No,No,No,No,Yes,Good,Poor,High,No,Yes,Yes,Medium,15,2277,1.5,3,4,1,NA,Partial,42.5,Poor,Medium
+LOC0975,Chennai Museum,Tourist Attraction,Chennai,Tamil Nadu,13.125249,80.183589,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Average,Average,Low,Yes,Yes,Yes,Low,3,1404,3.2,4,11,1,Average,Partial,75.7,Good,Medium
+LOC0976,Mumbai Temple Complex,Tourist Attraction,Mumbai,Maharashtra,18.988057,72.74612,No,No,No,Yes,No,No,No,Yes,Poor,Poor,Medium,No,Yes,No,Low,17,242,2.8,6,14,1,NA,Partial,28.5,Poor,High
+LOC0977,Lucknow Bus Stand,Bus Stop,Lucknow,Uttar Pradesh,26.849915,80.81362,No,No,No,No,No,No,No,No,Average,Poor,Medium,No,Yes,Yes,High,23,2247,1.9,9,18,1,NA,No,9.8,Poor,High
+LOC0978,Udaipur Green Park,Park,Udaipur,Rajasthan,24.447732,73.731309,Yes,Yes,No,No,No,Yes,No,No,Poor,Average,Low,No,No,Yes,Low,4,2957,3.3,0,19,1,Poor,Yes,48,Poor,High
+LOC0979,Thane Airport Terminal,Airport,Thane,Maharashtra,19.326449,72.957706,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Good,Poor,High,Yes,No,Yes,High,42,19742,3.2,1,21,7,Good,Yes,93.6,Excellent,Low
+LOC0980,Thane Junction,Railway Station,Thane,Maharashtra,19.308415,72.917103,Yes,Yes,No,No,No,No,No,No,Average,Average,High,Yes,Yes,Yes,Medium,27,8508,2.8,3,20,1,Good,Partial,66,Average,Low
+LOC0981,Chandigarh Heritage Fort,Tourist Attraction,Chandigarh,Chandigarh,30.785332,76.755361,No,No,No,No,No,No,Yes,Yes,Good,Good,Medium,No,No,Yes,Medium,9,2410,3.3,4,3,1,NA,Partial,56.2,Average,Medium
+LOC0982,Thane Health Centre,Hospital,Thane,Maharashtra,19.172552,73.10183,Yes,Yes,No,No,No,Yes,No,No,Average,Good,High,Yes,Yes,Yes,High,6,603,4.8,1,16,5,Average,Yes,82.2,Good,Low
+LOC0983,Kochi Grand Mall,Mall,Kochi,Kerala,9.996154,76.350591,Yes,No,Yes,No,No,Yes,Yes,Yes,Average,Good,High,Yes,No,No,Medium,44,14214,4.8,2,2,7,NA,Yes,87.5,Good,Low
+LOC0984,Mumbai Medical Center,Hospital,Mumbai,Maharashtra,19.13766,72.752638,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Good,Good,Medium,Yes,No,Yes,Low,26,1853,3.8,1,7,6,Good,Yes,100,Excellent,Low
+LOC0985,Nashik Central Park,Park,Nashik,Maharashtra,19.948679,73.723686,No,No,No,No,No,Yes,No,Yes,Average,Average,Low,No,Yes,Yes,Low,8,2261,1.5,6,15,1,NA,Partial,32.5,Poor,High
+LOC0986,Bengaluru Junction,Railway Station,Bengaluru,Karnataka,12.886663,77.664344,Yes,No,No,Yes,No,No,No,No,Average,Poor,High,Yes,Yes,Yes,Medium,15,15578,2.3,0,16,2,NA,Yes,58.5,Average,Low
+LOC0987,Nagpur Health Centre,Hospital,Nagpur,Maharashtra,21.042993,79.18608,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Average,Good,High,Yes,Yes,No,Medium,12,3761,2.2,2,14,6,Average,No,81.9,Good,Low
+LOC0988,Guwahati Junction,Railway Station,Guwahati,Assam,26.234475,91.727964,No,No,Yes,No,No,No,Yes,No,Good,Good,High,Yes,Yes,Yes,High,31,3539,4.3,7,14,1,NA,Yes,69.2,Average,Medium
+LOC0989,Kochi Green Park,Park,Kochi,Kerala,9.928039,76.329994,No,No,Yes,Yes,Yes,Yes,No,No,Average,Poor,Medium,Yes,No,No,Low,19,1319,2.8,8,21,1,NA,No,41.9,Poor,High
+LOC0990,Ahmedabad Domestic Airport,Airport,Ahmedabad,Gujarat,22.968732,72.577438,Yes,Yes,No,Yes,No,No,Yes,Yes,Average,Average,Medium,Yes,No,Yes,Low,19,11814,3.6,0,2,3,Good,Partial,84.5,Good,Low
+LOC0991,Nagpur Heritage Fort,Tourist Attraction,Nagpur,Maharashtra,21.248104,79.195917,Yes,No,No,No,No,No,No,No,Poor,Average,Medium,Yes,Yes,No,Low,5,1292,2.3,2,8,1,NA,Partial,40.1,Poor,High
+LOC0992,Delhi Railway Station,Railway Station,Delhi,Delhi,28.658462,77.239603,No,Yes,Yes,No,No,No,No,Yes,Average,Good,Medium,Yes,Yes,Yes,Low,18,5624,4,2,23,3,Good,Partial,70,Average,Medium
+LOC0993,Thane Plaza Mall,Mall,Thane,Maharashtra,19.262792,72.90781,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Average,Average,High,Yes,No,Yes,High,20,11829,3.1,5,11,6,Good,Yes,86.6,Good,Medium
+LOC0994,Lucknow Bus Stand,Bus Stop,Lucknow,Uttar Pradesh,26.787359,80.814894,Yes,No,No,No,No,No,No,No,Good,Poor,Low,Yes,Yes,Yes,High,22,920,2.1,5,21,1,NA,No,26.2,Poor,High
+LOC0995,Kochi Domestic Airport,Airport,Kochi,Kerala,10.081187,76.233226,Yes,Yes,Yes,No,Yes,No,No,Yes,Average,Good,High,Yes,Yes,Yes,High,14,6035,3.9,2,22,4,Poor,Partial,78.8,Good,Low
+LOC0996,Ahmedabad City Hospital,Hospital,Ahmedabad,Gujarat,22.886345,72.60167,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Average,Average,High,Yes,Yes,No,Low,23,2715,3,1,9,6,Average,Yes,91.9,Excellent,Low
+LOC0997,Udaipur Tehsil Office,Government Office,Udaipur,Rajasthan,24.495678,73.743891,No,No,No,No,No,Yes,No,No,Average,Poor,Low,Yes,Yes,Yes,Medium,31,3105,2.6,1,10,1,NA,Partial,29.5,Poor,High
+LOC0998,Chandigarh Medical Center,Hospital,Chandigarh,Chandigarh,30.820686,76.894548,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Average,Good,High,Yes,Yes,Yes,High,21,878,3.8,1,8,3,Average,Yes,100,Excellent,Low
+LOC0999,Kanpur Lake View Point,Tourist Attraction,Kanpur,Uttar Pradesh,26.376127,80.303006,No,No,Yes,No,Yes,Yes,Yes,Yes,Average,Good,High,Yes,No,Yes,Low,5,2329,4,1,13,1,NA,No,73.2,Average,Low
+LOC1000,Chandigarh Bus Depot,Bus Stop,Chandigarh,Chandigarh,30.794967,76.827159,No,No,No,Yes,No,No,No,No,Poor,Poor,Medium,No,Yes,No,High,2,2880,3.3,4,8,1,NA,No,17.5,Poor,High

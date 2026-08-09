@@ -1,0 +1,50 @@
+[
+  {
+    "booking_id": "AIQ-BK-962BCA",
+    "username": "siddhdharod",
+    "location_name": "Ahmedabad Airport Terminal",
+    "service_type": "Wheelchair Booking",
+    "slot_id": "W05",
+    "booking_date": "2026-08-05",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "start_datetime": "2026-08-05 09:00:00",
+    "end_datetime": "2026-08-05 10:00:00",
+    "duration_str": "1 Hour",
+    "amount_inr": 50,
+    "status": "Active",
+    "created_at": "2026-08-05 23:19:36"
+  },
+  {
+    "booking_id": "AIQ-BK-297800",
+    "username": "siddhdharod",
+    "location_name": "Ahmedabad Airport Terminal",
+    "service_type": "Wheelchair Booking",
+    "slot_id": "W01",
+    "booking_date": "2026-08-06",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "start_datetime": "2026-08-06 09:00:00",
+    "end_datetime": "2026-08-06 10:00:00",
+    "duration_str": "1 Hour",
+    "amount_inr": 50,
+    "status": "Active",
+    "created_at": "2026-08-06 14:17:50"
+  },
+  {
+    "booking_id": "AIQ-BK-D101DB",
+    "username": "siddhdharod",
+    "location_name": "Ahmedabad Airport Terminal",
+    "service_type": "Wheelchair Booking",
+    "slot_id": "W01",
+    "booking_date": "2026-08-07",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "start_datetime": "2026-08-07 09:00:00",
+    "end_datetime": "2026-08-07 10:00:00",
+    "duration_str": "1 Hour",
+    "amount_inr": 50,
+    "status": "Active",
+    "created_at": "2026-08-07 15:33:41"
+  }
+]

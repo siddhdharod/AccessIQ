@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "USR-D59DA7",
+    "username": "siddhdharod",
+    "email": "siddhdharod@gmail.com",
+    "password_hash": "1a0d3b2e8b48997c6470b6ddf59291f07b5720cbf76945be95fc7537323da8a6",
+    "full_name": "Siddh Dharod",
+    "phone": "8879062991",
+    "created_at": "2026-08-05 23:18:32"
+  },
+  {
+    "user_id": "USR-266625",
+    "username": "siddhdharodd",
+    "email": "s@gmail.com",
+    "password_hash": "1a0d3b2e8b48997c6470b6ddf59291f07b5720cbf76945be95fc7537323da8a6",
+    "full_name": "Siddh Dharod",
+    "phone": "8879062992",
+    "created_at": "2026-08-06 14:14:39"
+  }
+]
